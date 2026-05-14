@@ -1,4 +1,5 @@
 # Questions à poser au cabinet d'avocats
+
 ## Drop & Loot — Questionnaire complet
 
 ---
@@ -7,13 +8,11 @@
 
 **Structure** :
 
-
 - 1 association loi 1901 "Maison Drop & Loot" (propriétaire des actifs)
 
 - 2 auto-entrepreneurs indépendants (Ronan Lenouvel, Johann Bonnay)
 
 **Activité** :
-
 
 - Vente de T-shirts + tirage au sort (jeu concours)
 
@@ -22,7 +21,6 @@
 - Chacun porte alternativement les opérations
 
 **Modèle économique** :
-
 
 - Chacun encaisse et déclare 100% du CA de son opération à l'URSSAF
 
@@ -37,6 +35,7 @@
 ## THÈME 1 — Légalité du modèle GIE + Asso
 
 ### Question 1.1
+
 > "Un GIE composé de 2 auto-entrepreneurs, où chacun encaisse et déclare 100% du CA de ses opérations auprès de
 > l'URSSAF, puis verse le bénéfice net au GIE, qui redistribue à 50/50 (via une asso partenaire détenant les actifs),
 > expose-t-il à un risque de requalification selon l'URSSAF ?"
@@ -49,6 +48,7 @@ confirmation que ce modèle zéro risque.
 ---
 
 ### Question 1.2
+
 > "Quelle est la jurisprudence sur les GIE composés de 2 auto-entrepreneurs avec redistribution de résultats ?"
 
 **Contexte** : Nous voulons savoir s'il y a des précédents montrant que GIE + redistribution = OK légalement.
@@ -58,6 +58,7 @@ confirmation que ce modèle zéro risque.
 ---
 
 ### Question 1.3
+
 > "Quels éléments essentiels doit contenir le contrat de constitution du GIE pour garantir légalité ?"
 
 **Contexte** : Nous voulons documenter correctement la création et fonctionnement du GIE.
@@ -67,6 +68,7 @@ confirmation que ce modèle zéro risque.
 ---
 
 ### Question 1.4
+
 > "La redistribution du GIE vers chaque AE doit-elle être déclarée à l'URSSAF comme revenu supplémentaire ou comme
 > compensation interne ?"
 
@@ -79,10 +81,10 @@ confirmation que ce modèle zéro risque.
 ## THÈME 2 — Statuts et Article 31
 
 ### Question 2.1
+
 > "L'Article 31 proposé (compte courant et redistribution) doit-il être plus détaillé dans les statuts, ou suffit-il de le formaliser dans un règlement intérieur ?"
 
 **Contexte** : Nous avons un Article 31 qui dit :
-
 
 - Chacun verse son bénéfice net
 
@@ -97,6 +99,7 @@ confirmation que ce modèle zéro risque.
 ---
 
 ### Question 2.2
+
 > "Que devient l'asso si le GIE se dissout ? Qu'est-ce qui revient à qui ?"
 
 **Contexte** : L'asso détient la marque, le GIE gère les opérations. Si GIE ferme, l'asso continue.
@@ -106,6 +109,7 @@ confirmation que ce modèle zéro risque.
 ---
 
 ### Question 2.3
+
 > "L'asso doit-elle avoir ses propres statuts détaillés, ou un statut minimal suffit ?"
 
 **Contexte** : L'asso est juste propriétaire de la marque et domaine. Elle ne fait pas de commerce.
@@ -117,10 +121,10 @@ confirmation que ce modèle zéro risque.
 ## THÈME 3 — Contrat de partenariat
 
 ### Question 3.1
+
 > "Quels éléments essentiels doit contenir un contrat de partenariat entre deux auto-entrepreneurs opérant sous une association ?"
 
 **Contexte** : Nous avons besoin d'un contrat qui formalise :
-
 
 - La structure 3 entités
 
@@ -135,6 +139,7 @@ confirmation que ce modèle zéro risque.
 ---
 
 ### Question 3.2
+
 > "Comment gérer la sortie d'un associé du GIE ? Qu'est-ce qu'il reçoit ?"
 
 **Contexte** : Nous voulons prévoir le scénario où l'un veut partir.
@@ -144,6 +149,7 @@ confirmation que ce modèle zéro risque.
 ---
 
 ### Question 3.3
+
 > "Le contrat GIE doit-il stipuler explicitement que les deux AE sont égaux, indépendants et sans relation de
 > subordination ?"
 
@@ -156,6 +162,7 @@ confirmation que ce modèle zéro risque.
 ## THÈME 4 — Règlement jeu concours
 
 ### Question 4.1
+
 > "Quel doit être l'organisateur légal du jeu concours : l'association ou l'auto-entrepreneur qui porte l'opération ?"
 
 **Contexte** : Notre structure : l'asso détient la marque, mais l'AE porte l'opération commerciale.
@@ -165,6 +172,7 @@ confirmation que ce modèle zéro risque.
 ---
 
 ### Question 4.2
+
 > "Peut-on utiliser un seul règlement-cadre pour toutes les opérations (gaming, musique, lifestyle) avec annexes, ou faut-il des règlements distincts ?"
 
 **Contexte** : Nous voulons un template unique réutilisable pour économiser les frais d'avocat.
@@ -174,6 +182,7 @@ confirmation que ce modèle zéro risque.
 ---
 
 ### Question 4.3
+
 > "Quels points du Code de la consommation (L.121-36 et suivants) s'appliquent spécifiquement à notre modèle ?"
 
 **Contexte** : Nous voulons être en conformité totale.
@@ -183,6 +192,7 @@ confirmation que ce modèle zéro risque.
 ---
 
 ### Question 4.4
+
 > "Faut-il un dépôt du règlement chez l'huissier avant chaque opération, ou une seule fois pour le template ?"
 
 **Contexte** : Nous comprenons qu'il faut un dépôt auprès d'un huissier, mais nous ne savons pas la fréquence.
@@ -192,6 +202,7 @@ confirmation que ce modèle zéro risque.
 ---
 
 ### Question 4.5
+
 > "Le tirage au sort doit-il obligatoirement être fait par un huissier, ou existe-t-il des alternatives certifiées reconnues par la loi ?"
 
 **Contexte** : Les huissiers sont chers. Nous cherchons des alternatives.
@@ -201,6 +212,7 @@ confirmation que ce modèle zéro risque.
 ---
 
 ### Question 4.6
+
 > "Quelle doit être la valeur minimum du lot déclaré pour respecter la loi ? Y a-t-il un seuil ?"
 
 **Contexte** : Nous proposons des lots entre 1 500 et 3 000 EUR.
@@ -212,10 +224,10 @@ confirmation que ce modèle zéro risque.
 ## THÈME 5 — Déclarations URSSAF et fiscalité
 
 ### Question 5.1
+
 > "Comment déclarer correctement à l'URSSAF le compte courant et les redistributions sans créer de confusion sur les revenus réels ?"
 
 **Contexte** :
-
 
 - Ronan encaisse 100k Gaming → déclare 100k → verse 42k net à l'asso
 
@@ -228,6 +240,7 @@ confirmation que ce modèle zéro risque.
 ---
 
 ### Question 5.2
+
 > "Les transferts d'argent de l'AE vers l'asso sont-ils documentés comme 'versements de bénéfices' ou ont-ils un autre statut fiscal ?"
 
 **Contexte** : Nous voulons savoir comment justifier ces transferts auprès des autorités fiscales.
@@ -237,6 +250,7 @@ confirmation que ce modèle zéro risque.
 ---
 
 ### Question 5.3
+
 > "Y a-t-il une obligation d'audit ou de comptabilité spécifique pour l'association si elle gère un compte courant entre partenaires ?"
 
 **Contexte** : L'asso a un CA quasi nul (elle ne vend rien), mais elle gère des fonds.
@@ -248,6 +262,7 @@ confirmation que ce modèle zéro risque.
 ## THÈME 6 — RGPD et données clients
 
 ### Question 6.1
+
 > "L'association détient la base clients commune : quelles sont nos obligations RGPD pour cette base partagée entre deux AE ?"
 
 **Contexte** : La base clients est propriété de l'asso, utilisée pour relancer sur différentes opérations.
@@ -257,6 +272,7 @@ confirmation que ce modèle zéro risque.
 ---
 
 ### Question 6.2
+
 > "Doit-on un accord de traitement de données entre l'asso et chaque AE, ou un seul texte couvre-t-il ?"
 
 **Contexte** : Nous voulons clarifier qui est responsable vis-à-vis du RGPD.
@@ -268,6 +284,7 @@ confirmation que ce modèle zéro risque.
 ## THÈME 7 — Spécificités du modèle
 
 ### Question 7.1
+
 > "Peut-on avoir une association loi 1901 avec une activité purement patrimoniale (détention d'actifs) sans but lucratif, même si elle gère des fonds en transit ?"
 
 **Contexte** : L'asso ne vend rien, ne fait aucun commerce, elle gère juste la marque et le compte courant.
@@ -277,6 +294,7 @@ confirmation que ce modèle zéro risque.
 ---
 
 ### Question 7.2
+
 > "Les deux auto-entrepreneurs doivent-ils être adhérents de l'association ou peuvent-ils simplement être des 'licensiés' ?"
 
 **Contexte** : Nous voulons savoir le statut exact dans l'asso (membres, associés, licensiés).
@@ -286,6 +304,7 @@ confirmation que ce modèle zéro risque.
 ---
 
 ### Question 7.3
+
 > "Faut-il une assemblée générale annuelle pour valider le compte courant et la redistribution, ou peut-on avoir une procédure simplifiée ?"
 
 **Contexte** : Nous voulons éviter une bureaucratie excessive.
@@ -294,18 +313,10 @@ confirmation que ce modèle zéro risque.
 
 ---
 
-### Question 7.4
-> "Si un troisième auto-entrepreneur rejoignait le projet, comment le modèle compte courant s'adapterait-il pour rester équitable ?"
-
-**Contexte** : Nous envisageons d'élargir à 3 AE dans le futur.
-
-**Ce qu'on cherche** : Scalabilité du modèle.
-
----
-
 ## THÈME 8 — Responsabilités et risques
 
 ### Question 8.1
+
 > "En cas de réclamation d'un client sur le jeu concours (lot non reçu, etc.), qui est responsable légalement : l'asso, l'AE qui a porté l'opération, ou les deux ?"
 
 **Contexte** : Nous voulons savoir où se situe la responsabilité.
@@ -315,6 +326,7 @@ confirmation que ce modèle zéro risque.
 ---
 
 ### Question 8.2
+
 > "Faut-il une assurance responsabilité civile professionnelle spécifique pour ce modèle ?"
 
 **Contexte** : Nous organisons des jeux concours avec de l'argent en jeu.
@@ -324,6 +336,7 @@ confirmation que ce modèle zéro risque.
 ---
 
 ### Question 8.3
+
 > "Si l'un des auto-entrepreneurs fait faillite personnelle, quelles sont les conséquences pour l'association et l'autre AE ?"
 
 **Contexte** : Nous voulons protéger l'asso et le partenaire.
@@ -335,8 +348,8 @@ confirmation que ce modèle zéro risque.
 ## THÈME 9 — Tarification et livrables attendus
 
 ### Question 9.1
-> "Quel est votre tarif pour :"
 
+> "Quel est votre tarif pour :"
 
 - Rédaction du règlement-cadre jeu concours (une seule fois)
 
@@ -351,6 +364,7 @@ confirmation que ce modèle zéro risque.
 ---
 
 ### Question 9.2
+
 > "Quel est votre tarif pour la validation du modèle économique (1h de consultation) ?"
 
 **Ce qu'on cherche** : Tarif conseil juridique.
@@ -358,6 +372,7 @@ confirmation que ce modèle zéro risque.
 ---
 
 ### Question 9.3
+
 > "Y a-t-il des frais supplémentaires si nous devons modifier le modèle suite à vos recommandations ?"
 
 **Ce qu'on cherche** : Clarification sur les coûts additionnels.
@@ -367,6 +382,7 @@ confirmation que ce modèle zéro risque.
 ## THÈME 10 — Planning et livrables
 
 ### Question 10.1
+
 > "Quel délai pour remettre le règlement-cadre signé ?"
 
 **Contexte** : Nous voulons lancer en Sem 6. Nous sommes en Sem 0.
@@ -376,6 +392,7 @@ confirmation que ce modèle zéro risque.
 ---
 
 ### Question 10.2
+
 > "Livrez-vous les statuts modifiés en Word pour que nous puissions les imprimer et signer ?"
 
 **Ce qu'on cherche** : Format des livrables.
@@ -383,6 +400,7 @@ confirmation que ce modèle zéro risque.
 ---
 
 ### Question 10.3
+
 > "Avez-vous des modèles de contrat de partenariat que vous utilisez habituellement pour ce type de structure ?"
 
 **Ce qu'on cherche** : Utilisation d'un template existant vs. création custom.
@@ -394,8 +412,7 @@ confirmation que ce modèle zéro risque.
 **Ne pas envoyer TOUTES les questions** — trop lourd. Envoyer plutôt :
 
 1. Le courrier existant (05_COURRIER_AVOCAT.md)
-2. + Une version courte de ce document avec :
-
+2. - Une version courte de ce document avec :
 
    - Thèmes 1, 2, 4, 5 (essentiels)
 
