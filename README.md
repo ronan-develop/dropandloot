@@ -9,12 +9,12 @@
 
 | #      | Fichier                             | Taille   | Usage                                           | Qui ?             |
 |--------|-------------------------------------|----------|-------------------------------------------------|-------------------|
-| **00** | `00_STRUCTURE_COMPLETE.md`          | 19K      | 📖 **Vue d'ensemble complète** — tout en un      | Ronan + Johann    |
-| **01** | `01_STATUTS_Maison_DropLoot.md`     | 18K      | ✍️ **À signer** — statuts loi 1901              | Ronan + Johann    |
-| **02** | `02_SYNTHESE_MASTER.md`             | 8,7K     | 🎯 **Référence rapide** — noms, budget, timeline | Ronan + Johann    |
-| **03** | `03_PRESENTATION_RONAN_Gaming.md`   | 11K      | 🎮 **Ton rôle détaillé** — Gaming + President    | Ronan             |
-| **04** | `04_PRESENTATION_JOHANN_Musique.md` | 11K      | 🎸 **Ton rôle détaillé** — Musique + Trésorier   | Johann            |
-| **05** | `05_COURRIER_AVOCAT.md`             | 2,7K     | 📧 **À envoyer** — demande template règlement    | Ronan (Président) |
+| **00** | `business/00_STRUCTURE_COMPLETE.md` | 26K      | 📖 **Vue d'ensemble complète** — tout en un      | Ronan + Johann    |
+| **01** | `business/01_STATUTS_Maison_DropLoot.md` | 20K | ✍️ **À signer** — statuts loi 1901              | Ronan + Johann    |
+| **02** | `business/02_SYNTHESE_MASTER.md`    | 18K      | 🎯 **Référence rapide** — noms, budget, timeline | Ronan + Johann    |
+| **03** | `business/03_PRESENTATION_RONAN.md` | 8,6K     | 🎯 **Ton rôle détaillé** — Président + AE A      | Ronan             |
+| **04** | `business/04_PRESENTATION_JOHANN.md` | 8,6K    | 🎯 **Ton rôle détaillé** — Trésorier + AE B      | Johann            |
+| **05** | `business/05_COURRIER_AVOCAT.md`    | 3,7K     | 📧 **À envoyer** — demande template règlement    | Ronan (Président) |
 
 ---
 
