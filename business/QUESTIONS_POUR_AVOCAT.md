@@ -34,41 +34,45 @@
 
 ---
 
-## THÈME 1 — Légalité du modèle économique
+## THÈME 1 — Légalité du modèle GIE + Asso
 
 ### Question 1.1
-> "Deux auto-entrepreneurs qui encaissent et déclarent 100% du CA de leurs opérations respectives, puis versent le bénéfice net à une association qui gère un compte courant pour redistribuer à 50/50, expose-t-il à un risque de requalification en 'société de fait' selon l'URSSAF ?"
+> "Un GIE composé de 2 auto-entrepreneurs, où chacun encaisse et déclare 100% du CA de ses opérations auprès de
+> l'URSSAF, puis verse le bénéfice net au GIE, qui redistribue à 50/50 (via une asso partenaire détenant les actifs),
+> expose-t-il à un risque de requalification selon l'URSSAF ?"
 
-**Contexte** : Nous avons lu que l'URSSAF requalifie en "société de fait" si deux AE se partagent les bénéfices. Mais notre modèle passe par l'association comme tierce partie.
+**Contexte** : Le Code Commerce (L.211-1+) explicitement autorise le GIE pour collaboration d'indépendants. Nous voulons
+confirmation que ce modèle zéro risque.
 
-**Ce qu'on cherche** : Confirmation que c'est légal, ou si besoin de protections supplémentaires.
+**Ce qu'on cherche** : Confirmation légale explicite que GIE = structure sûre pour 2 AE avec redistribution.
 
 ---
 
 ### Question 1.2
-> "Quelle est la jurisprudence récente sur le compte courant entre auto-entrepreneurs géré par une association ?"
+> "Quelle est la jurisprudence sur les GIE composés de 2 auto-entrepreneurs avec redistribution de résultats ?"
 
-**Contexte** : Nous voulons savoir s'il y a des précédents ou des décisions URSSAF sur ce modèle.
+**Contexte** : Nous voulons savoir s'il y a des précédents montrant que GIE + redistribution = OK légalement.
 
-**Ce qu'on cherche** : Exemples de structures similaires validées légalement.
+**Ce qu'on cherche** : Jurisprudence ou décisions URSSAF validant ce modèle.
 
 ---
 
 ### Question 1.3
-> "Faut-il un contrat écrit de partenariat entre les deux auto-entrepreneurs pour formaliser le compte courant ?"
+> "Quels éléments essentiels doit contenir le contrat de constitution du GIE pour garantir légalité ?"
 
-**Contexte** : Nous voulons protéger la structure légalement.
+**Contexte** : Nous voulons documenter correctement la création et fonctionnement du GIE.
 
-**Ce qu'on cherche** : Oui/non + détails sur ce que doit contenir ce contrat.
+**Ce qu'on cherche** : Clauses obligatoires + recommandées pour statuts GIE.
 
 ---
 
 ### Question 1.4
-> "Le versement du bénéfice net par l'auto-entrepreneur à l'association est-il considéré comme un 'revenu supplémentaire' pour l'autre auto-entrepreneur, ou est-ce une redistribution interne ?"
+> "La redistribution du GIE vers chaque AE doit-elle être déclarée à l'URSSAF comme revenu supplémentaire ou comme
+> compensation interne ?"
 
-**Contexte** : Nous voulons savoir si l'autre AE doit déclarer quelque chose quand il reçoit sa part du compte courant.
+**Contexte** : Nous voulons savoir le traitement fiscal exact de la redistribution du GIE.
 
-**Ce qu'on cherche** : Comment déclarer ces redistributions à l'URSSAF.
+**Ce qu'on cherche** : Procédure de déclaration URSSAF + traitement fiscal des redistributions.
 
 ---
 
@@ -93,20 +97,20 @@
 ---
 
 ### Question 2.2
-> "Doit-on ajouter une clause de dissolution précisant comment les fonds du compte courant seront traités si l'association se dissout ?"
+> "Que devient l'asso si le GIE se dissout ? Qu'est-ce qui revient à qui ?"
 
-**Contexte** : Nous avons une clause de dévolution, mais elle ne parle pas du compte courant.
+**Contexte** : L'asso détient la marque, le GIE gère les opérations. Si GIE ferme, l'asso continue.
 
-**Ce qu'on cherche** : Comment protéger les auto-entrepreneurs en cas de dissolution.
+**Ce qu'on cherche** : Clarification légale sur la séparation des patrimoines.
 
 ---
 
 ### Question 2.3
-> "Les statuts doivent-ils préciser que l'association n'est pas une structure de partage de bénéfices (pas une SNC ou Sarl déguisée) ?"
+> "L'asso doit-elle avoir ses propres statuts détaillés, ou un statut minimal suffit ?"
 
-**Contexte** : Nous voulons clarifier explicitement que l'association gère juste les actifs + compte courant.
+**Contexte** : L'asso est juste propriétaire de la marque et domaine. Elle ne fait pas de commerce.
 
-**Ce qu'on cherche** : Formulation légale appropriée.
+**Ce qu'on cherche** : Contenu minimal des statuts Asso loi 1901.
 
 ---
 
@@ -131,20 +135,21 @@
 ---
 
 ### Question 3.2
-> "Doit-on prévoir dans le contrat une clause de sortie (si un AE veut arrêter) et comment traiter le compte courant ?"
+> "Comment gérer la sortie d'un associé du GIE ? Qu'est-ce qu'il reçoit ?"
 
 **Contexte** : Nous voulons prévoir le scénario où l'un veut partir.
 
-**Ce qu'on cherche** : Modalités de sortie + calcul définitif du compte courant.
+**Ce qu'on cherche** : Modalités de sortie + calcul définitif de la part de chacun.
 
 ---
 
 ### Question 3.3
-> "Le contrat doit-il stipuler explicitement que les deux AE sont égaux, indépendants et sans relation de subordination ?"
+> "Le contrat GIE doit-il stipuler explicitement que les deux AE sont égaux, indépendants et sans relation de
+> subordination ?"
 
-**Contexte** : Nous voulons éviter toute requalification en salariat ou partenariat hiérarchique.
+**Contexte** : Nous voulons éviter toute requalification en salariat.
 
-**Ce qu'on cherche** : Formulation légale pour protéger l'indépendance.
+**Ce qu'on cherche** : Formulation légale pour protéger l'indépendance des deux associés.
 
 ---
 

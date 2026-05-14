@@ -1,32 +1,32 @@
-# 📌 À LIRE D'ABORD — Drop & Loot (Modèle finalisé)
+# 📌 À LIRE D'ABORD — Drop & Loot (Modèle GIE + Asso)
 
-## ✅ Modèle juridiquement sûr appliqué
+## ✅ Modèle juridiquement sûr et optimal
 
-**Compte courant géré par l'association** = solution légale pour partage 50/50
+**GIE + Asso** = solution explicitement légale URSSAF pour collaboration équitable
 
 ---
 
 ## 🎯 Le modèle en 30 secondes
 
 ```txt
-Opération Gaming (Ronan porte) : 100k CA
-├─ Ronan déclare 100% à l'URSSAF
-├─ Ronan paie charges + cotisations
-└─ Ronan verse bénéfice net 42k à l'asso
+┌─ Asso "Maison Drop & Loot" (propriétaire)
+│  ├─ Marque INPI
+│  ├─ Domaine dropandloot.fr
+│  └─ Réseaux sociaux
+│
+└─ GIE "Drop & Loot" (opérations)
+   ├─ Ronan (AE A) — Associé
+   ├─ Johann (AE B) — Associé
+   └─ Gère opérations + redistribution 50/50
+```
 
-Opération Musique (Johann porte) : 60k CA
-├─ Johann déclare 100% à l'URSSAF
-├─ Johann paie charges + cotisations
-└─ Johann verse bénéfice net 25k à l'asso
+**Flux simplifié** :
+1. Ronan encaisse CA → déclare 100% URSSAF → verse bénéfice au GIE
+2. Johann encaisse CA → déclare 100% URSSAF → verse bénéfice au GIE
+3. GIE redistribue pour égaliser 50/50
+4. Asso garde propriété intellectuelle
 
-Asso gère compte courant :
-├─ Reçoit 42k + 25k = 67k
-├─ Calcule équilibre : 42k vs 25k = 17k d'écart
-├─ Transfère compensation pour 50/50
-└─ Résultat : Ronan 33,5k + Johann 33,5k
-```text
-
-**Légalité** : ✅ Pas de "société de fait" (chacun déclare 100% du CA réel)
+**Légalité** : ✅ Code Commerce L.211-1+ (GIE = explicitement légal, zéro risque URSSAF)
 
 ---
 

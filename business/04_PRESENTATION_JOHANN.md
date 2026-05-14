@@ -6,11 +6,16 @@
 
 ## En 30 secondes
 
-On crée un système pour faire des concours à T-shirts avec tirages au sort dans diverses niches. La marque **Drop & Loot** est commune, détenue par l'association "Maison Drop & Loot".
+On crée un système pour faire des concours à T-shirts avec tirages au sort dans diverses niches. La marque
+**Drop & Loot** est commune, détenue par l'association "Maison Drop & Loot".
 
-Tu (Johann) et Ronan êtes deux auto-entrepreneurs **égaux et libres**, qui portez les opérations à tour de rôle. Chacun encaisse et déclare **100% du CA de son opération** à l'URSSAF. À la fin, vous versez vos bénéfices nets à l'asso, qui gère un **compte courant pour équilibrer vos contributions à 50/50**.
+Tu (Johann) et Ronan êtes deux auto-entrepreneurs **égaux et libres**, associés dans un
+**GIE (Groupement d'Intérêt Économique)**. Vous portez les opérations à tour de rôle. Chacun encaisse et
+déclare **100% du CA de son opération** à l'URSSAF. Le GIE gère la redistribution pour équilibrer vos
+contributions à **50/50 final**.
 
-**Résultat** : ~33 500 EUR net par personne si 2 opérations réussies (Gaming 100k + Musique 60k). Zéro risque URSSAF. Zéro hiérarchie.
+**Résultat** : ~33 500 EUR net par personne si 2 opérations réussies (Gaming 100k + Musique 60k). Zéro risque
+URSSAF. Zéro hiérarchie. Structure légale explicite (Code Commerce L.211-1+).
 
 ---
 
@@ -18,49 +23,44 @@ Tu (Johann) et Ronan êtes deux auto-entrepreneurs **égaux et libres**, qui por
 
 ### Entité 1 : Association loi 1901 "Maison Drop & Loot"
 
-**Rôle** : Propriétaire neutre des actifs + gère le compte courant
+**Rôle** : Propriétaire des actifs intellectuels et patrimoniaux
 
 Ce qu'elle détient :
 
 - ✅ Marque **Drop & Loot** (INPI)
-
 - ✅ Domaine (<www.dropandloot.fr>)
-
 - ✅ Réseaux sociaux
-
 - ✅ Base clients
+- ✅ Logo et assets graphiques
 
-Ce qu'elle gère :
+Ce qu'elle fait :
 
-- ✅ Compte courant entre les deux AE
-
-- ✅ Redistribution équitable des bénéfices
-
-- ✅ Versements/paiements entre AE et asso
+- ✅ Protège la propriété intellectuelle
+- ✅ Signe contrat de partenariat avec le GIE
+- ✅ Met à disposition ses actifs via licence
+- ✅ Peut organiser événements, sponsorings
 
 ### Entité 2 : Auto-Entrepreneur A (Ronan)
 
 **Activité** : Vente marchandises — Code APE 47.91B
 **Platefond** : 203 100 EUR/an
 **Cotisations URSSAF** : 12,3% du CA
+**Statut** : Associé du GIE "Drop & Loot"
 
 **Ce qu'il fait** :
 
 - Porte les opérations qu'il choisit (ou alternance avec toi)
-
 - Encaisse et déclare **100% du CA de ses opérations** à l'URSSAF
-
 - Paie ses charges et cotisations
-
-- Verse le bénéfice net à l'asso
-
-- Reçoit sa redistribution du compte courant
+- Verse le bénéfice net au GIE
+- Reçoit sa redistribution du GIE
 
 ### Entité 3 : Auto-Entrepreneur B (Toi — Johann)
 
 **Activité** : Vente marchandises — Code APE 47.91B
 **Platefond** : 203 100 EUR/an
 **Cotisations URSSAF** : 12,3% du CA
+**Statut** : Associé du GIE "Drop & Loot"
 
 **Ce que tu fais** : Même que Ronan (alternance)
 
@@ -85,17 +85,17 @@ Ce qu'elle gère :
    ├─ Impôt estimé : 5 220 EUR
    └─ Reste sur ton compte : 25 000 EUR
 
-4. VERSEMENT À L'ASSO
-   Tu transfères 25 000 EUR à l'asso
-   (c'est ton bénéfice net)
+4. VERSEMENT AU GIE
+   Tu transfères 25 000 EUR au GIE
+   (c'est ton bénéfice net apporté au GIE)
 
-5. ASSO GÈRE LE COMPTE COURANT
-   Asso enregistre : Johann a apporté 25 000 EUR
-```text
+5. GIE ENREGISTRE
+   GIE enregistre : Johann a apporté 25 000 EUR
+```
 
 ### Ronan porte Opération Gaming (100 000 EUR CA)
 
-```text
+```txt
 1. ENCAISSEMENT
    Clients achètent → 100 000 EUR arrivent sur compte Stripe Ronan
 
@@ -106,19 +106,19 @@ Ce qu'elle gère :
    Charges + cotisations + impôt : 58 000 EUR
    Reste : 42 000 EUR
 
-4. VERSEMENT À L'ASSO
-   Ronan transfère 42 000 EUR à l'asso
+4. VERSEMENT AU GIE
+   Ronan transfère 42 000 EUR au GIE
 
-5. ASSO GÈRE LE COMPTE COURANT
-   Asso enregistre : Ronan a apporté 42 000 EUR
-```text
+5. GIE ENREGISTRE
+   GIE enregistre : Ronan a apporté 42 000 EUR
+```
 
-### L'asso équilibre via compte courant
+### Le GIE redistribue équitablement
 
-```text
-Total reçu par l'asso : 42 000 + 25 000 = 67 000 EUR
+```txt
+Total reçu par le GIE : 42 000 + 25 000 = 67 000 EUR
 
-Compte courant :
+Bilan des apports :
 ├─ Ronan : 42 000 EUR
 ├─ Toi (Johann) : 25 000 EUR
 └─ Différence : 42 000 - 25 000 = 17 000 EUR
@@ -126,7 +126,7 @@ Compte courant :
 Redistribution pour 50/50 :
 ├─ Ronan reçoit : 42 000 - 8 500 = 33 500 EUR
 └─ Tu reçois : 25 000 + 8 500 = 33 500 EUR
-```text
+```
 
 ---
 
@@ -144,14 +144,14 @@ Redistribution pour 50/50 :
 | **Bénéfice net**           | **25 000 EUR** |
 | **Tu verses à l'asso**     | **25 000 EUR** |
 
-### Après redistribution du compte courant
+### Après redistribution du GIE
 
 | Élément                     | Montant        |
 |-----------------------------|----------------|
 | Tu as apporté (Op Musique)  | 25 000 EUR     |
 | Ronan a apporté (Op Gaming) | 42 000 EUR     |
-| Total asso                  | 67 000 EUR     |
-| Compte courant te doit      | +8 500 EUR     |
+| Total GIE                   | 67 000 EUR     |
+| GIE te paie en redistribution | +8 500 EUR     |
 | **Tu reçois finalement**    | **33 500 EUR** |
 
 ### Si 3 opérations (Gaming + Musique + Lifestyle)
@@ -182,10 +182,11 @@ Compte courant final :
 
 ✅ **Tu déclares 100% du CA réel** → zéro fraude URSSAF
 ✅ **Tu payes tes cotisations correctement** → 12,3% du CA
-✅ **Tu verses à l'asso** → transfert légitime
-✅ **L'asso redistribue** → c'est son droit légal
-✅ **Pas de "société de fait"** → ce n'est pas un partage entre AE, c'est via l'asso
-✅ **Trace documentée** → versements + compte courant = transparent
+✅ **Tu verses au GIE** → apport légal aux associés
+✅ **Le GIE redistribue** → explicitement autorisé (Code Commerce L.211-1+)
+✅ **Statut AE conservé** → zéro requalification en salariat
+✅ **Zéro "société de fait"** → GIE = structure légale explicite
+✅ **Trace documentée** → versements bancaires + contrat GIE = transparent
 
 ---
 
@@ -230,23 +231,24 @@ Le compte courant s'ajuste automatiquement pour le 50/50 final.
 | **Stripe Johann**       | Encaisses CA des opérations que tu portes |
 | **Compte bancaire pro** | Tu payes les charges de ton opération     |
 
-### Transfert à l'asso
+### Transfert au GIE
 
 À la fin de chaque opération :
 
 1. Tu as X EUR de bénéfice net sur ton compte
-2. Tu transfères X EUR à l'asso
-3. L'asso enregistre dans le compte courant
+2. Tu transfères X EUR au GIE
+3. Le GIE enregistre ton apport et gère la redistribution
 
 ---
 
 ## Documents pour cette structure
 
-| Document                  | Contenu                     |
-|---------------------------|-----------------------------|
-| **01_STATUTS**            | Article 31 = compte courant |
-| **Contrat partenariat**   | Formalise le système 50/50  |
-| **Modèle compte courant** | Explique le flux complet    |
+| Document                    | Contenu                                        |
+|-----------------------------|------------------------------------------------|
+| **01_STATUTS** (Asso)       | Rôles Président/Trésorier, propriété actifs    |
+| **Contrat GIE**             | Associés, apports, redistribution, sortie      |
+| **Contrat partenariat**     | Mise à disposition marque Asso → GIE           |
+| **MODELE_GIE_ASS.md**       | Explication architecture GIE + Asso            |
 
 ---
 
@@ -255,18 +257,19 @@ Le compte courant s'ajuste automatiquement pour le 50/50 final.
 ### Engagement contractuel
 
 ✅ Inscription URSSAF (AE B)
-✅ Compte bancaire + Stripe
-✅ Signature des statuts
-✅ Rôle de Trésorier (administratif)
+✅ Compte bancaire + Stripe personnel
+✅ Signature statuts Asso (Trésorier)
+✅ Signature contrat GIE (Associé)
 ✅ Portage des opérations
 ✅ Déclaration CA honnête à l'URSSAF
-✅ Versement du bénéfice net à l'asso
+✅ Versement du bénéfice net au GIE
 
 ### Ce que tu ne fais PAS
 
 ❌ Aucun lien de subordination avec Ronan
 ❌ Aucune facturation mutuelle
-❌ Aucun transfert direct à Ronan (tout passe par l'asso)
+❌ Aucun transfert direct à Ronan (tout passe par le GIE)
+❌ Aucune gestion financière du GIE (apports/redistribution seulement)
 
 ---
 
@@ -275,17 +278,22 @@ Le compte courant s'ajuste automatiquement pour le 50/50 final.
 **Q : Je dois vraiment déclarer 100% du CA à l'URSSAF ?**
 R : Oui, c'est obligatoire et c'est pour ça que c'est légal. Pas de fraude = pas de risque.
 
-**Q : Et si je ne veux pas verser à l'asso ?**
-R : Alors tu fais juste ta part. Mais le partage 50/50 se fait uniquement via l'asso.
+**Q : Et si je ne veux pas verser au GIE ?**
+R : Alors tu fais juste ta part en AE indépendant. Mais la redistribution 50/50 se fait uniquement via le GIE.
 
-**Q : L'asso prend une commission ?**
-R : Non. L'asso est neutre, elle redistribue 100% du compte courant.
+**Q : Le GIE prend une commission ?**
+R : Non. Le GIE est juste une structure de partage légal. Il redistribue 100% des apports.
 
 **Q : Que se passe-t-il si je me sépare de Ronan ?**
-R : L'asso reste. Tu peux arrêter à tout moment. Le dernier versement au compte courant est final.
+R : Le GIE se dissout. L'asso reste et garde la marque/domaine (protégée). Chacun récupère sa part finale du GIE.
 
-**Q : Comment on prouve le compte courant à l'URSSAF ?**
-R : Via les versements bancaires (traces) + les décisions AG formalisées. L'URSSAF verra 100% du CA déclaré = zéro problème.
+**Q : Comment on prouve les apports/redistributions à l'URSSAF ?**
+R : Via les versements bancaires (traces GIE) + contrat GIE + comptabilité. L'URSSAF verra 100% du CA déclaré = zéro
+problème.
+
+**Q : Pourquoi GIE et pas une Sarl ?**
+R : Le GIE te laisse statut AE (charges identiques 12,3%), contrairement à Sarl (TNS = 45% charges). GIE = optimum légal
+pour 2 AE.
 
 ---
 
