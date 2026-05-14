@@ -17,6 +17,23 @@ Workflow obligatoire :
 2. Si `main` → `git checkout -b <type>/<nom-explicite>` avant de continuer
 3. Commits sur la branche → PR → merge
 
+### ⛔ Contenu autorisé sur main
+
+**Seule la documentation peut être sur `main`** :
+
+- Fichiers Markdown (`.md`) dans `/business/` — statuts, budgets, stratégie, présentation
+- Documentation de configuration dans `/.claude/` — conventions, checklists
+- Fichiers de configuration (`CLAUDE.md`, `README.md`, `.gitignore`)
+
+**INTERDIT sur `main`** :
+
+- Code (Python, JavaScript, HTML, CSS, etc.)
+- Dépendances (requirements.txt, package.json, etc.)
+- Configuration de déploiement ou secrets
+- Tout fichier non-documentation
+
+Pour du code ou des dépendances : créer une branche `dev/` ou `feature/` et valider avec le user avant merge.
+
 ### Commits
 
 - Format obligatoire : `<emoji> <type>(<scope>): <description>` — voir `.claude/CONVENTION_DE_COMMIT.md`
