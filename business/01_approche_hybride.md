@@ -1,12 +1,13 @@
 # 01 — Approche Hybrid Gaming
 
-**Drop & Loot — Stratégie de confiance pour la communauté gaming**
+## Drop & Loot — Stratégie de confiance pour la communauté gaming
 
 ---
 
 ## 📌 Contexte
 
-La communauté gaming est particulièrement sensible aux arnaques de giveaways (scams, non-livraisons, data leaks). Drop & Loot doit structurellement prouver son sérieux pour atteindre taux de participation.
+La communauté gaming est particulièrement sensible aux arnaques de giveaways (scams, non-livraisons, data leaks).
+Drop & Loot doit structurellement prouver son sérieux pour atteindre un taux de participation élevé.
 
 ### Obstacles critiques identifiés
 
@@ -35,6 +36,7 @@ La communauté gaming est particulièrement sensible aux arnaques de giveaways (
 **Accès:** Inscription gratuite, aucune barrière
 
 **Droits:**
+
 - 👀 Voir les opérations en cours
 - 🎬 Regarder unboxing certifié (Ronan/Johann)
 - 💬 Poser questions au support (< 24h)
@@ -56,31 +58,36 @@ La communauté gaming est particulièrement sensible aux arnaques de giveaways (
 **Accès:** Paiement unique par opération (5-20€ selon lot)
 
 **Droits:**
+
 - ✅ Participation au tirage au sort
 - 📊 Voir ton "nombre" dans le tirage public (transparence)
 - 🎫 Badge temporaire "Participant Opération #X" (visible pendant l'opération)
 - 💬 Support réactif (< 2h)
 
-**Important:** 
+**Important:**
+
 - Chaque opération = nouvelle décision (pas d'abonnement)
 - Pas de paie = tu suis juste (reste en Tier 0)
 - Liste des participants comptabilisée par Tier 2
 
-**Conformité légal:** ✅ L.121-36 — "cotisation pour accès au tirage" est légal si transparent (analogue: acheter un tshirt pour participer)
+**Conformité légal:** ✅ L.121-36 — "cotisation pour accès au tirage" est légal si transparent
+(analogue: acheter un tshirt pour participer)
 
 ---
 
 ### **Tier 2 — Compteurs/Modérateurs**
 
-**Accès:** Sélection par Ronan (cooptation)
+**Accès:** Sélection par Ronan ou Johann (cooptation)
 
 **Rôle administratif:**
+
 - 🔢 Comptabiliser les participants (validation paiements)
 - 📋 Verifier traçabilité (tous les cotisants sont listés)
 - 🎯 Assurer transparence du tirage
 - ⚖️ Témoins du tirage (procès-verbal + vidéo)
 
 **Avantages:**
+
 - 🎖️ Badge permanent "Compteur Drop & Loot"
 - 🎁 Participation gratuite aux opérations (tu les invites)
 - 🎲 Double chance si tu choisis de participer (optionnel)
@@ -93,7 +100,7 @@ La communauté gaming est particulièrement sensible aux arnaques de giveaways (
 
 ### **Phase 1: Préparation (Jour 1-2)**
 
-```
+```txt
 1. Sélectionner partenaire enseigne
    └─ Valider: intérêt pour partenariat, livraison possible
 
@@ -121,7 +128,7 @@ La communauté gaming est particulièrement sensible aux arnaques de giveaways (
 
 ### **Phase 2: Annonce & Ouverture Cotisation (Jour 3)**
 
-```
+```txt
 Post Discord: 📢 Opération #1 — Gaming Edition
 ├─ Titre accrocheur + emoji
 ├─ Lot exact avec vidéo unboxing (Ronan/Johann)
@@ -144,7 +151,7 @@ Processus paiement:
 
 ### **Phase 3: Tirage (Jour 7)**
 
-```
+```txt
 Tirage certifié:
 ├─ SI lot < 5 000€:
 │  ├─ Tirage vidéo en direct (Discord ou YouTube live)
@@ -166,7 +173,7 @@ Annonce du gagnant:
 
 ### **Phase 4: Livraison & Preuve (Jour 8-14)**
 
-```
+```txt
 Processus:
 1. Gagnant contacté (privé)
    ├─ Confirmation: il accepte le lot
@@ -197,18 +204,18 @@ Processus:
 
 ### **Par opération** (exemple type: 300 cotisants × 10€)
 
-| Item | Montant | Détail |
-|------|---------|--------|
-| **REVENU** | | |
-| Cotisations Tier 1 | 3 000€ | 300 × 10€ |
-| | | |
-| **COÛTS** | | |
-| Lot (coût d'achat) | (1 200€) | Acheté chez partenaire |
-| Frais opérationnel | (200€) | Support, modération, outils |
-| Tirage certifié | (0-150€) | Huissier si lot ≥ 5k€ |
-| RGPD/Archivage | (50€) | Stockage sécurisé 10 ans |
-| | | |
-| **= MARGE NETTE** | **1 400-1 550€** | Revenu Drop & Loot |
+| Item               | Montant          | Détail                      |
+|--------------------|------------------|-----------------------------|
+| **REVENU**         |                  |                             |
+| Cotisations Tier 1 | 3 000€           | 300 × 10€                   |
+|                    |                  |                             |
+| **COÛTS**          |                  |                             |
+| Lot (coût d'achat) | (1 200€)         | Acheté chez partenaire      |
+| Frais opérationnel | (200€)           | Support, modération, outils |
+| Tirage certifié    | (0-150€)         | Huissier si lot ≥ 5k€       |
+| RGPD/Archivage     | (50€)            | Stockage sécurisé 10 ans    |
+|                    |                  |                             |
+| **= MARGE NETTE**  | **1 400-1 550€** | Revenu Drop & Loot          |
 
 ### **Partenaire enseigne — son intérêt**
 
@@ -232,12 +239,12 @@ Processus:
 
 ### **Cadre légal applicabe**
 
-| Article | Titre | Compliance |
-|---------|-------|-----------|
-| **L.121-36** | Jeux concours & tirages | ✅ Fondation légale (pas trompeur) |
-| **L.120-1** | Pratiques commerciales déloyales | ✅ Transparence totale |
-| **L.111-1+** | Information consommateur | ✅ Règlement clair + public |
-| **Articles R.122-1+** | Décrets d'application | ✅ Procédures documentées |
+| Article               | Titre                            | Compliance                         |
+|-----------------------|----------------------------------|------------------------------------|
+| **L.121-36**          | Jeux concours & tirages          | ✅ Fondation légale (pas trompeur) |
+| **L.120-1**           | Pratiques commerciales déloyales | ✅ Transparence totale             |
+| **L.111-1+**          | Information consommateur         | ✅ Règlement clair + public        |
+| **Articles R.122-1+** | Décrets d'application            | ✅ Procédures documentées          |
 
 ### **Checklist conformité**
 
@@ -309,44 +316,44 @@ Processus:
 
 ### **Metrics par opération**
 
-| Métrique | Target | Récurrence |
-|----------|--------|-----------|
-| **Taux participation** | +5-10% vs opération précédente | Post-opération |
-| **Trust score** | Sondage: "Vous avez confiance?" | Post-opération |
-| **NPS** | > 50 (gagnant + spectateurs) | Post-opération |
-| **Satisfaction livraison** | > 95% | Post-opération |
-| **Support réactivité** | < 24h réponse | Pendant opération |
-| **Cas non résolus** | 0 | Post-opération |
-| **Gagnants publient feedback** | Objectif 100% optionnel encouragement | Post-opération |
+| Métrique                       | Target                                | Récurrence        |
+|--------------------------------|---------------------------------------|-------------------|
+| **Taux participation**         | +5-10% vs opération précédente        | Post-opération    |
+| **Trust score**                | Sondage: "Vous avez confiance?"       | Post-opération    |
+| **NPS**                        | > 50 (gagnant + spectateurs)          | Post-opération    |
+| **Satisfaction livraison**     | > 95%                                 | Post-opération    |
+| **Support réactivité**         | < 24h réponse                         | Pendant opération |
+| **Cas non résolus**            | 0                                     | Post-opération    |
+| **Gagnants publient feedback** | Objectif 100% optionnel encouragement | Post-opération    |
 
 ### **Metrics cumulées (long-term)**
 
-| Métrique | But | Timeline |
-|----------|-----|----------|
-| **Portfolio de preuves** | 10+ opérations réussies | 6-12 mois |
-| **Réputation gaming** | Reconnu comme sérieux | 6-12 mois |
-| **Discord croissance** | 5k→10k→25k members | 12+ mois |
-| **Revenue scaling** | 3 ops/mois = 4.5k€ revenu/mois | 6+ mois |
-| **Partenaires diversifiés** | 5+ enseignes partenaires | 12+ mois |
+| Métrique                    | But                            | Timeline  |
+|-----------------------------|--------------------------------|-----------|
+| **Portfolio de preuves**    | 10+ opérations réussies        | 6-12 mois |
+| **Réputation gaming**       | Reconnu comme sérieux          | 6-12 mois |
+| **Discord croissance**      | 5k→10k→25k members             | 12+ mois  |
+| **Revenue scaling**         | 3 ops/mois = 4.5k€ revenu/mois | 6+ mois   |
+| **Partenaires diversifiés** | 5+ enseignes partenaires       | 12+ mois  |
 
 ---
 
 ## 🚨 Risques & Mitigation
 
-| Risque | Impact | Mitigation |
-|--------|--------|-----------|
-| **Gagnant non satisfait** | Crédibilité atteinte | Livraison via partenaire certifié |
-| **Tirage contesté** | Léger impact | Vidéo + témoins Tier 2 |
-| **Lot non disponible** | Critique | Vérifier stock partenaire JJ-2 |
-| **RGPD violation** | Légal + réputation | Suppression 30j post-opération |
-| **Non-conformité légale** | Amende DGCCRF jusqu'à 150k€ | Template huissier + avocat |
-| **Participants frauduleux** | Perte revenue | Vérification paiement avant badge |
+| Risque                      | Impact                      | Mitigation                        |
+|-----------------------------|-----------------------------|-----------------------------------|
+| **Gagnant non satisfait**   | Crédibilité atteinte        | Livraison via partenaire certifié |
+| **Tirage contesté**         | Léger impact                | Vidéo + témoins Tier 2            |
+| **Lot non disponible**      | Critique                    | Vérifier stock partenaire JJ-2    |
+| **RGPD violation**          | Légal + réputation          | Suppression 30j post-opération    |
+| **Non-conformité légale**   | Amende DGCCRF jusqu'à 150k€ | Template huissier + avocat        |
+| **Participants frauduleux** | Perte revenue               | Vérification paiement avant badge |
 
 ---
 
 ## 🎬 Timeline vision (6-12 mois)
 
-```
+```txt
 Opération #1 (Semaine 1-4)
 └─ Gaming edition (PS5/GPU lot)
 └─ Proof of concept: 200-300 participants
