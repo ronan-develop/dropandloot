@@ -1,6 +1,6 @@
 # Contrat de Partenariat — Association ↔ GIE
 
-**"Maison Drop & Loot" (Asso) ↔ "Drop & Loot Studio" (GIE)**
+## "Maison Drop & Loot" (Asso) ↔ "Drop & Loot Studio" (GIE)
 
 ---
 
@@ -22,9 +22,8 @@ Ci-après dénommée « **le GIE** ».
 
 L'Association est propriétaire de la marque commerciale « Drop & Loot » et des actifs communs relatifs à cette marque.
 
-Le GIE a besoin d'accéder à cette marque et ces actifs pour exercer ses
-activités commerciales (vente de produits et organisation de jeux
-concours).
+Le GIE a besoin d'accéder à cette marque et ces actifs pour exercer ses activités commerciales (vente de produits et
+organisation de jeux concours).
 
 Le présent contrat formalise la mise à disposition des actifs de l'Association au profit du GIE.
 
@@ -65,10 +64,10 @@ Le GIE s'engage à utiliser les actifs **exclusivement** aux fins suivantes :
 
 **Interdictions explicites** :
 
-- ❌ Pas d'utilisation de la marque pour une activité personnelle distincte du GIE
-- ❌ Pas d'aliénation ou de cession de la marque
-- ❌ Pas de modification de la marque sans autorisation écrite
-- ❌ Pas de sous-licence à un tiers sans autorisation écrite
+- Pas d'utilisation de la marque pour une activité personnelle distincte du GIE
+- Pas d'aliénation ou de cession de la marque
+- Pas de modification de la marque sans autorisation écrite
+- Pas de sous-licence à un tiers sans autorisation écrite
 
 ---
 
@@ -126,16 +125,17 @@ Le GIE peut verser à l'Association des **contributions optionnelles** selon les
 
 Exemples :
 
-| Scénario | Bénéfice GIE | Contribution 10% |
-|----------|---|---|
-| Opération Gaming (100k CA) | 42 000€ | 4 200€ |
-| Opération Musique (60k CA) | 25 000€ | 2 500€ |
-| Total 2 opérations | 67 000€ | 6 700€ |
+| Scénario                   | Bénéfice GIE | Contribution 10% |
+|----------------------------|--------------|------------------|
+| Opération Gaming (100k CA) | 42 000€      | 4 200€           |
+| Opération Musique (60k CA) | 25 000€      | 2 500€           |
+| Total 2 opérations         | 67 000€      | 6 700€           |
 
 **Caractère optionnel** : Ces contributions ne sont pas obligatoires.
 Elles sont décidées librement par le GIE selon sa capacité financière.
 
 **Utilisation** : Les contributions reçues par l'Association servent à :
+
 - Maintenir la marque INPI (renouvellement)
 - Gérer le domaine dropandloot.fr
 - Soutenir les événements communautaires (meetups, tournois, etc.)
@@ -160,13 +160,14 @@ L'Association et le GIE sont des **entités légales distinctes et indépendante
 - Aucune subordination entre les deux
 
 Les associés du GIE (Ronan et Johann) sont **membres de l'Association**,
-mais cela n'implique aucun lien de subordination ou de dépendance.
+mais cela n'implique pas de lien de subordination ou dépendance.
 
 ### Article 10 — Pas de fusion
 
 Le présent contrat ne crée pas une fusion, acquisition ou subordination entre l'Association et le GIE.
 
 Chaque entité conserve :
+
 - Sa personnalité juridique propre
 - Ses décisions autonomes
 - Ses responsabilités distinctes
@@ -286,8 +287,8 @@ En cas de litige non résolu, les parties reconnaissent la compétence des tribu
 
 Toute modification du présent contrat doit être approuvée par écrit par :
 
-1. Le Président de l'Association (Ronan Lenouvel)
-2. Les deux associés du GIE (Ronan et Johann)
+1. Le Président de l'Association
+2. Les deux associés du GIE
 
 ### Article 20 — Entrée en vigueur
 
@@ -306,7 +307,7 @@ Les parties reconnaissent avoir pris connaissance du présent contrat et en acce
 ### Pour l'Association "Maison Drop & Loot"
 
 **Titre** : Président  
-**Nom** : Ronan Lenouvel  
+**Nom** :  ______________________________
 **Date** : ______________________________  
 **Signature** : ______________________________
 
@@ -315,12 +316,12 @@ Les parties reconnaissent avoir pris connaissance du présent contrat et en acce
 ### Pour le GIE "Drop & Loot Studio"
 
 **Titre** : Associé 1  
-**Nom** : Ronan Lenouvel  
+**Nom** :  ______________________________  
 **Date** : ______________________________  
 **Signature** : ______________________________
 
 **Titre** : Associé 2  
-**Nom** : Johann Bonnay  
+**Nom** :  ______________________________  
 **Date** : ______________________________  
 **Signature** : ______________________________
 
@@ -328,4 +329,3 @@ Les parties reconnaissent avoir pris connaissance du présent contrat et en acce
 
 **Contrat finalisé le** : ______________________________  
 **Enregistré auprès de** : [LIEU ENREGISTREMENT]
-
