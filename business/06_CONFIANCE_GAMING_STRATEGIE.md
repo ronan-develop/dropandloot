@@ -2,7 +2,10 @@
 
 ## Executive Summary
 
-La communauté gaming est l'une des plus méfiantes aux arnaques. **80% des joueurs ont rejeté un giveaway** parce qu'il semblait suspect. Pour réussir, Drop & Loot doit être **transparente, certifiée et facile à vérifier**.
+La communauté gaming est l'une des plus méfiantes aux arnaques. **80%
+des joueurs ont rejeté un giveaway** parce qu'il semblait suspect. Pour
+réussir, Drop & Loot doit être **transparente, certifiée et facile à
+vérifier**.
 
 Ce document structure :
 

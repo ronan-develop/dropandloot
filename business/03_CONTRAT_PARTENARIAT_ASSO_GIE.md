@@ -22,7 +22,9 @@ Ci-après dénommée « **le GIE** ».
 
 L'Association est propriétaire de la marque commerciale « Drop & Loot » et des actifs communs relatifs à cette marque.
 
-Le GIE a besoin d'accéder à cette marque et ces actifs pour exercer ses activités commerciales (vente de produits et organisation de jeux concours).
+Le GIE a besoin d'accéder à cette marque et ces actifs pour exercer ses
+activités commerciales (vente de produits et organisation de jeux
+concours).
 
 Le présent contrat formalise la mise à disposition des actifs de l'Association au profit du GIE.
 
@@ -130,7 +132,8 @@ Exemples :
 | Opération Musique (60k CA) | 25 000€ | 2 500€ |
 | Total 2 opérations | 67 000€ | 6 700€ |
 
-**Caractère optionnel** : Ces contributions ne sont pas obligatoires. Elles sont décidées librement par le GIE selon sa capacité financière.
+**Caractère optionnel** : Ces contributions ne sont pas obligatoires.
+Elles sont décidées librement par le GIE selon sa capacité financière.
 
 **Utilisation** : Les contributions reçues par l'Association servent à :
 - Maintenir la marque INPI (renouvellement)
@@ -141,7 +144,8 @@ Exemples :
 
 En l'absence de décision contraire, le GIE **n'est pas obligé** de verser des contributions.
 
-Si le GIE ne verse aucune contribution, l'utilisation des actifs reste autorisée. C'est un accord gagnant-gagnant basé sur la mutualisation.
+Si le GIE ne verse aucune contribution, l'utilisation des actifs reste
+autorisée. C'est un accord gagnant-gagnant basé sur la mutualisation.
 
 ---
 
@@ -155,7 +159,8 @@ L'Association et le GIE sont des **entités légales distinctes et indépendante
 - Le GIE est un groupement commercial
 - Aucune subordination entre les deux
 
-Les associés du GIE (Ronan et Johann) sont **membres de l'Association**, mais cela n'implique aucun lien de subordination ou de dépendance.
+Les associés du GIE (Ronan et Johann) sont **membres de l'Association**,
+mais cela n'implique aucun lien de subordination ou de dépendance.
 
 ### Article 10 — Pas de fusion
 
@@ -172,7 +177,9 @@ Chaque entité conserve :
 
 ### Article 11 — Durée
 
-Le présent contrat produit effet à la date de signature et reste en vigueur aussi longtemps que le GIE existe et souhaite utiliser les actifs.
+Le présent contrat produit effet à la date de signature et reste en
+vigueur aussi longtemps que le GIE existe et souhaite utiliser les
+actifs.
 
 **Durée minimale** : Au moins 1 an à compter de la signature.
 

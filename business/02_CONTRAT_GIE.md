@@ -16,14 +16,18 @@ Ci-après dénommés « **les Associés** ».
 
 ## Préambule
 
-Les Associés souhaitent mettre en commun les moyens nécessaires à l'exercice d'activités commerciales concourant à un but commun, selon la loi du 17 juillet 1978 relative aux Groupements d'Intérêt Économique (GIE) et le Code du Commerce articles L.211-1 et suivants.
+Les Associés souhaitent mettre en commun les moyens nécessaires à
+l'exercice d'activités commerciales concourant à un but commun, selon la
+loi du 17 juillet 1978 relative aux Groupements d'Intérêt Économique
+(GIE) et le Code du Commerce articles L.211-1 et suivants.
 
 Ces activités consistent principalement en :
 - Vente de T-shirts et articles promotionnels
 - Organisation de jeux concours et tirages au sort
 - Utilisation de la marque commerciale « Drop & Loot »
 
-Le GIE permettra aux deux auto-entrepreneurs de collaborer tout en conservant leur statut individuel et leur indépendance juridique.
+Le GIE permettra aux deux auto-entrepreneurs de collaborer tout en
+conservant leur statut individuel et leur indépendance juridique.
 
 ---
 
@@ -70,7 +74,9 @@ Le GIE est constitué pour une **durée illimitée** à compter de son enregistr
 
 ### Article 5 — Associés et qualification
 
-Le GIE est composé de **2 associés auto-entrepreneurs**. Chaque associé conserve son statut d'auto-entrepreneur et son indépendance juridique totale.
+Le GIE est composé de **2 associés auto-entrepreneurs**. Chaque associé
+conserve son statut d'auto-entrepreneur et son indépendance juridique
+totale.
 
 | Associé | Statut | APE personnel |
 |---------|--------|---|
@@ -89,7 +95,8 @@ Les associés apportent au GIE :
 
 ### Article 7 — Pas d'interêts sociaux
 
-Il n'est pas créé d'intérêts sociaux. Le GIE ne dispose pas de structure capitalistique. Chaque associé participe égalitairement aux résultats.
+Il n'est pas créé d'intérêts sociaux. Le GIE ne dispose pas de structure
+capitalistique. Chaque associé participe égalitairement aux résultats.
 
 ---
 
@@ -116,7 +123,8 @@ Chaque opération commerciale peut être portée par l'un ou l'autre des associ�
 
 ### Article 10 — Déclarations URSSAF
 
-Chaque associé déclare **100% du chiffre d'affaires** qu'il a encaissé auprès de l'URSSAF, indépendamment de la redistribution ultérieure.
+Chaque associé déclare **100% du chiffre d'affaires** qu'il a encaissé
+auprès de l'URSSAF, indépendamment de la redistribution ultérieure.
 
 Exemple :
 - Ronan encaisse 100 000€ → déclare 100 000€ à l'URSSAF
@@ -169,7 +177,9 @@ Exemple :
 
 ### Article 14 — Modalités de redistribution
 
-**Périodicité** : La redistribution intervient à titre périodique (par trimestre, semestre ou annuellement), selon décision mutuelle des associés.
+**Périodicité** : La redistribution intervient à titre périodique (par
+trimestre, semestre ou annuellement), selon décision mutuelle des
+associés.
 
 **Calcul** : Le GIE établit un tableau de compte courant retraçant :
 - Les versements nets de chaque associé
@@ -274,7 +284,9 @@ Chaque opération doit respecter :
 
 ### Article 22 — Contrat de partenariat Asso ↔ GIE
 
-Le GIE « Drop & Loot Studio » utilise la marque « Drop & Loot », domaine et réseaux sociaux de l'Association « Maison Drop & Loot » conformément à un **contrat de partenariat distinct**.
+Le GIE « Drop & Loot Studio » utilise la marque « Drop & Loot », domaine
+et réseaux sociaux de l'Association « Maison Drop & Loot » conformément à
+un **contrat de partenariat distinct**.
 
 Ce contrat prévoit :
 
@@ -287,7 +299,9 @@ Ce contrat prévoit :
 
 ### Article 23 — Statuts de l'Asso
 
-Les associés reconnaissent que l'Asso « Maison Drop & Loot » est propriétaire des actifs et que le GIE « Drop & Loot Studio » n'a qu'un droit d'usage contractuel.
+Les associés reconnaissent que l'Asso « Maison Drop & Loot » est
+propriétaire des actifs et que le GIE « Drop & Loot Studio » n'a qu'un
+droit d'usage contractuel.
 
 ---
 
@@ -379,7 +393,8 @@ Toute modification du présent contrat doit faire l'objet d'un **accord écrit s
 
 ### Article 32 — Intégralité
 
-Le présent contrat constitue l'intégralité de l'accord entre les associés concernant le GIE. Il remplace toute accord antérieur, verbal ou écrit.
+Le présent contrat constitue l'intégralité de l'accord entre les associés
+concernant le GIE. Il remplace toute accord antérieur, verbal ou écrit.
 
 ### Article 33 — Entrée en vigueur
 

@@ -29,7 +29,10 @@ L'association a pour objet exclusif :
 7. **Signature et gestion des contrats partenaires** (notamment contrat de partenariat avec le GIE) ;
 8. **Archivage des règlements de jeux** et documentation légale des concours.
 
-**L'association n'exerce aucune activité commerciale directe.** Elle ne procède à aucun encaissement de revenus commerciaux provenant de clients. Les revenus proviennent exclusivement des contributions optionnelles du GIE et des cotisations de ses membres.
+**L'association n'exerce aucune activité commerciale directe.** Elle ne
+procède à aucun encaissement de revenus commerciaux provenant de clients.
+Les revenus proviennent exclusivement des contributions optionnelles du
+GIE et des cotisations de ses membres.
 
 ### Article 3 — Siège social
 
@@ -38,7 +41,8 @@ Le siège social est fixé à :
 **[ADRESSE COMPLÈTE]**  
 **[CODE POSTAL] [VILLE]**
 
-Le siège social peut être transféré en tout temps par décision de l'assemblée générale, selon les modalités fixées par les statuts.
+Le siège social peut être transféré en tout temps par décision de
+l'assemblée générale, selon les modalités fixées par les statuts.
 
 ---
 
@@ -49,7 +53,9 @@ Le siège social peut être transféré en tout temps par décision de l'assembl
 L'association comprend :
 
 1. **Membres fondateurs** : les personnes physiques qui créent l'association et signent les présents statuts ;
-2. **Membres actifs** : les auto-entrepreneurs qui portent les opérations commerciales via le GIE, en utilisant la marque et les actifs communs.
+2. **Membres actifs** : les auto-entrepreneurs qui portent les
+   opérations commerciales via le GIE, en utilisant la marque et les
+   actifs communs.
 
 ### Article 5 — Admission de nouveaux membres
 
@@ -63,7 +69,9 @@ Chaque nouveau membre s'engage à :
 
 ### Article 6 — Cotisations
 
-Les cotisations annuelles des membres sont fixées par l'assemblée générale. Aucune cotisation n'est exigée en cas d'absence de revenus commerciaux.
+Les cotisations annuelles des membres sont fixées par l'assemblée
+générale. Aucune cotisation n'est exigée en cas d'absence de revenus
+commerciaux.
 
 L'association peut recevoir des contributions optionnelles du GIE (déterminées contractuellement).
 
@@ -86,10 +94,14 @@ L'association peut recevoir des contributions optionnelles du GIE (déterminées
 Un membre perd la qualité de membre :
 
 1. Par démission volontaire notifiée par écrit au président ;
-2. Par exclusion décidée par l'assemblée générale pour non-respect des statuts ou actes contraires à l'intérêt de l'association, après audition du membre concerné ;
+2. Par exclusion décidée par l'assemblée générale pour non-respect des
+   statuts ou actes contraires à l'intérêt de l'association, après
+   audition du membre concerné ;
 3. Par décès (pour les personnes physiques).
 
-En cas de départ d'un membre, les actifs communs restent la propriété de l'association. Le départ d'un membre n'ouvre droit à aucun partage des actifs.
+En cas de départ d'un membre, les actifs communs restent la propriété
+de l'association. Le départ d'un membre n'ouvre droit à aucun partage
+des actifs.
 
 ---
 
@@ -97,7 +109,9 @@ En cas de départ d'un membre, les actifs communs restent la propriété de l'as
 
 ### Article 9 — Conseil d'administration
 
-L'association est administrée par un conseil d'administration composé de **minimum 2 membres et maximum 5 membres**, élus par l'assemblée générale parmi les membres de l'association.
+L'association est administrée par un conseil d'administration composé
+de **minimum 2 et maximum 5 membres**, élus par l'assemblée générale
+parmi les membres de l'association.
 
 Le mandat de membre du conseil d'administration est de **1 an**, renouvelable.
 
@@ -147,7 +161,8 @@ Le conseil d'administration :
 - Approuve le contrat de partenariat avec le GIE ;
 - Gère les contributions reçues du GIE.
 
-**Toute décision majeure** concernant la cession, la modification ou l'aliénation des actifs doit être approuvée à l'unanimité du conseil.
+**Toute décision majeure** concernant la cession, la modification ou
+l'aliénation des actifs doit être approuvée à l'unanimité du conseil.
 
 ---
 
@@ -171,7 +186,8 @@ La convocation est adressée à tous les membres par email ou courrier recommand
 
 ### Article 17 — Assemblée générale ordinaire
 
-L'assemblée générale ordinaire se réunit **au minimum une fois par an**, dans les **6 mois** suivant la fin de l'exercice comptable.
+L'assemblée générale ordinaire se réunit **au minimum une fois par
+an**, dans les **6 mois** suivant la fin de l'exercice comptable.
 
 Elle est compétente pour :
 
@@ -197,9 +213,14 @@ Elle est compétente pour :
 
 ### Article 19 — Quorum
 
-**Assemblée générale ordinaire** : La présence de la **moitié des membres** constitue le quorum. En cas de défaut de quorum, une seconde assemblée peut être convoquée **8 jours plus tard** sans condition de quorum.
+**Assemblée générale ordinaire** : La présence de la **moitié des
+membres** constitue le quorum. En cas de défaut de quorum, une seconde
+assemblée peut être convoquée **8 jours plus tard** sans condition de
+quorum.
 
-**Assemblée générale extraordinaire** : La présence de **2/3 des membres** constitue le quorum. Aucune seconde assemblée n'est possible ; la première assemblée doit être reportée.
+**Assemblée générale extraordinaire** : La présence de **2/3 des
+membres** constitue le quorum. Aucune seconde assemblée n'est possible ;
+la première assemblée doit être reportée.
 
 ### Article 20 — Délibérations et vote
 
@@ -232,7 +253,10 @@ Les résultats des votes sont consignés dans un procès-verbal signé par le pr
 
 ### Article 22 — Clause d'unanimité pour cession ou modification des actifs
 
-**Toute cession, location, hypothèque ou modification substantielle des actifs** énumérés à l'article 21 doit être approuvée à l'unanimité par le conseil d'administration et ratifiée par l'assemblée générale extraordinaire.
+**Toute cession, location, hypothèque ou modification substantielle des
+actifs** énumérés à l'article 21 doit être approuvée à l'unanimité par
+le conseil d'administration et ratifiée par l'assemblée générale
+extraordinaire.
 
 Une modification est considérée comme « substantielle » si elle affecte :
 
@@ -243,7 +267,9 @@ Une modification est considérée comme « substantielle » si elle affecte :
 
 ### Article 23 — Propriété de la base clients
 
-**La base de données clients est propriété commune de l'association**, détenue à titre gratuit pour l'usage conjoint des auto-entrepreneurs autorisés via le GIE.
+**La base de données clients est propriété commune de l'association**,
+détenue à titre gratuit pour l'usage conjoint des auto-entrepreneurs
+autorisés via le GIE.
 
 En cas de départ d'un auto-entrepreneur :
 
@@ -260,17 +286,23 @@ Les ressources de l'association proviennent de :
 3. Les dons et subventions ;
 4. Tout autre revenu régulier ou occasionnel autorisé par la loi.
 
-**Aucun revenu commercial direct** n'est encaissé par l'association. Les auto-entrepreneurs encaissent leurs revenus propres via le GIE sur leurs comptes distincts.
+**Aucun revenu commercial direct** n'est encaissé par l'association. Les
+auto-entrepreneurs encaissent leurs revenus propres via le GIE sur leurs
+comptes distincts.
 
 ### Article 25 — Gestion comptable
 
-Le trésorier tient les comptes de l'association. Un bilan comptable est établi chaque année et présenté à l'assemblée générale ordinaire.
+Le trésorier tient les comptes de l'association. Un bilan comptable est
+établi chaque année et présenté à l'assemblée générale ordinaire.
 
 L'association peut être soumise à un audit externe si décidé par l'assemblée générale.
 
 ### Article 26 — Fiscalité
 
-L'association s'engage à respecter toutes les obligations fiscales en vigueur. En tant qu'association loi 1901 sans but lucratif, elle bénéficie du régime fiscal prévu par la loi, sous réserve du respect de ses conditions.
+L'association s'engage à respecter toutes les obligations fiscales en
+vigueur. En tant qu'association loi 1901 sans but lucratif, elle
+bénéficie du régime fiscal prévu par la loi, sous réserve du respect
+de ses conditions.
 
 ---
 
@@ -288,7 +320,10 @@ Le contrat de partenariat est approuvé par le conseil d'administration et ratif
 
 ### Article 28 — Indépendance des auto-entrepreneurs
 
-Les auto-entrepreneurs associés du GIE sont **indépendants juridiquement et financièrement** l'un de l'autre. L'association garantit qu'aucun lien de subordination n'existe entre eux, conformément à la réglementation française du travail indépendant.
+Les auto-entrepreneurs associés du GIE sont indépendants juridiquement
+et financièrement l'un de l'autre. L'association garantit qu'aucun lien
+de subordination n'existe entre eux, conformément à la réglementation
+française du travail indépendant.
 
 ### Article 29 — Dissolution du GIE
 
@@ -320,7 +355,8 @@ Le règlement intérieur s'impose à tous les membres.
 
 ### Article 31 — Dissolution
 
-L'association peut être dissoute par décision de l'assemblée générale extraordinaire à la majorité des **2/3 des membres présents**.
+L'association peut être dissoute par décision de l'assemblée générale
+extraordinaire à la majorité des **2/3 des membres présents**.
 
 La dissolution peut être demandée par :
 
@@ -337,7 +373,8 @@ En cas de dissolution, le patrimoine de l'association :
 1. Une association loi 1901 ayant un objet social similaire (gestion de marques, protection d'actifs immatériels) ;
 2. À défaut, une association d'intérêt général reconnue par décision de l'assemblée générale extraordinaire.
 
-**En aucun cas**, le patrimoine ne peut être partagé entre les membres ou les auto-entrepreneurs. Il demeure affecté à l'intérêt général.
+**En aucun cas**, le patrimoine ne peut être partagé entre les membres
+ou les auto-entrepreneurs. Il demeure affecté à l'intérêt général.
 
 ### Article 33 — Devolution de la marque en cas de séparation
 
@@ -357,7 +394,8 @@ Cette clause garantit la continuité de la marque indépendamment des changement
 
 ### Article 34 — Procédure de modification
 
-Toute modification des statuts doit être décidée par l'assemblée générale extraordinaire réunie selon les conditions fixées à l'article 18.
+Toute modification des statuts doit être décidée par l'assemblée générale
+extraordinaire réunie selon les conditions fixées à l'article 18.
 
 Les modifications sont notifiées au préfet dans les **3 mois** suivant leur adoption, conformément à la loi de 1901.
 
@@ -367,15 +405,21 @@ Les modifications sont notifiées au préfet dans les **3 mois** suivant leur ad
 
 ### Article 35 — Responsabilité des membres
 
-Les membres ne sont responsables des engagements de l'association que jusqu'à concurrence de leurs apports. L'association seule est responsable de ses dettes.
+Les membres ne sont responsables des engagements de l'association que
+jusqu'à concurrence de leurs apports. L'association seule est responsable
+de ses dettes.
 
 ### Article 36 — Conflits d'intérêts
 
-En cas de conflit d'intérêts entre un membre et l'association, le membre concerné s'abstient de participer aux votes et délibérations relatifs à ce conflit.
+En cas de conflit d'intérêts entre un membre et l'association, le membre
+concerné s'abstient de participer aux votes et délibérations relatifs à
+ce conflit.
 
 ### Article 37 — Confidentialité et données personnelles
 
-L'association collecte et traite les données personnelles des clients conformément au RGPD. Une politique de confidentialité détaille les usages autorisés.
+L'association collecte et traite les données personnelles des clients
+conformément au RGPD. Une politique de confidentialité détaille les
+usages autorisés.
 
 ### Article 38 — Durée de l'association
 
@@ -422,4 +466,6 @@ Signature : ______________________________
 - **Trésorier** : Johann Bonnay — [ADRESSE]
 - **Date de création** : [DATE DE SIGNATURE]
 
-La déclaration est envoyée en ligne via service-public.fr (gratuit depuis 2020). Aucune publication au Journal Officiel n'est requise depuis la réforme de 2021 ; la publication est automatique.
+La déclaration est envoyée en ligne via service-public.fr (gratuit depuis
+2020). Aucune publication au Journal Officiel n'est requise depuis la
+réforme de 2021 ; la publication est automatique.

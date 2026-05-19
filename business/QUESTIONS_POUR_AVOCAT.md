@@ -82,7 +82,9 @@ confirmation que ce modèle zéro risque.
 
 ### Question 2.1
 
-> "L'Article 31 proposé (compte courant et redistribution) doit-il être plus détaillé dans les statuts, ou suffit-il de le formaliser dans un règlement intérieur ?"
+> "L'Article 31 proposé (compte courant et redistribution) doit-il être
+> plus détaillé dans les statuts, ou suffit-il de le formaliser dans un
+> règlement intérieur ?"
 
 **Contexte** : Nous avons un Article 31 qui dit :
 
@@ -173,7 +175,9 @@ confirmation que ce modèle zéro risque.
 
 ### Question 4.2
 
-> "Peut-on utiliser un seul règlement-cadre pour toutes les opérations (gaming, musique, lifestyle) avec annexes, ou faut-il des règlements distincts ?"
+> "Peut-on utiliser un seul règlement-cadre pour toutes les opérations
+> (gaming, musique, lifestyle) avec annexes, ou faut-il des règlements
+> distincts ?"
 
 **Contexte** : Nous voulons un template unique réutilisable pour économiser les frais d'avocat.
 
@@ -203,7 +207,8 @@ confirmation que ce modèle zéro risque.
 
 ### Question 4.5
 
-> "Le tirage au sort doit-il obligatoirement être fait par un huissier, ou existe-t-il des alternatives certifiées reconnues par la loi ?"
+> "Le tirage au sort doit-il obligatoirement être fait par un huissier,
+> ou existe-t-il des alternatives certifiées reconnues par la loi ?"
 
 **Contexte** : Les huissiers sont chers. Nous cherchons des alternatives.
 
@@ -225,7 +230,8 @@ confirmation que ce modèle zéro risque.
 
 ### Question 5.1
 
-> "Comment déclarer correctement à l'URSSAF le compte courant et les redistributions sans créer de confusion sur les revenus réels ?"
+> "Comment déclarer correctement à l'URSSAF le compte courant et les
+> redistributions sans créer de confusion sur les revenus réels ?"
 
 **Contexte** :
 
@@ -241,7 +247,8 @@ confirmation que ce modèle zéro risque.
 
 ### Question 5.2
 
-> "Les transferts d'argent de l'AE vers l'asso sont-ils documentés comme 'versements de bénéfices' ou ont-ils un autre statut fiscal ?"
+> "Les transferts d'argent de l'AE vers l'asso sont-ils documentés comme
+> 'versements de bénéfices' ou ont-ils un autre statut fiscal ?"
 
 **Contexte** : Nous voulons savoir comment justifier ces transferts auprès des autorités fiscales.
 
@@ -251,7 +258,8 @@ confirmation que ce modèle zéro risque.
 
 ### Question 5.3
 
-> "Y a-t-il une obligation d'audit ou de comptabilité spécifique pour l'association si elle gère un compte courant entre partenaires ?"
+> "Y a-t-il une obligation d'audit ou de comptabilité spécifique pour
+> l'association si elle gère un compte courant entre partenaires ?"
 
 **Contexte** : L'asso a un CA quasi nul (elle ne vend rien), mais elle gère des fonds.
 
@@ -285,7 +293,9 @@ confirmation que ce modèle zéro risque.
 
 ### Question 7.1
 
-> "Peut-on avoir une association loi 1901 avec une activité purement patrimoniale (détention d'actifs) sans but lucratif, même si elle gère des fonds en transit ?"
+> "Peut-on avoir une association loi 1901 avec une activité purement
+> patrimoniale (détention d'actifs) sans but lucratif, même si elle gère
+> des fonds en transit ?"
 
 **Contexte** : L'asso ne vend rien, ne fait aucun commerce, elle gère juste la marque et le compte courant.
 
@@ -305,7 +315,8 @@ confirmation que ce modèle zéro risque.
 
 ### Question 7.3
 
-> "Faut-il une assemblée générale annuelle pour valider le compte courant et la redistribution, ou peut-on avoir une procédure simplifiée ?"
+> "Faut-il une assemblée générale annuelle pour valider le compte courant
+> et la redistribution, ou peut-on avoir une procédure simplifiée ?"
 
 **Contexte** : Nous voulons éviter une bureaucratie excessive.
 
@@ -317,7 +328,9 @@ confirmation que ce modèle zéro risque.
 
 ### Question 8.1
 
-> "En cas de réclamation d'un client sur le jeu concours (lot non reçu, etc.), qui est responsable légalement : l'asso, l'AE qui a porté l'opération, ou les deux ?"
+> "En cas de réclamation d'un client sur le jeu concours (lot non reçu,
+> etc.), qui est responsable légalement : l'asso, l'AE qui a porté
+> l'opération, ou les deux ?"
 
 **Contexte** : Nous voulons savoir où se situe la responsabilité.
 

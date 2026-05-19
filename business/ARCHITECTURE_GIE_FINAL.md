@@ -6,7 +6,10 @@
 
 ## 🎯 Principe en une phrase
 
-Une **Association loi 1901** détient les actifs communs (marque, domaine, réseaux). Un **GIE** gère les opérations commerciales. Deux **auto-entrepreneurs** collaborent via le GIE. **Chacun peut faire n'importe quelle opération sur n'importe quelle niche.**
+Une **Association loi 1901** détient les actifs communs (marque, domaine,
+réseaux). Un **GIE** gère les opérations commerciales. Deux
+**auto-entrepreneurs** collaborent via le GIE. **Chacun peut faire
+n'importe quelle opération sur n'importe quelle niche.**
 
 ---
 

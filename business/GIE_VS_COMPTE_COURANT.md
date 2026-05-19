@@ -39,7 +39,8 @@ L'URSSAF peut requalifier cette structure en **"société de fait"** parce que:
 - ✅ Accepté explicitement par l'URSSAF
 - ✅ Structure souple et adaptée
 
-**Texte de référence** : [URSSAF sur GIE et auto-entrepreneurs](https://www.urssaf.fr/accueil/choisir-forme-juridique/groupement-interet-economique-gie.html)
+**Texte de référence** : Voir URSSAF sur [GIE et auto-entrepreneurs]
+(https://www.urssaf.fr/accueil/choisir-forme-juridique/groupement-interet-economique-gie.html)
 
 ---
 

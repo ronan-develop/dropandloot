@@ -23,7 +23,10 @@
 
 Madame, Monsieur,
 
-Nous vous contactons pour solliciter votre expertise juridique dans la structuration et sécurisation d'une activité commerciale reposant sur un **modèle GIE + Association loi 1901**, avec mise en place d'un **jeu concours réglementé**.
+Nous vous contactons pour solliciter votre expertise juridique dans la
+structuration et sécurisation d'une activité commerciale reposant sur un
+**modèle GIE + Association loi 1901**, avec mise en place d'un **jeu
+concours réglementé**.
 
 ---
 
@@ -51,7 +54,10 @@ Notre modèle repose sur trois entités juridiques distinctes :
 
 ### Justification du modèle
 
-Ce modèle permet à deux auto-entrepreneurs de collaborer équitablement sans créer de "société de fait" auprès de l'URSSAF. Chacun encaisse son CA, déclare 100% à l'URSSAF, paie ses charges, puis le GIE redistribue pour équité 50/50.
+Ce modèle permet à deux auto-entrepreneurs de collaborer équitablement
+sans créer de "société de fait" auprès de l'URSSAF. Chacun encaisse son
+CA, déclare 100% à l'URSSAF, paie ses charges, puis le GIE redistribue
+pour équité 50/50.
 
 ---
 
@@ -85,9 +91,12 @@ Ce modèle permet à deux auto-entrepreneurs de collaborer équitablement sans c
 
 ### Avantage du GIE
 
-Contrairement au compte courant classique, **le GIE est explicitement prévu par le Code du Commerce pour ce type de collaboration**.
+Contrairement au compte courant classique, **le GIE est explicitement
+prévu par le Code du Commerce pour ce type de collaboration**.
 
-- **Code Commerce L.211-1** : « Un GIE est constitué entre personnes physiques ou morales afin de mettre en œuvre les moyens nécessaires à l'exercice d'activités concourant à un but commun »
+- **Code Commerce L.211-1** : « Un GIE est constitué entre personnes
+  physiques ou morales afin de mettre en œuvre les moyens nécessaires à
+  l'exercice d'activités concourant à un but commun »
 - **Jurisprudence établie** : Cassation 3 février 2004 confirme que GIE ≠ société de fait
 - **Acceptation URSSAF** : GIE explicitement accepté pour auto-entrepreneurs
 
@@ -97,9 +106,14 @@ Contrairement au compte courant classique, **le GIE est explicitement prévu par
 
 ### Question 1 — Légalité du modèle GIE
 
-> **Exposé** : Un GIE composé de 2 auto-entrepreneurs, où chacun encaisse et déclare 100% du CA de ses opérations, puis verse le bénéfice net au GIE qui redistribue 50/50, expose-t-il à un risque de requalification par l'URSSAF en « société de fait » ?
+> **Exposé** : Un GIE composé de 2 auto-entrepreneurs, où chacun encaisse
+> et déclare 100% du CA de ses opérations, puis verse le bénéfice net au
+> GIE qui redistribue 50/50, expose-t-il à un risque de requalification
+> par l'URSSAF en « société de fait » ?
 
-**Contexte** : Nous comprenons que le Code Commerce L.211-1+ autorise explicitement ce modèle, mais nous voulons confirmation écrite que zéro risque URSSAF.
+**Contexte** : Nous comprenons que le Code Commerce L.211-1+ autorise
+explicitement ce modèle, mais nous voulons confirmation écrite que zéro
+risque URSSAF.
 
 **Besoin** : Avis juridique explicite sur la légalité.
 
@@ -107,7 +121,9 @@ Contrairement au compte courant classique, **le GIE est explicitement prévu par
 
 ### Question 2 — Clauses essentielles du contrat GIE
 
-> **Exposé** : Quels éléments essentiels doit contenir le contrat de constitution du GIE pour garantir légalité et clarté, notamment concernant :
+> **Exposé** : Quels éléments essentiels doit contenir le contrat de
+> constitution du GIE pour garantir légalité et clarté, notamment
+> concernant :
 > - Les apports (pas d'apport de capital)
 > - La redistribution des résultats (modalités, documentation)
 > - L'indépendance des associés (pas de lien de subordination)
@@ -121,7 +137,10 @@ Contrairement au compte courant classique, **le GIE est explicitement prévu par
 
 ### Question 3 — Contrat de partenariat Asso ↔ GIE
 
-> **Exposé** : Un contrat distinct formant la mise à disposition de la marque et des actifs (domaine, réseaux, base clients) par l'Asso au GIE est-il suffisant pour clarifier les rôles, ou faut-il intégrer certaines clauses dans les statuts de l'Asso ?
+> **Exposé** : Un contrat distinct formant la mise à disposition de la
+> marque et des actifs (domaine, réseaux, base clients) par l'Asso au GIE
+> est-il suffisant pour clarifier les rôles, ou faut-il intégrer certaines
+> clauses dans les statuts de l'Asso ?
 
 **Contexte** : Nous voulons protéger la marque de l'Asso indépendamment de la vie du GIE.
 
@@ -136,7 +155,9 @@ Contrairement au compte courant classique, **le GIE est explicitement prévu par
 > - Le GIE « Drop & Loot » ?
 > - L'auto-entrepreneur porteur de l'opération (Ronan ou Johann) ?
 
-**Contexte** : Notre structure est complexe (Asso propriétaire, GIE opérationnel, AE porteur), et nous voulons clarifier la responsabilité légale.
+**Contexte** : Notre structure est complexe (Asso propriétaire, GIE
+opérationnel, AE porteur), et nous voulons clarifier la responsabilité
+légale.
 
 **Besoin** : Identification de l'organisateur légal pour le dépôt auprès de l'huissier.
 
@@ -157,7 +178,10 @@ Contrairement au compte courant classique, **le GIE est explicitement prévu par
 
 ### Question 6 — Redistribution et déclarations URSSAF
 
-> **Exposé** : Comment documenter auprès de l'URSSAF la redistribution des résultats du GIE ? Les transferts d'argent Ronan/Johann vers le GIE sont-ils documentés comme « versements de bénéfices » ou ont-ils un autre statut fiscal ?
+> **Exposé** : Comment documenter auprès de l'URSSAF la redistribution
+> des résultats du GIE ? Les transferts d'argent Ronan/Johann vers le GIE
+> sont-ils documentés comme « versements de bénéfices » ou ont-ils un
+> autre statut fiscal ?
 
 **Contexte** : Nous voulons que chaque versement soit traçable et irréprochable auprès des autorités.
 
@@ -282,7 +306,9 @@ Président — Maison Drop & Loot
 
 ## ANNEXE — QUESTIONS OPTIONNELLES (si approfondissement désiré)
 
-Si le cabinet souhaite explorer d'autres aspects, voir **QUESTIONS_POUR_AVOCAT.md** pour une liste exhaustive de 30+ questions supplémentaires couvrant :
+Si le cabinet souhaite explorer d'autres aspects, voir
+**QUESTIONS_POUR_AVOCAT.md** pour une liste exhaustive de 30+ questions
+supplémentaires couvrant :
 
 - RGPD et données clients
 - Assurance responsabilité civile

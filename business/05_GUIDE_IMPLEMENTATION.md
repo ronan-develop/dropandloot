@@ -6,7 +6,9 @@
 
 ## Vue d'ensemble
 
-Vous avez choisi le **modèle GIE Studio + Asso Maison** pour zéro risque société de fait. Cette guide décrit exactement quoi faire, dans quel ordre, et avec quel timing.
+Vous avez choisi le **modèle GIE Studio + Asso Maison** pour zéro risque
+société de fait. Cette guide décrit exactement quoi faire, dans quel
+ordre, et avec quel timing.
 
 **Délai total : 5-6 semaines** du lancement jusqu'à première opération commerciale.
 
