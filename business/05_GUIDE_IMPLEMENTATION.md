@@ -1,6 +1,6 @@
 # Guide d'Implémentation — Timeline Complète
 
-**Drop & Loot — Modèle GIE Studio + Asso Maison**
+## Drop & Loot — Modèle GIE Studio + Asso Maison
 
 ---
 
@@ -48,7 +48,7 @@ ordre, et avec quel timing.
 
 ### Étape 1.3 : Déclarer l'Association en préfecture
 
-**Responsable** : Ronan (Président)  
+**Responsable** : (Président)
 **Durée** : 20 min en ligne + 1-7 jours d'attente  
 **Coût** : 0€  
 **Lien** : service-public.fr → Créer une association
@@ -102,25 +102,11 @@ ordre, et avec quel timing.
 **Durée** : 15 min par personne + 3-7 jours  
 **Coût** : 0€ (Revolut Business gratuit) ou 5-9€/mois  
 
-**Options** (classées par avantage) :
+**→ Voir [BANKS.md](BANKS.md) pour le comparatif détaillé et les procédures.**
 
-| Banque | Coût | Avantages |
-|--------|------|----------|
-| **Revolut Business** | 0€ | Ouverture instantanée, Stripe compatible |
-| **Blank** | 0€ | Français, simple |
-| **Shine** | 9€/mois | Français, compatibilité URSSAF optimale |
-| **Qonto** | 5€/mois | Français, suivi de trésorerie |
+**Recommandation** : Shine Plus (14,90€/mois) — RC Pro incluse + outils URSSAF automatisés
 
-**Procédure (exemple Revolut)** :
-
-- [ ] Télécharger app Revolut
-- [ ] Créer compte Business
-- [ ] Vérifier identité (selfie + document)
-- [ ] Attendre confirmation (5-30 min)
-- [ ] Obtenir IBAN français
-- [ ] **Recevoir carte physique** (optionnel)
-
-**Résultat** : Comptes bancaires opérationnels, prêts à recevoir des paiements.
+**Résultat** : Comptes bancaires opérationnels, RC Pro active, prêts à recevoir des paiements.
 
 ---
 
@@ -140,6 +126,7 @@ ordre, et avec quel timing.
   - Auto-entrepreneurs / PME et associations loi 1901
 
 **Suggestions** :
+
 - Cabinets généralistes locaux (meilleur rapport qualité/prix)
 - Recherche Google : « avocat GIE [votre ville] »
 - Recherche Google : « avocat jeu concours [votre région] »
@@ -169,13 +156,13 @@ ordre, et avec quel timing.
 
 **Agenda** :
 
-| Minute | Sujet |
-|--------|-------|
-| 0-5 | Présentation cabinet + vous |
-| 5-15 | Exposition du modèle (votre côté) |
-| 15-30 | Questions avocat + clarifications |
-| 30-40 | Dévis + planning |
-| 40-45 | Signature accord |
+| Minute | Sujet                             |
+|--------|-----------------------------------|
+| 0-5    | Présentation cabinet + vous       |
+| 5-15   | Exposition du modèle (votre côté) |
+| 15-30  | Questions avocat + clarifications |
+| 30-40  | Dévis + planning                  |
+| 40-45  | Signature accord                  |
 
 **Points clés à clarifier** :
 
@@ -272,7 +259,7 @@ ordre, et avec quel timing.
 - [ ] Remplir le formulaire :
   - Nom marque : « Drop & Loot »
   - Déposant : Association « Maison Drop & Loot » [avec numéro SIREN si disponible]
-  - Classes : 
+  - Classes :
     - Classe 25 (vêtements - T-shirts)
     - Classe 41 (événements, loisirs, jeux - concours, événements)
   - Description : Vente de T-shirts et organisation de jeux concours/loteries commerciales
@@ -317,13 +304,13 @@ ordre, et avec quel timing.
 
 **Réseaux à créer** :
 
-| Réseau | Lien | Compte |
-|--------|------|--------|
-| **TikTok** | tiktok.com | @dropandloot |
-| **Instagram** | instagram.com | @dropandloot |
-| **YouTube** | youtube.com | Drop & Loot |
-| **Facebook** | facebook.com | Drop & Loot |
-| **Discord** | discord.com | Serveur Drop & Loot |
+| Réseau        | Lien          | Compte              |
+|---------------|---------------|---------------------|
+| **TikTok**    | tiktok.com    | @dropandloot        |
+| **Instagram** | instagram.com | @dropandloot        |
+| **YouTube**   | youtube.com   | Drop & Loot         |
+| **Facebook**  | facebook.com  | Drop & Loot         |
+| **Discord**   | discord.com   | Serveur Drop & Loot |
 
 **Procédure par réseau** :
 
@@ -598,6 +585,7 @@ ordre, et avec quel timing.
 **Même procédure qu'Opération 1**, mais portée par Johann.
 
 Supposons :
+
 - Johann encaisse 60 000€ CA
 - Johann verse 25 000€ net au GIE
 
@@ -612,11 +600,11 @@ Supposons :
 
 **Tableau** :
 
-| Associé | Op1 versé | Op2 versé | Total versé | Compensation | Final |
-|---------|-----------|-----------|-------------|---|---|
-| Ronan | 42 000€ | - | 42 000€ | -8 500€ | 33 500€ |
-| Johann | - | 25 000€ | 25 000€ | +8 500€ | 33 500€ |
-| **GIE** | | | **67 000€** | **0€** | **50/50** |
+| Associé | Op1 versé | Op2 versé | Total versé | Compensation | Final     |
+|---------|-----------|-----------|-------------|--------------|-----------|
+| Ronan   | 42 000€   | -         | 42 000€     | -8 500€      | 33 500€   |
+| Johann  | -         | 25 000€   | 25 000€     | +8 500€      | 33 500€   |
+| **GIE** |           |           | **67 000€** | **0€**       | **50/50** |
 
 ---
 
@@ -635,6 +623,7 @@ Supposons :
 - [ ] Documenter (relevé bancaire + copie)
 
 **Résultat final** :
+
 - Ronan : 42 000€ (op1) - 8 500€ (compensation) = **33 500€** ✅ (50/50)
 - Johann : 25 000€ (op2) + 8 500€ (compensation) = **33 500€** ✅ (50/50)
 
@@ -715,16 +704,16 @@ Supposons :
 
 ## BUDGET RÉSUMÉ
 
-| Poste | Montant | Timing |
-|-------|---------|--------|
-| Avocat (GIE + contrats + règlement) | 1 000-1 600€ | Sem 2-4 |
-| Enregistrement GIE | 150€ | Sem 2 |
-| Marque INPI (2 classes) | 230€ | Sem 3 |
-| Huissier (dépôt + tirage) | 300-400€ | Sem 5 |
-| **TOTAL DÉMARRAGE** | **~1 700-2 400€** | |
-| Amortissement/an | ~350-400€ | 5 ans |
-| **Frais annuels** (domaine, cotisations) | ~50€/an | Annuel |
-| **Huissier par opération** | 300-400€ | Par op |
+| Poste                                    | Montant           | Timing  |
+|------------------------------------------|-------------------|---------|
+| Avocat (GIE + contrats + règlement)      | 1 000-1 600€      | Sem 2-4 |
+| Enregistrement GIE                       | 150€              | Sem 2   |
+| Marque INPI (2 classes)                  | 230€              | Sem 3   |
+| Huissier (dépôt + tirage)                | 300-400€          | Sem 5   |
+| **TOTAL DÉMARRAGE**                      | **~1 700-2 400€** |         |
+| Amortissement/an                         | ~350-400€         | 5 ans   |
+| **Frais annuels** (domaine, cotisations) | ~50€/an           | Annuel  |
+| **Huissier par opération**               | 300-400€          | Par op  |
 
 **Rentabilité** : 1 opération Gaming (100k CA) = 42k net = **ROI immédiat**.
 
@@ -734,15 +723,14 @@ Supposons :
 
 ## RÉSUMÉ — Structure définitive
 
-| Entité | Nom | Rôle |
-|--------|-----|------|
-| Marque | **Drop & Loot** | Brand public |
-| Association | **Maison Drop & Loot** | Détient les actifs (marque, domaine, réseaux, base clients) |
-| GIE | **Drop & Loot Studio** | Gère les opérations commerciales |
-| Auto-Entrepreneurs | Ronan + Johann (statut conservé) | Porteurs des opérations, associés du GIE |
+| Entité             | Nom                              | Rôle                                                        |
+|--------------------|----------------------------------|-------------------------------------------------------------|
+| Marque             | **Drop & Loot**                  | Brand public                                                |
+| Association        | **Maison Drop & Loot**           | Détient les actifs (marque, domaine, réseaux, base clients) |
+| GIE                | **Drop & Loot Studio**           | Gère les opérations commerciales                            |
+| Auto-Entrepreneurs | Ronan + Johann (statut conservé) | Porteurs des opérations, associés du GIE                    |
 
 ---
 
 **Document prêt à utiliser.**  
 **Bon courage pour la suite !** 🚀
-
