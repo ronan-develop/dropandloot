@@ -179,26 +179,27 @@ Tous ces documents sont disponibles à votre demande par email.
 
 ---
 
-## VIII. COORDONNÉES DE CONTACT
+## VIII. COORDONNÉES DE CONTACT (en fonction des rôles)
 
 **Ronan Lenouvel**  
-Président — Maison Drop & Loot
+Rôle : Président ou trésorier — Maison Drop & Loot
 
-- Email : <ronan.develop@gmail.com>
+- Email : [À REMPLIR]
 - Téléphone : [À REMPLIR]
 - Adresse : [À REMPLIR]
 
 **Johann Bonnay**  
-Trésorier — Maison Drop & Loot
+Rôle : Président ou trésorier — Maison Drop & Loot
 
 - Email : [À REMPLIR]
 - Téléphone : [À REMPLIR]
+- Adresse : [À REMPLIR]
 
 ---
 
 Dans l'attente de votre retour, nous vous adressons nos cordiales salutations.
 
-Ronan Lenouvel  
+Ronan Lenouvel  ou Johann Bonnay
 Président — Maison Drop & Loot
 
 ---
