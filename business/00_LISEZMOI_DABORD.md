@@ -123,7 +123,23 @@ Amortissement rapide : 1 opération Gaming (100k CA) = 42k net → ROI immédiat
 
 ---
 
-### 7️⃣ **QUESTIONS_POUR_AVOCAT.md** (18K)
+### 7️⃣ **REPONSES_QUESTION5_JEU_CONCOURS.md** (9K)
+
+#### Réponses juridiques — Dépôt et formalités jeu concours
+
+**Répond aux 3 questions essentielles** :
+
+| Question | Réponse clé | Coût |
+|----------|-------------|------|
+| Dépôt huissier à chaque opération? | Non, une seule fois pour template | 300-400€ |
+| Tirage obligatoirement par huissier? | Non, alternatives légales existent | 0-300€/op |
+| Articles L.121-36+ applicables? | L.121-36 + L.120-1 + L.111-1+ | N/A |
+
+**Contient** : Cadre légal, alternatives, synthèse opérationnelle, sources
+
+---
+
+### 8️⃣ **QUESTIONS_POUR_AVOCAT.md** (18K)
 
 #### Questionnaire détaillé
 
@@ -195,6 +211,7 @@ Utile si :
 5. 03_CONTRAT_PARTENARIAT... → liaison Asso ↔ GIE
 6. 04_COURRIER_AVOCAT.md → préparer contact avocat
 7. 05_GUIDE_IMPLEMENTATION.md → timeline concrète
+8. REPONSES_QUESTION5_JEU_CONCOURS.md → réponses juridiques spécifiques
 
 **Docs contexte** (optionnel) :
 
