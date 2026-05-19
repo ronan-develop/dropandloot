@@ -11,7 +11,7 @@ Voir **`ARCHITECTURE_GIE_FINAL.md`** pour la documentation complète.
 **3 entités légales** :
 
 1. **Association Loi 1901** "Maison Drop & Loot" → Détient marque + domaine
-2. **GIE** "Drop & Loot" → Gère opérations commerciales
+2. **GIE** "Drop & Loot Studio" → Gère opérations commerciales
 3. **2 Auto-entrepreneurs** (Ronan + Johann) → Associés du GIE
 
 **Modèle hybride optimal** = Sécurité juridique maximale + Flexibilité opérationnelle
@@ -32,7 +32,7 @@ Voir **`ARCHITECTURE_GIE_FINAL.md`** pour la documentation complète.
 
 ---
 
-## GIE "Drop & Loot"
+## GIE "Drop & Loot Studio"
 
 | Aspect | Détail |
 |--------|--------|

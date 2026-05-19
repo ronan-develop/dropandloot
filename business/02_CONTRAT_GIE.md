@@ -33,9 +33,11 @@ Le GIE permettra aux deux auto-entrepreneurs de collaborer tout en conservant le
 
 Il est créé un Groupement d'Intérêt Économique (GIE) dénommé :
 
-#### **« Drop & Loot »**
+#### **« Drop & Loot Studio »**
 
 Enregistré à la Sous-Préfecture de [LIEU ENREGISTREMENT] sous le numéro [À REMPLIR].
+
+**Marque exploitée** : « Drop & Loot » (propriété de l'Association « Maison Drop & Loot »)
 
 ### Article 2 — Objet social
 
@@ -102,8 +104,9 @@ Chaque opération commerciale peut être portée par l'un ou l'autre des associ�
 ### Article 9 — Facturations et encaissements
 
 **Facturations** :
-- Les factures sont établies au nom du GIE « Drop & Loot »
+- Les factures sont établies au nom du GIE « Drop & Loot Studio »
 - Chaque facturation mentionne les deux associés ou le porteur de l'opération
+- Marque exploitée : « Drop & Loot » (propriété de l'Asso)
 - Format homogène et traçable
 
 **Encaissements** :
@@ -271,12 +274,12 @@ Chaque opération doit respecter :
 
 ### Article 22 — Contrat de partenariat Asso ↔ GIE
 
-Le GIE utilise la marque, domaine et réseaux sociaux de l'Association « Maison Drop & Loot » conformément à un **contrat de partenariat distinct**.
+Le GIE « Drop & Loot Studio » utilise la marque « Drop & Loot », domaine et réseaux sociaux de l'Association « Maison Drop & Loot » conformément à un **contrat de partenariat distinct**.
 
 Ce contrat prévoit :
 
 1. Mise à disposition des actifs par l'Asso
-2. Utilisation légale par le GIE (facturation au nom du GIE)
+2. Utilisation légale par le GIE (facturation au nom du GIE Studio)
 3. Contributions optionnelles du GIE vers l'Asso (ex: 10% des bénéfices)
 4. Clauses de restitution en cas de dissolution GIE
 
@@ -284,7 +287,7 @@ Ce contrat prévoit :
 
 ### Article 23 — Statuts de l'Asso
 
-Les associés reconnaissent que l'Asso « Maison Drop & Loot » est propriétaire des actifs et que le GIE n'a qu'un droit d'usage contractuel.
+Les associés reconnaissent que l'Asso « Maison Drop & Loot » est propriétaire des actifs et que le GIE « Drop & Loot Studio » n'a qu'un droit d'usage contractuel.
 
 ---
 

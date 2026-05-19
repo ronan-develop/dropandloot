@@ -41,7 +41,7 @@ Explication du système optimal: Asso (propriétaire des actifs) + GIE (opérati
 
 ---
 
-### Étage 2: GIE "Drop & Loot"
+### Étage 2: GIE "Drop & Loot Studio"
 
 **Rôle** : Gestionnaire des opérations commerciales
 
@@ -195,7 +195,7 @@ Johann: 4 085€ + 8 270€ = 12 355€ ✅
 
 **Coûts annuels** : ~50€ (cotisations asso)
 
-### GIE "Drop & Loot"
+### GIE "Drop & Loot Studio"
 
 **Responsables** : Ronan + Johann (associés)
 
@@ -218,7 +218,7 @@ Johann: 4 085€ + 8 270€ = 12 355€ ✅
 ```text
 Entre:
 - Asso "Maison Drop & Loot" (propriétaire actifs)
-- GIE "Drop & Loot" (gestionnaire opérations)
+- GIE "Drop & Loot Studio" (gestionnaire opérations)
 
 Asso met à disposition:
 ✅ Marque INPI
@@ -297,6 +297,6 @@ Semaine 4+:
 
 ---
 
-**Dernière mise à jour** : 14 mai 2026  
-**Statut** : À valider avec avocat  
-**Modèle** : GIE + Asso (recommandé Drop & Loot)
+**Dernière mise à jour** : 19 mai 2026  
+**Statut** : Structure finalisée (Maison Drop & Loot + Drop & Loot Studio)  
+**Modèle** : GIE Studio + Asso Maison (recommandé Drop & Loot)

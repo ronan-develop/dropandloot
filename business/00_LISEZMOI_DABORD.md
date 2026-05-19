@@ -21,6 +21,7 @@
 ```
 
 **Flux simplifié** :
+
 1. Ronan/Johann encaisse CA → déclare 100% URSSAF → verse bénéfice net au **GIE**
 2. GIE redistribue pour égaliser 50/50
 3. Asso garde propriété intellectuelle

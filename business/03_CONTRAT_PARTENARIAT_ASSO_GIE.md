@@ -1,6 +1,6 @@
 # Contrat de Partenariat — Association ↔ GIE
 
-**"Maison Drop & Loot" (Asso) ↔ "Drop & Loot" (GIE)**
+**"Maison Drop & Loot" (Asso) ↔ "Drop & Loot Studio" (GIE)**
 
 ---
 
@@ -12,7 +12,7 @@ Ci-après dénommée « **l'Association** ».
 
 ET
 
-**Drop & Loot**, Groupement d'Intérêt Économique (GIE), composé de Ronan Lenouvel et Johann Bonnay, associés.
+**Drop & Loot Studio**, Groupement d'Intérêt Économique (GIE), composé de Ronan Lenouvel et Johann Bonnay, associés.
 
 Ci-après dénommée « **le GIE** ».
 
@@ -305,7 +305,7 @@ Les parties reconnaissent avoir pris connaissance du présent contrat et en acce
 
 ---
 
-### Pour le GIE "Drop & Loot"
+### Pour le GIE "Drop & Loot Studio"
 
 **Titre** : Associé 1  
 **Nom** : Ronan Lenouvel  

@@ -1,12 +1,12 @@
 # Guide d'Implémentation — Timeline Complète
 
-**Drop & Loot — Modèle GIE + Asso**
+**Drop & Loot — Modèle GIE Studio + Asso Maison**
 
 ---
 
 ## Vue d'ensemble
 
-Vous avez choisi le **modèle GIE + Asso** pour zéro risque société de fait. Cette guide décrit exactement quoi faire, dans quel ordre, et avec quel timing.
+Vous avez choisi le **modèle GIE Studio + Asso Maison** pour zéro risque société de fait. Cette guide décrit exactement quoi faire, dans quel ordre, et avec quel timing.
 
 **Délai total : 5-6 semaines** du lancement jusqu'à première opération commerciale.
 
@@ -18,7 +18,7 @@ Vous avez choisi le **modèle GIE + Asso** pour zéro risque société de fait. 
 
 **Responsable** : Ronan + Johann (ensemble)  
 **Durée** : 2-3 heures  
-**Fichiers** : ARCHITECTURE_GIE_FINAL.md
+**Fichiers** : MODELE_GIE_ASS.md
 
 - [ ] Ronan lit l'architecture complète
 - [ ] Johann lit l'architecture complète
@@ -122,7 +122,7 @@ Vous avez choisi le **modèle GIE + Asso** pour zéro risque société de fait. 
 
 ---
 
-## SEMAINE 2 — Constitution du GIE
+## SEMAINE 2 — Constitution du GIE "Drop & Loot Studio"
 
 ### Étape 2.1 : Contacter un cabinet d'avocats
 
@@ -133,9 +133,9 @@ Vous avez choisi le **modèle GIE + Asso** pour zéro risque société de fait. 
 **Sélection du cabinet** :
 
 - [ ] Chercher 3-5 cabinets spécialisés en :
-  - Droit commercial / GIE
+  - Droit commercial / GIE (Group d'Intérêt Économique)
   - Droit de la consommation (pour jeu concours)
-  - Auto-entrepreneurs / PME
+  - Auto-entrepreneurs / PME et associations loi 1901
 
 **Suggestions** :
 - Cabinets généralistes locaux (meilleur rapport qualité/prix)
@@ -150,9 +150,9 @@ Vous avez choisi le **modèle GIE + Asso** pour zéro risque société de fait. 
   - Court résumé du modèle (2-3 lignes)
 - [ ] Demander un RDV téléphonique de 30 min
 - [ ] Demander un **devis précis** avec :
-  - Contrat GIE
-  - Statuts Asso (révision)
-  - Contrat partenariat Asso ↔ GIE
+  - Contrat GIE "Drop & Loot Studio"
+  - Statuts Asso "Maison Drop & Loot" (révision)
+  - Contrat partenariat Asso ↔ GIE Studio
   - Règlement jeu concours
 
 **Résultat** : RDV confirmé avec avocat.
@@ -195,10 +195,10 @@ Vous avez choisi le **modèle GIE + Asso** pour zéro risque société de fait. 
 
 **Livrables attendus** :
 
-- [ ] Contrat GIE (format Word, signable)
-- [ ] Statuts Asso revisités (format Word, signable)
-- [ ] Contrat partenariat Asso ↔ GIE (format Word, signable)
-- [ ] Avis juridique sur légalité du modèle
+- [ ] Contrat GIE "Drop & Loot Studio" (format Word, signable)
+- [ ] Statuts Asso "Maison Drop & Loot" revisités (format Word, signable)
+- [ ] Contrat partenariat Asso ↔ GIE Studio (format Word, signable)
+- [ ] Avis juridique sur légalité du modèle Asso + GIE
 
 **Vous recevez** : Files email avec tous les documents.
 
@@ -212,7 +212,7 @@ Vous avez choisi le **modèle GIE + Asso** pour zéro risque société de fait. 
 
 ---
 
-### Étape 2.4 : Signature des contrats GIE
+### Étape 2.4 : Signature des contrats GIE Studio
 
 **Responsable** : Ronan + Johann (ensemble)  
 **Durée** : 30 min  
@@ -222,16 +222,16 @@ Vous avez choisi le **modèle GIE + Asso** pour zéro risque société de fait. 
 - [ ] Imprimer chaque document en **2 copies** (une pour chacun)
 - [ ] Ensemble : relire et clarifier si besoin
 - [ ] Signer et dater chaque contrat :
-  - Contrat GIE (2 copies, 2 signatures par copie)
-  - Statuts Asso revisités (2 copies, 2 signatures)
-  - Contrat partenariat Asso ↔ GIE (2 copies, 3 signatures par copie)
+  - Contrat GIE "Drop & Loot Studio" (2 copies, 2 signatures par copie)
+  - Statuts Asso "Maison Drop & Loot" revisités (2 copies, 2 signatures)
+  - Contrat partenariat Asso ↔ GIE Studio (2 copies, 3 signatures par copie)
 - [ ] Conserver 1 copie chacun
 
 **Résultat** : Tous les contrats signés, prêts pour enregistrement.
 
 ---
 
-### Étape 2.5 : Enregistrement du GIE à la Sous-Préfecture
+### Étape 2.5 : Enregistrement du GIE "Drop & Loot Studio" à la Sous-Préfecture
 
 **Responsable** : Ronan  
 **Durée** : 20 min en ligne + 1-2 semaines d'attente  
@@ -241,16 +241,16 @@ Vous avez choisi le **modèle GIE + Asso** pour zéro risque société de fait. 
 **Procédure** :
 
 - [ ] Contacter la Sous-Préfecture (téléphone ou site)
-- [ ] Demander : "Comment enregistrer un GIE?"
+- [ ] Demander : "Comment enregistrer un GIE "Drop & Loot Studio"?"
 - [ ] Remplir le dossier d'enregistrement avec :
-  - Contrat GIE signé
-  - Identités + adresses des associés
-  - Objet du GIE
-  - Siège social (même que Asso)
+  - Contrat GIE "Drop & Loot Studio" signé
+  - Identités + adresses des associés (Ronan + Johann)
+  - Objet du GIE (opérations commerciales marque Drop & Loot)
+  - Siège social (même que Asso Maison Drop & Loot)
 - [ ] Verser 150€ (chèque ou virement)
-- [ ] Recevoir : Numéro SIRET du GIE + récépissé
+- [ ] Recevoir : Numéro SIRET du GIE Studio + récépissé
 
-**Résultat** : GIE enregistré, numéro SIRET reçu, prêt à opérer.
+**Résultat** : GIE "Drop & Loot Studio" enregistré, SIRET reçu, prêt à opérer.
 
 ---
 
@@ -339,7 +339,7 @@ Vous avez choisi le **modèle GIE + Asso** pour zéro risque société de fait. 
 
 ## SEMAINE 4 — Comptes bancaires et paiements
 
-### Étape 4.1 : Ouvrir compte bancaire du GIE
+### Étape 4.1 : Ouvrir compte bancaire du GIE "Drop & Loot Studio"
 
 **Responsable** : Ronan  
 **Durée** : 10 min + 3-5 jours  
@@ -356,10 +356,10 @@ Vous avez choisi le **modèle GIE + Asso** pour zéro risque société de fait. 
 
 - [ ] Créer un compte GIE distinct de compte personnel
 - [ ] Utiliser :
-  - Nom : Drop & Loot (GIE)
+  - Nom : Drop & Loot Studio (GIE)
   - SIRET : Numéro reçu à l'étape 2.5
   - Signatures : Ronan + Johann (accès conjoint recommandé)
-- [ ] Recevoir IBAN du GIE
+- [ ] Recevoir IBAN du GIE Studio
 - [ ] Documenter IBAN pour versements ultérieurs
 
 **Rôle du compte** :
@@ -368,7 +368,7 @@ Vous avez choisi le **modèle GIE + Asso** pour zéro risque société de fait. 
 - Effectuer redistributions entre associés
 - Traceabilité complète pour URSSAF + avocat
 
-**Résultat** : Compte GIE opérationnel.
+**Résultat** : Compte GIE "Drop & Loot Studio" opérationnel.
 
 ---
 
@@ -578,13 +578,13 @@ Vous avez choisi le **modèle GIE + Asso** pour zéro risque société de fait. 
 
 **Procédure** :
 
-- [ ] Ronan prépare versement au GIE :
+- [ ] Ronan prépare versement au GIE Studio :
   - Montant net: 42 000€
-  - Bénéficiaire: Compte GIE
-  - Motif: "Versement bénéfice net opération Gaming Op1"
+  - Bénéficiaire: Compte GIE "Drop & Loot Studio"
+  - Motif: "Versement bénéfice net opération Gaming Op1 - GIE Drop & Loot Studio"
 - [ ] Ronan effectue virement :
   - Depuis compte Ronan personnel
-  - Vers compte GIE
+  - Vers compte GIE Studio
   - Garder preuve (relevé bancaire + mail confirmation)
 
 **Attendre opération Johann** (musique, par exemple) avant redistribution.
@@ -603,9 +603,9 @@ Supposons :
 
 ## REDISTRIBUTION FINALE
 
-### Étape 8.1 : Calcul compte courant GIE
+### Étape 8.1 : Calcul compte courant GIE "Drop & Loot Studio"
 
-**Responsable** : Ronan (gestionnaire GIE) ou Johann  
+**Responsable** : Ronan (gestionnaire GIE Studio) ou Johann  
 **Durée** : 30 min
 
 **Tableau** :
@@ -618,23 +618,23 @@ Supposons :
 
 ---
 
-### Étape 8.2 : Compensation versée
+### Étape 8.2 : Compensation versée par GIE "Drop & Loot Studio"
 
 **Responsable** : Ronan (gestionnaire) ou Johann  
 **Durée** : 2-3 jours
 
 **Procédure** :
 
-- [ ] GIE prépare virement compensation :
-  - De compte GIE vers compte Johann
+- [ ] GIE Studio prépare virement compensation :
+  - De compte GIE Studio vers compte Johann
   - Montant: 8 500€
-  - Motif: "Compensation redistribution Q1"
+  - Motif: "Compensation redistribution 50/50 GIE Drop & Loot Studio - Q1"
 - [ ] Effectuer virement
 - [ ] Documenter (relevé bancaire + copie)
 
 **Résultat final** :
-- Ronan : 42 000€ (op1) - 8 500€ (compensation) = **33 500€** ✅
-- Johann : 25 000€ (op2) + 8 500€ (compensation) = **33 500€** ✅
+- Ronan : 42 000€ (op1) - 8 500€ (compensation) = **33 500€** ✅ (50/50)
+- Johann : 25 000€ (op2) + 8 500€ (compensation) = **33 500€** ✅ (50/50)
 
 ---
 
@@ -671,7 +671,7 @@ Supposons :
 - [ ] Créer compte YouTube Drop & Loot
 - [ ] Créer compte Facebook Drop & Loot
 - [ ] Créer Discord serveur Drop & Loot
-- [ ] Ouvrir compte bancaire GIE (0-9€/mois)
+- [ ] Ouvrir compte bancaire GIE Studio (0-9€/mois)
 
 ### SEMAINE 4
 
@@ -693,21 +693,21 @@ Supposons :
 - [ ] Ronan : Encaisser CA (Stripe → compte personnel)
 - [ ] Ronan : Déclarer CA à URSSAF (100% honnête)
 - [ ] Ronan : Payer frais + charges + URSSAF
-- [ ] Ronan : Verser bénéfice net au GIE (42 000€)
+- [ ] Ronan : Verser bénéfice net au GIE Studio (42 000€)
 - [ ] Ronan : Tirage au sort avec huissier
 - [ ] Ronan : Expédier lots et T-shirts aux gagnants
 
 ### SEMAINE 7+
 
 - [ ] Johann : Même procédure pour opération Musique
-- [ ] Johann : Verser bénéfice net au GIE (25 000€)
+- [ ] Johann : Verser bénéfice net au GIE Studio (25 000€)
 
 ### SEMAINE 8+
 
-- [ ] Calculer compte courant GIE (Ronan versé 42k, Johann 25k)
-- [ ] GIE verse compensation (Ronan -8.5k, Johann +8.5k)
-- [ ] Résultat final: 33.5k chacun (50/50)
-- [ ] Documenter tout
+- [ ] Calculer compte courant GIE Studio (Ronan versé 42k, Johann 25k)
+- [ ] GIE Studio verse compensation (Ronan -8.5k, Johann +8.5k)
+- [ ] Résultat final: 33.5k chacun (50/50 exact)
+- [ ] Documenter tout (archivage 5 ans)
 
 ---
 
@@ -725,6 +725,19 @@ Supposons :
 | **Huissier par opération** | 300-400€ | Par op |
 
 **Rentabilité** : 1 opération Gaming (100k CA) = 42k net = **ROI immédiat**.
+
+---
+
+---
+
+## RÉSUMÉ — Structure définitive
+
+| Entité | Nom | Rôle |
+|--------|-----|------|
+| Marque | **Drop & Loot** | Brand public |
+| Association | **Maison Drop & Loot** | Détient les actifs (marque, domaine, réseaux, base clients) |
+| GIE | **Drop & Loot Studio** | Gère les opérations commerciales |
+| Auto-Entrepreneurs | Ronan + Johann (statut conservé) | Porteurs des opérations, associés du GIE |
 
 ---
 

@@ -20,15 +20,18 @@ Créer une plateforme légale et transparente de ventes de T-shirts + tirages au
 - Gère : Compte courant, redistribution équitable 50/50
 - Statuts : Loi 1901, Article 31 pour le compte courant
 
-### Entité 2 : Auto-Entrepreneur A (Ronan)
-- Activité : Vente marchandises (Code APE 47.91B)
-- Rôle : Président association + porteur opérations
-- Déclaration : 100% du CA à l'URSSAF
+### Entité 2 : GIE "Drop & Loot Studio"
+- Gère : Opérations commerciales (vente T-shirts, jeux concours)
+- Associés : Ronan (AE) + Johann (AE)
+- Rôle : Gestionnaire des opérations, redistribution 50/50
 
-### Entité 3 : Auto-Entrepreneur B (Johann)
-- Activité : Vente marchandises (Code APE 47.91B)
-- Rôle : Trésorier association + porteur opérations
-- Déclaration : 100% du CA à l'URSSAF
+### Entité 3 & 4 : Auto-Entrepreneurs (Conservent leur statut)
+- Ronan Lenouvel (Code APE 47.91B)
+  - Rôle : Président association + Associé GIE
+  - Statut : Auto-entrepreneur indépendant
+- Johann Bonnay (Code APE 47.91B)
+  - Rôle : Trésorier association + Associé GIE
+  - Statut : Auto-entrepreneur indépendant
 
 ---
 
