@@ -1,6 +1,33 @@
-# Questions à poser au cabinet d'avocats
+# Questions détaillées + Livrables + Planning
 
-## Drop & Loot — Questionnaire complet
+## Drop & Loot — Document annexe de 04_COURRIER_AVOCAT.md
+
+**Usage** :
+
+- **04_COURRIER_AVOCAT.md** : Courrier simplifié (RDV de diagnostic)
+- **Ce fichier** : Questions détaillées + livrables attendus + planning
+
+**À partager avec l'avocat après le RDV téléphonique**, une fois la structure validée.
+
+---
+
+## 🎯 Questions essentielles pour le RDV de diagnostic
+
+**À clarifier directement au téléphone** (15-30 min) :
+
+1. **GIE + Redistribution** : Légalité? Risques URSSAF?
+2. **Jeu concours** : Dépôt huissier (une fois ou par opération)? Tirage obligatoire?
+3. **Organisateur légal** : Qui signe le règlement (Asso, GIE, AE)?
+4. **Facturation** : RDV gratuit ou facturé? Tarif horaire?
+
+**Réponses courtes attendues** : Permet d'affiner le devis et les livrables.
+
+---
+
+## 📋 Questions détaillées (après accord sur les fondamentaux)
+
+Les questions ci-dessous sont à explorer après le RDV initial, une fois que la
+structure générale est validée.
 
 ---
 
@@ -467,16 +494,121 @@ Président - Maison Drop & Loot
 
 ---
 
+## 📦 LIVRABLES ATTENDUS
+
+### Livrable 1 — Contrat GIE Studio
+
+**Contient** :
+
+- Constitution juridique du GIE
+- Clauses de gestion (apports, résultats, responsabilités)
+- Conditions de redistribution (50/50, compte courant)
+- Conditions de sortie d'un associé
+- Indépendance des associés (pas de subordination)
+
+**Format** : Word à imprimer et signer (2 copies)
+
+**Tarif estimé** : 300-500€
+
+---
+
+### Livrable 2 — Statuts révisés Asso Maison Drop & Loot
+
+**Contient** :
+
+- Clarification du rôle propriétaire de l'Asso
+- Article 31 : Compte courant + redistribution
+- Gestion des partenariats avec le GIE
+- Propriété inaliénable marque + domaine
+- Procédure minimal assemblée générale
+
+**Format** : Word à imprimer et signer (2 copies)
+
+**Tarif estimé** : 200-300€
+
+---
+
+### Livrable 3 — Contrat de partenariat Asso ↔ GIE Studio
+
+**Contient** :
+
+- Mise à disposition marque + domaine + réseaux + base clients
+- Droits d'usage GIE (exclusif? non-exclusif?)
+- Restitution en cas dissolution GIE
+- Contributions optionnelles GIE vers Asso
+
+**Format** : Word signable
+
+**Tarif estimé** : 200-300€
+
+---
+
+### Livrable 4 — Règlement-cadre jeu concours
+
+**Contient** :
+
+- Template unique réutilisable (Gaming, Musique, Lifestyle, etc.)
+- Annexes variables (lot, dates, seuil, organisateur)
+- Conformité Code de la consommation L.121-36+
+- Procédure tirage + formules impartialité
+- Clarification : dépôt huissier obligatoire ou recommandé?
+
+**Format** : Word + guide de remplissage pour annexes
+
+**Tarif estimé** : 300-500€
+
+---
+
+### Livrable 5 — Avis juridique (optionnel)
+
+**Contient** :
+
+- Confirmation légale du modèle GIE
+- Zéro risque URSSAF (ou risques identifiés)
+- Recommandations spécifiques
+
+**Tarif estimé** : Inclus ou 100-200€ supplémentaire
+
+---
+
+## 📅 PLANNING ET BUDGET
+
+### Budget estimé (fourchette basse)
+
+| Poste | Détail | Tarif |
+|-------|--------|-------|
+| RDV diagnostic | 30-45 min (à clarifier : payant?) | ? |
+| Contrat GIE | Constitution + clauses | 300€ |
+| Statuts Asso | Révision + Article 31 | 200€ |
+| Contrat partenariat | Asso ↔ GIE | 200€ |
+| Règlement jeu concours | Template réutilisable (1 fois) | 300€ |
+| **TOTAL** | | **~1 200€** |
+
+**Points importants** :
+
+- Après le RDV diagnostic, affiner le devis précis
+- Règlement-cadre = investissement unique (réutilisable 3+ ans)
+- Chaque opération : frais huissier ~300-400€ (pas d'avocat)
+- Révisions statutaires ultérieures : moins cher (modifications mineures)
+
+### Timeline proposée
+
+| Phase | Délai | Actions |
+|-------|-------|---------|
+| **RDV diagnostic** | Sem 1 | Appel de 30-45 min, devis reçu |
+| **Rédaction contrats** | Sem 2-3 | Avocat rédige, vous relisez |
+| **Signature** | Sem 4 | Documents signés, archivés |
+| **Règlement JC** | Sem 5 | Template approuvé, prêt dépôt huissier |
+| **Dépôt huissier** | Sem 5 | Vous contactez huissier (300-400€) |
+| **Op 1 Gaming** | Sem 6+ | Première opération lancée |
+
+---
+
 ## Checklist avant d'appeler
 
-
-- [ ] Lire le courrier existant (05_COURRIER_AVOCAT.md)
-
-- [ ] Identifier 3-5 cabinets (spécialité : droit conso + affaires)
-
-- [ ] Envoyer email de prise de contact
-
-- [ ] Préparer les questions essentielles (Thèmes 1, 2, 4, 5)
-
-- [ ] Bloc-notes pour prendre notes lors de la discussion
+- [ ] Lire le courrier existant (04_COURRIER_AVOCAT.md)
+- [ ] Identifier 3-5 cabinets (spécialité : droit conso + commerce + affaires)
+- [ ] Préparer questions essentielles (GIE, JC, organisateur, facturation RDV)
+- [ ] Bloc-notes pour notes pendant l'appel
+- [ ] Proposer 2-3 créneaux pour RDV (flexibilité)
 
