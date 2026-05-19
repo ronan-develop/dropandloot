@@ -58,6 +58,24 @@ PLUS OBLIGATOIRE** depuis cette date.
 
 **Coût** : 300-400€ **une seule fois** pour le template, pas par opération.
 
+**⚠️ POINT À CLARIFIER** :
+
+Une ambiguïté subsiste sur la procédure exacte après le dépôt initial :
+
+**Scénario A** (Probable) :
+- Déposer template initial complet (300-400€)
+- Pour chaque opération : adapter annexes (lot, dates, organisateur) + conserver en interne
+- Huissier intervient uniquement pour le tirage final (150-300€/opération)
+- **Coût total/année** : 300-400€ (initial) + 150-300€ × 3 ops = 750-1300€/an
+
+**Scénario B** (Possible mais coûteux) :
+- Déposer template initial (300-400€)
+- Pour chaque opération : redéposer règlement complet + annexes chez huissier (300-400€/op)
+- Huissier intervient aussi pour tirage (150-300€/op)
+- **Coût total/année** : très élevé (1200-2100€/an)
+
+**À demander à votre avocat** : Quel scénario correspond à la bonne pratique légale pour optimiser vos coûts?
+
 #### **Approche 2 : Sans dépôt huissier (NON RECOMMANDÉ)**
 
 Possible légalement, mais expose à risques :

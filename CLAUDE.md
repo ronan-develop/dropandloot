@@ -45,7 +45,7 @@ Pour du code ou des dépendances : créer une branche `dev/` ou `feature/` et va
 
 - Tous les fichiers MD doivent être lint-clean (markdownlint)
 - MD032, MD040, MD031 strictement respectés
-- Pas de lignes > 80 caractères (sauf tableaux)
+- Pas de lignes > 130 caractères pour les textes (sauf tableaux)
 
 ---
 

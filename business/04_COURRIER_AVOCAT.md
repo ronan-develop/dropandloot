@@ -1,14 +1,14 @@
 # Lettre de Demande de Mission — Cabinet d'Avocats
 
-**Drop & Loot — Modèle GIE + Asso**
+## Drop & Loot — Modèle GIE + Asso
 
 ---
 
 ## Métadonnées (À remplir)
 
 - **Signataire** : Maison Drop & Loot (association loi 1901)
-- **Représentant signataire** : Ronan Lenouvel (Président)
-- **Email** : ronan.develop@gmail.com [À mettre à jour]
+- **Représentant signataire** : [À REMPLIR PAR LE PRÉSIDENT]
+- **Email** : [À mettre à jour]
 - **Téléphone** : [À REMPLIR]
 - **Adresse personnelle** : [À REMPLIR]
 - **Cabinet visé** : [À REMPLIR]
@@ -25,8 +25,8 @@ Madame, Monsieur,
 
 Nous vous contactons pour solliciter votre expertise juridique dans la
 structuration et sécurisation d'une activité commerciale reposant sur un
-**modèle GIE + Association loi 1901**, avec mise en place d'un **jeu
-concours réglementé**.
+**modèle GIE + Association loi 1901**, avec mise en place d'un jeu concours
+réglementé.
 
 ---
 
@@ -38,7 +38,7 @@ Notre modèle repose sur trois entités juridiques distinctes :
 
 1. **Association loi 1901** « Maison Drop & Loot »
    - Rôle : Détenteur des actifs communs (marque INPI, domaine, réseaux sociaux, base clients)
-   - Dirigeants : Ronan Lenouvel (Président), Johann Bonnay (Trésorier)
+   - Dirigeants : Ronan Lenouvel , Johann Bonnay. Rôles à déterminer : Président, Trésorier
    - Activité : Gestion patrimoniale et événementielle (aucune activité commerciale directe)
 
 2. **GIE** « Drop & Loot »
@@ -67,7 +67,7 @@ pour équité 50/50.
 
 **Opération type (Gaming, montant exemple)** :
 
-```
+```txt
 1. Clients achètent T-shirt + tirage au sort : 100 000€ CA
 2. Ronan encaisse et déclare 100 000€ à l'URSSAF
 3. Ronan paie:
@@ -84,6 +84,7 @@ pour équité 50/50.
 ```
 
 **Transparence URSSAF** :
+
 - ✅ Ronan déclare 100% de son CA réel
 - ✅ Johann déclare 100% de son CA réel
 - ✅ Chacun paie ses cotisations réelles
@@ -91,13 +92,14 @@ pour équité 50/50.
 
 ### Avantage du GIE
 
-Contrairement au compte courant classique, **le GIE est explicitement
-prévu par le Code du Commerce pour ce type de collaboration**.
+Contrairement au compte courant classique, le GIE est explicitement prévu par le
+Code du Commerce pour ce type de collaboration.
 
 - **Code Commerce L.211-1** : « Un GIE est constitué entre personnes
   physiques ou morales afin de mettre en œuvre les moyens nécessaires à
   l'exercice d'activités concourant à un but commun »
-- **Jurisprudence établie** : Cassation 3 février 2004 confirme que GIE ≠ société de fait
+- **Jurisprudence établie** : Cassation 3 février 2004 confirme que GIE est
+  différent d'une société de fait
 - **Acceptation URSSAF** : GIE explicitement accepté pour auto-entrepreneurs
 
 ---
@@ -122,14 +124,14 @@ risque URSSAF.
 ### Question 2 — Clauses essentielles du contrat GIE
 
 > **Exposé** : Quels éléments essentiels doit contenir le contrat de
-> constitution du GIE pour garantir légalité et clarté, notamment
-> concernant :
+> constitution du GIE pour garantir légalité et clarté, notamment concernant :
+>
 > - Les apports (pas d'apport de capital)
 > - La redistribution des résultats (modalités, documentation)
 > - L'indépendance des associés (pas de lien de subordination)
 > - Les conditions de sortie d'un associé
 
-**Contexte** : Nous avons un draft, mais souhaitons validation par expert.
+**Contexte** : Nous avons un brouillon, mais souhaitons validation par expert.
 
 **Besoin** : Rédaction/révision du contrat GIE.
 
@@ -151,9 +153,10 @@ risque URSSAF.
 ### Question 4 — Organisateur légal du jeu concours
 
 > **Exposé** : Pour le règlement-cadre du jeu concours, quel doit être l'organisateur légal inscrit :
+>
 > - L'Association « Maison Drop & Loot » ?
 > - Le GIE « Drop & Loot » ?
-> - L'auto-entrepreneur porteur de l'opération (Ronan ou Johann) ?
+> - L'auto-entrepreneur porteur de l'opération ?
 
 **Contexte** : Notre structure est complexe (Asso propriétaire, GIE
 opérationnel, AE porteur), et nous voulons clarifier la responsabilité
@@ -166,6 +169,7 @@ légale.
 ### Question 5 — Dépôt et formalités jeu concours
 
 > **Exposé** : Pour un jeu concours avec tirage au sort :
+>
 > - Faut-il un dépôt auprès d'un huissier avant chaque opération, ou une seule fois pour un template ?
 > - Le tirage au sort doit-il obligatoirement être effectué par un huissier, ou existe-t-il des alternatives certifiées ?
 > - Quels points du Code de la consommation (L.121-36 et suivants) s'appliquent spécifiquement à notre modèle ?
@@ -173,6 +177,25 @@ légale.
 **Contexte** : Nous organiserons plusieurs opérations (Gaming, Musique, Lifestyle), et nous voulons optimiser coûts et procédures.
 
 **Besoin** : Règlement-cadre réutilisable + procédures jeu concours.
+
+---
+
+### Question 5.1 — Dépôt des annexes par opération (Clarification)
+
+> **Exposé** : Une fois le template de règlement déposé chez l'huissier,
+> faut-il redéposer les annexes complètes (avec lot spécifique, dates,
+> organisateur) pour chaque opération?
+>
+> Ou bien : les annexes restent-elles en interne, le huissier intervenant
+> uniquement pour le tirage final?
+
+**Contexte** : Nous voulons optimiser les coûts huissier (300-400€ par dépôt).
+Nous comprenons qu'un template unique réutilisable = économies, mais nous
+ne savons pas si chaque opération requiert un nouveau dépôt ou si les
+annexes en interne suffisent.
+
+**Besoin** : Clarifier la procédure exacte pour 3+ opérations annuelles
+(Gaming, Musique, Lifestyle).
 
 ---
 
@@ -192,30 +215,36 @@ légale.
 ## IV. LIVRABLES ATTENDUS
 
 ### Livrable 1 — Contrat GIE
+
 - Constitution juridique du GIE
 - Clauses de gestion et redistribution
 - Conditions de sortie
 - Format Word à imprimer et signer
 
 ### Livrable 2 — Statuts Asso (révision)
+
 - Clarification du rôle propriétaire de l'Asso
 - Gestion des partenariats avec le GIE
 - Propriété inaliénable de la marque et domaine
 - Format Word à imprimer et signer
 
 ### Livrable 3 — Contrat de partenariat Asso ↔ GIE
+
 - Mise à disposition des actifs
 - Droits d'usage du GIE
 - Restitution en cas de dissolution
 - Contributions optionnelles du GIE vers l'Asso
 
 ### Livrable 4 — Règlement-cadre jeu concours
-- Un template unique réutilisable pour toutes les opérations (Gaming, Musique, Lifestyle, etc.)
+
+- Un template unique réutilisable pour toutes les opérations (Gaming, Musique,
+  Lifestyle, etc.)
 - Annexes variables (lot, dates, seuil, organisateur désigné)
 - Conformité Code de la consommation L.121-36+
 - Formules de tirage et certification
 
 ### Livrable 5 — Avis juridique
+
 - Confirmation légale du modèle GIE
 - Zéro risque URSSAF
 - Recommandations spécifiques
@@ -237,7 +266,7 @@ légale.
 Nous demandons un devis pour :
 
 | Poste | Détail | Tarif estimé |
-|-------|--------|---|
+|-------|--------|-----|
 | Contrat GIE | Rédaction + révision | 300-500€ |
 | Statuts Asso | Révision + clarifications | 200-300€ |
 | Contrat partenariat | Rédaction Asso ↔ GIE | 200-300€ |
@@ -245,6 +274,7 @@ Nous demandons un devis pour :
 | **TOTAL** | | **1 000-1 600€** |
 
 **Points** :
+
 - Après la première opération, les coûts avocat baissent drastiquement (réutilisation template)
 - Nous budgetons également ~300-400€ par opération pour dépôt auprès d'un huissier
 
@@ -280,7 +310,7 @@ Tous ces documents sont disponibles à votre demande par email.
 **Ronan Lenouvel**  
 Président — Maison Drop & Loot
 
-- Email : ronan.develop@gmail.com
+- Email : <ronan.develop@gmail.com>
 - Téléphone : [À REMPLIR]
 - Adresse : [À REMPLIR]
 
@@ -316,4 +346,3 @@ supplémentaires couvrant :
 - Faillite personnelle d'un associé
 - Responsabilité en cas de plainte client
 - Et bien d'autres...
-
