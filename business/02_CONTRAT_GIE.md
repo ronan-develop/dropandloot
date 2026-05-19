@@ -1,6 +1,6 @@
 # Contrat de Constitution du GIE "Drop & Loot"
 
-**Modèle initial — À adapter avec avocat**
+## Modèle initial — À adapter avec avocat
 
 ---
 
@@ -22,6 +22,7 @@ loi du 17 juillet 1978 relative aux Groupements d'Intérêt Économique
 (GIE) et le Code du Commerce articles L.211-1 et suivants.
 
 Ces activités consistent principalement en :
+
 - Vente de T-shirts et articles promotionnels
 - Organisation de jeux concours et tirages au sort
 - Utilisation de la marque commerciale « Drop & Loot »
@@ -47,13 +48,18 @@ Enregistré à la Sous-Préfecture de [LIEU ENREGISTREMENT] sous le numéro [À 
 
 Le GIE a pour objet :
 
-1. **Gestion des opérations commerciales** relatives à la vente de produits et organisation de jeux concours ;
-2. **Mise en œuvre des moyens** nécessaires à ces activités ;
-3. **Facturation et encaissement** auprès des clients ;
-4. **Redistribution des résultats** entre les associés de manière équitable ;
-5. **Utilisation de la marque et des actifs** communs via contrat de partenariat avec l'Association « Maison Drop & Loot ».
+1. **Être le porteur légal de toutes les opérations commerciales** relatives à la vente de produits et organisation de jeux concours ;
+2. **Gestion des opérations commerciales** : Le GIE exploite directement les opérations, représenté par l'un ou l'autre associé ;
+3. **Mise en œuvre des moyens** nécessaires à ces activités ;
+4. **Facturation et encaissement** auprès des clients (au nom du GIE) ;
+5. **Déclaration fiscale** auprès de l'URSSAF (CA total du GIE) ;
+6. **Redistribution des résultats** entre les associés de manière équitable (50/50) ;
+7. **Utilisation de la marque et des actifs** communs via contrat de partenariat avec l'Association « Maison Drop & Loot ».
 
 **Activité APE** : 47.91B (Commerce de détail en magasin spécialisé)
+
+**Clarification légale importante** : Les deux associés ne sont pas porteurs personnels des opérations commerciales.
+Ils représentent le GIE, qui est l'unique porteur légal et responsable civile et fiscale des opérations.
 
 ### Article 3 — Siège social
 
@@ -78,10 +84,10 @@ Le GIE est composé de **2 associés auto-entrepreneurs**. Chaque associé
 conserve son statut d'auto-entrepreneur et son indépendance juridique
 totale.
 
-| Associé | Statut | APE personnel |
-|---------|--------|---|
-| Ronan Lenouvel | Auto-entrepreneur | 47.91B |
-| Johann Bonnay | Auto-entrepreneur | 47.91B |
+| Associé        | Statut            | APE personnel |
+|----------------|-------------------|---------------|
+| Ronan Lenouvel | Auto-entrepreneur | 47.91B        |
+| Johann Bonnay  | Auto-entrepreneur | 47.91B        |
 
 ### Article 6 — Apports
 
@@ -104,61 +110,94 @@ capitalistique. Chaque associé participe égalitairement aux résultats.
 
 ### Article 8 — Gestion du GIE
 
-Le GIE est géré par **les deux associés agissant solidairement**.
+Le GIE est géré par **les deux associés agissant solidairement et conjointement**.
 
-Chaque opération commerciale peut être portée par l'un ou l'autre des associés (aucun rôle fixe).
+**Représentation légale** :
+
+- Chaque associé peut représenter le GIE dans les limites de son objet social
+- Chaque associé a le pouvoir de conclure des contrats commerciaux au nom du GIE
+- Les deux associés sont solidairement responsables des engagements du GIE
+
+**Opérations commerciales** :
+
+Chaque opération commerciale est portée par le GIE, représenté par l'un ou l'autre des associés (aucun rôle fixe).
 
 ### Article 9 — Facturations et encaissements
 
 **Facturations** :
+
 - Les factures sont établies au nom du GIE « Drop & Loot Studio »
-- Chaque facturation mentionne les deux associés ou le porteur de l'opération
-- Marque exploitée : « Drop & Loot » (propriété de l'Asso)
+- Chaque facturation mentionne le GIE et le représentant de l'opération
+- Marque exploitée : « Drop & Loot » (propriété de l'Association Maison Drop & Loot)
 - Format homogène et traçable
+- Durée de validité légale : conforme aux délais de prescription
 
 **Encaissements** :
-- Chaque associé encaisse les revenus de son opération sur son compte bancaire personnel
-- Les encaissements sont documentés (relevés bancaires, extraits Stripe)
-- Pas de mélange entre comptes personnels et compte GIE
 
-### Article 10 — Déclarations URSSAF
+- Tous les encaissements sont versés au GIE (compte bancaire GIE ou compte personnel du représentant si compte GIE non disponible)
+- Les encaissements sont documentés (relevés bancaires, extraits Stripe, justificatifs de paiement client)
+- En cas d'encaissement sur compte personnel : versement des fonds au GIE dans un délai de 10 jours ouvrables
+- Traçabilité complète des flux financiers
 
-Chaque associé déclare **100% du chiffre d'affaires** qu'il a encaissé
-auprès de l'URSSAF, indépendamment de la redistribution ultérieure.
+### Article 10 — Obligations de déclaration légales
+
+**Le GIE déclare :**
+
+1. **Formulaire cerfa n° 11770*02** : Déclaration de création auprès de la Sous-Préfecture
+2. **Formulaire 2036 bis-SD** : Déclaration annuelle de résultats auprès de l'administration fiscale
+3. **Comptabilité** : Facturations, encaissements, charges (conservation 6 ans)
+
+**Chaque associé déclare auprès de l'URSSAF et des Impôts :**
+
+Sa part de revenus redistribuée par le GIE (après charges opérationnelles), en tant qu'auto-entrepreneur :
 
 Exemple :
-- Ronan encaisse 100 000€ → déclare 100 000€ à l'URSSAF
-- Johann encaisse 60 000€ → déclare 60 000€ à l'URSSAF
-- **Pas de sous-déclaration** : Transparence totale
+
+- GIE encaisse total 160 000€ (déclaration GIE : 160 000€ à l'administration fiscale)
+- Après charges opérationnelles du GIE (T-shirts, huissier, frais bancaires, etc.) : 80 000€ net à partager
+- Ronan reçoit 40 000€ → **déclare auprès de l'URSSAF et aux Impôts** : 40 000€ de revenus professionnels
+- Johann reçoit 40 000€ → **déclare auprès de l'URSSAF et aux Impôts** : 40 000€ de revenus professionnels
+- **Régime transparent** : Chaque associé déclare uniquement sa part, paie ses cotisations sociales personnelles dessus
 
 ### Article 11 — Charges et cotisations
 
-Chaque associé assume personnellement :
+**Le GIE assume collectivement** :
 
-1. Ses charges URSSAF (12,3% du CA encaissé)
-2. Ses impôts sur le revenu (IR) selon ses revenus réels
-3. Ses frais opérationnels (T-shirts, lots, marketing, etc.)
-4. Ses dépenses bancaires (Stripe, compte pro)
+1. Ses frais opérationnels directs (T-shirts, lots, marketing, huissier, etc.)
+2. Ses dépenses bancaires (Stripe, compte pro, virements)
+3. Ses obligations légales (assurance, documentation, etc.)
 
-La redistribution du GIE intervient **après** déduction de ces charges.
+**Note** : Le GIE n'a pas de cotisations URSSAF propres. C'est un régime fiscal transparent — seuls les associés paient des cotisations sur leur part personnelle redistribuée.
+
+**Chaque associé assume personnellement** :
+
+1. Ses impôts sur le revenu (IR) selon sa part de revenu redistribuée
+2. Ses cotisations sociales obligatoires (si micro-entrepreneur complémentaire)
+3. Ses frais professionnels personnels non liés au GIE
+
+La redistribution du GIE intervient **après** déduction des charges collectives du GIE.
 
 ### Article 12 — Détermination des résultats
 
+**Le GIE établit le calcul de résultat pour chaque opération et globalement.**
+
 **Résultat par opération** :
 
-Pour chaque opération commerciale :
+Pour chaque opération commerciale exploitée par le GIE :
 
-```
-Montant encaissé (ex: 100 000€)
-- Charges opérationnelles (T-shirts, lots, huissier, etc.)
-- URSSAF 12,3%
-- Impôt IR estimé
-= Résultat net versé au GIE
+```txt
+Montant encaissé par le GIE (ex: 100 000€)
+- Charges opérationnelles directes (T-shirts, lots, huissier, etc.)
+- Cotisations URSSAF du GIE (selon régime fiscal)
+- Frais bancaires et administratifs
+= Résultat net de l'opération
 ```
 
 **Résultat global du GIE** :
 
-Le résultat global est la somme de tous les versements nets reçus par le GIE depuis les associés.
+Le résultat global du GIE est la somme de tous les résultats nets des opérations exploitées par le GIE au cours d'une période donnée.
+
+**Redistribution** : Ce résultat global est redistribué 50/50 entre les deux associés selon l'Article 13.
 
 ---
 
@@ -169,19 +208,20 @@ Le résultat global est la somme de tous les versements nets reçus par le GIE d
 **Les résultats du GIE sont redistribués de manière équitable 50/50**, indépendamment de qui a porté chaque opération.
 
 Exemple :
+
 - Ronan verse 42 000€ net
 - Johann verse 25 000€ net
 - Différence : 17 000€
-- Redistribution : Ronan reçoit -8 500€, Johann reçoit +8 500€
+- Redistribution : Ronan reçoit 42 000€ - 8 500€, Johann reçoit 25 000€ + 8 500€
 - Résultat final : 33 500€ chacun (50/50)
 
 ### Article 14 — Modalités de redistribution
 
 **Périodicité** : La redistribution intervient à titre périodique (par
-trimestre, semestre ou annuellement), selon décision mutuelle des
-associés.
+trimestre, semestre ou annuellement), selon décision mutuelle des associés.
 
 **Calcul** : Le GIE établit un tableau de compte courant retraçant :
+
 - Les versements nets de chaque associé
 - Le solde cumulé
 - La compensation à opérer
@@ -195,6 +235,7 @@ associés.
 Le GIE tient un **compte courant** documentant les flux entre les associés.
 
 Ce compte enregistre :
+
 - Date et montant de chaque versement
 - Associé donneur
 - Justification (opération commerciale, référence)
@@ -219,16 +260,25 @@ Chaque associé dispose du droit de :
 
 ### Article 17 — Obligations des associés
 
+**Flux déclarations et cotisations :**
+
+- **Le GIE → déclare** ses résultats à l'administration fiscale (formulaire 2036 bis-SD)
+- **Le GIE → redistribue** 50/50 à chaque associé (après charges opérationnelles)
+- **Chaque associé → déclare auprès de l'URSSAF et Impôts** sa part redistribuée par le GIE et paie ses cotisations sociales personnelles
+- **Aucune cotisation du GIE** : régime fiscal transparent
+
 Chaque associé s'engage à :
 
-1. **Respecter le présent contrat** et les décisions mutuelle ;
-2. **Déclarer 100% du CA réel** à l'URSSAF (transparence) ;
-3. **Payer ses cotisations et impôts** personnels ;
-4. **Verser le bénéfice net au GIE** selon les modalités établies ;
-5. **Documenter chaque opération** (factures, encaissements, charges) ;
-6. **Utiliser légalement la marque** conformément au contrat de partenariat Asso ;
-7. **Informer l'autre associé** des opérations envisagées ;
-8. **Participer aux décisions majeures** concernant le GIE.
+1. **Respecter le présent contrat** et les décisions mutuelles ;
+2. **Agir au nom et pour le compte du GIE** lors de représentation d'opérations ;
+3. **Verser les encaissements au GIE** dans les délais établis (10 jours max si compte personnel) ;
+4. **Déclarer auprès de l'URSSAF sa part de revenus** que le GIE redistribue (intégrée dans sa déclaration d'activité personnelle, sans déclarer le CA brut du GIE) ;
+5. **Payer ses cotisations et impôts personnels** sur sa part redistributée par le GIE ;
+6. **Documenter chaque opération** (factures, encaissements, charges) au nom du GIE ;
+7. **Utiliser légalement la marque** conformément au contrat de partenariat Asso ;
+8. **Informer l'autre associé** des opérations envisagées ;
+9. **Participer aux décisions majeures** concernant le GIE ;
+10. **Conserver l'indépendance légale** du GIE vis-à-vis de tiers (pas de signature de contrats personnels au lieu de GIE).
 
 ### Article 18 — Indépendance des associés
 
@@ -245,25 +295,30 @@ Il n'existe aucun lien de subordination. Chacun :
 
 ## TITRE 6 — OPÉRATIONS COMMERCIALES
 
-### Article 19 — Porteur d'opération
+### Article 19 — Porteur d'opération et délégation du GIE
 
-Pour chaque opération commerciale, un associé est désigné « **porteur de l'opération** ».
+**Le GIE « Drop & Loot Studio » est le porteur légal de toute opération commerciale.**
 
-Le porteur :
+Pour chaque opération, l'un des deux associés est désigné « **représentant de l'opération** » du GIE.
+
+Le représentant agit au nom et pour le compte du GIE :
 
 1. Lance et pilote l'opération (marketing, négociations, suivi)
-2. Encaisse la totalité du CA auprès des clients
-3. Déclare 100% du CA à l'URSSAF
-4. Paie ses frais opérationnels
-5. Verse le bénéfice net au GIE
+2. Encaisse le CA au nom du GIE (factures établies GIE, paiements versés au GIE)
+3. Le GIE déclare 100% du CA auprès de l'URSSAF
+4. Paie les frais opérationnels depuis le GIE
+5. Les résultats nets reviennent au GIE pour redistribution 50/50
 
-**Le porteur n'est pas limité à une niche** : Ronan peut porter du Gaming, Musique ou Lifestyle selon les opportunités.
+**Clarification légale** : Les deux associés sont solidairement responsables de la gestion du GIE. Chaque représentant agit comme mandataire du GIE, non en qualité personnelle.
+
+**Le représentant n'est pas limité à une niche** : Peut représenter du Gaming, Musique ou Lifestyle selon les opportunités.
 
 ### Article 20 — Flexibilité des opérations
 
-**Aucun rôle fixe.** Chaque opération peut être portée par Ronan ou Johann, indépendamment des opérations précédentes.
+**Aucun rôle fixe.** Chaque opération peut être portée par n'importe quel auto-entrepreneur membre conjointement de l'association et du GIE, indépendamment des opérations précédentes.
 
 Exemple de scénario libre :
+
 - Op 1 (Gaming) : Ronan porteur
 - Op 2 (Musique) : Johann porteur
 - Op 3 (Lifestyle) : Ronan porteur (regroupement possible)
@@ -312,6 +367,7 @@ droit d'usage contractuel.
 Le GIE peut ouvrir un **compte bancaire dédié** pour faciliter les versements et redistributions.
 
 Ce compte reçoit :
+
 - Les versements nets des associés
 - Les contributions optionnelles
 
@@ -436,3 +492,6 @@ Avant finalisation, les points suivants doivent être validés avec un avocat sp
 - [ ] Procédure de modification du contrat
 - [ ] Autres clauses recommandées par l'avocat
 
+---
+
+**Ce contrat est un modèle à titre indicatif. Il ne peut en AUCUN CAS être considéré comme un acte légal exécutoire avant validation par un avocat spécialisé en GIE.**
