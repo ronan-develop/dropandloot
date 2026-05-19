@@ -87,16 +87,18 @@ Formalise :
 
 ---
 
-### 5️⃣ **04_COURRIER_AVOCAT.md** (5K)
+### 5️⃣ **04_COURRIER_AVOCAT.md** (3K)
 
-#### À envoyer signé au cabinet
+#### Courrier simplifié pour RDV de diagnostic
 
-| Élément     | Détail                               |
-|-------------|--------------------------------------|
-| Modèle      | GIE + Asso (nouveau)                 |
-| Points clés | 8 questions essentielles             |
-| Livrables   | Contrat GIE + règlement jeu concours |
-| Budget      | À négocier                           |
+| Élément | Détail |
+|---------|--------|
+| Approche | Demander RDV (30-45 min) avant questions détaillées |
+| Contenu | Présentation modèle + 4 questions clés |
+| Objectif | Affiner le devis + planning + facturation RDV |
+| Lien | Référence à QUESTIONS_POUR_AVOCAT.md pour détails |
+
+**Stratégie** : Limiter frais initiaux, affiner après discussion téléphonique.
 
 ---
 
@@ -123,7 +125,23 @@ Amortissement rapide : 1 opération Gaming (100k CA) = 42k net → ROI immédiat
 
 ---
 
-### 7️⃣ **QUESTIONS_POUR_AVOCAT.md** (18K)
+### 7️⃣ **REPONSES_QUESTION5_JEU_CONCOURS.md** (9K)
+
+#### Réponses juridiques — Dépôt et formalités jeu concours
+
+**Répond aux 3 questions essentielles** :
+
+| Question | Réponse clé | Coût |
+|----------|-------------|------|
+| Dépôt huissier à chaque opération? | Non, une seule fois pour template | 300-400€ |
+| Tirage obligatoirement par huissier? | Non, alternatives légales existent | 0-300€/op |
+| Articles L.121-36+ applicables? | L.121-36 + L.120-1 + L.111-1+ | N/A |
+
+**Contient** : Cadre légal, alternatives, synthèse opérationnelle, sources
+
+---
+
+### 8️⃣ **QUESTIONS_POUR_AVOCAT.md** (18K)
 
 #### Questionnaire détaillé
 
@@ -148,6 +166,37 @@ Utile si :
 | **Sécurité**      | 🔴 Audit URSSAF = pénalités   | 🟢 Zéro risque                 |
 
 **Verdict** : +600€ pour sécurité permanente = rentable immédiatement
+
+---
+
+## 🤝 Workflow avec l'avocat (NEW!)
+
+### Étape 1 — Courrier simplifié
+
+**Envoyer** : 04_COURRIER_AVOCAT.md (signé)
+
+**Contient** : Présentation + 4 questions clés seulement
+
+**Stratégie** : Éviter liste exhaustive (coûteuse à traiter par écrit)
+
+### Étape 2 — RDV téléphonique (30-45 min)
+
+**Discuter** :
+
+1. Légalité modèle GIE (zéro risque URSSAF?)
+2. Jeu concours (dépôt huissier? tirage obligatoire?)
+3. Organisateur légal (Asso, GIE, AE?)
+4. **Facturation RDV** (gratuit ou payant?)
+
+**Résultat** : Devis précis + planning affini
+
+### Étape 3 — Questions détaillées (après accord)
+
+**Envoyer** : QUESTIONS_POUR_AVOCAT.md (si approfondissement)
+
+**Contient** : 50+ questions par thème + livrables + budget
+
+**Avantage** : Affiner après diagnostic = discussions plus ciblées
 
 ---
 
@@ -195,6 +244,7 @@ Utile si :
 5. 03_CONTRAT_PARTENARIAT... → liaison Asso ↔ GIE
 6. 04_COURRIER_AVOCAT.md → préparer contact avocat
 7. 05_GUIDE_IMPLEMENTATION.md → timeline concrète
+8. REPONSES_QUESTION5_JEU_CONCOURS.md → réponses juridiques spécifiques
 
 **Docs contexte** (optionnel) :
 
