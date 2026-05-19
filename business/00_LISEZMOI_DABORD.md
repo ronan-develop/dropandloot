@@ -105,12 +105,12 @@ Formalise :
 #### Timeline complète + checklist
 
 | Phase           | Délai           | Actions                         | Coûts estimés |
-|-----------------|-----------------|----------------------------------|---|
-| **Semaine 1-2** | Setup juridique | Asso + AE + GIE                 | ~150€ |
-| **Semaine 2-3** | GIE + Marque    | Contrat + enregistrement + INPI | ~880€ |
-| **Semaine 4**   | Actifs communs  | Réseaux + domaine + Stripe      | ~15€ |
-| **Semaine 5+**  | Opération 1     | Avocat + huissier + lancement   | ~900€ |
-| **TOTAL** | **~6 semaines** | **Démarrage complet** | **~1 945€** |
+|-----------------|-----------------|---------------------------------|---------------|
+| **Semaine 1-2** | Setup juridique | Asso + AE + GIE                 | ~150€         |
+| **Semaine 2-3** | GIE + Marque    | Contrat + enregistrement + INPI | ~880€         |
+| **Semaine 4**   | Actifs communs  | Réseaux + domaine + Stripe      | ~15€          |
+| **Semaine 5+**  | Opération 1     | Avocat + huissier + lancement   | ~900€         |
+| **TOTAL**       | **~6 semaines** | **Démarrage complet**           | **~1 945€**   |
 
 **Détail des coûts** :
 
@@ -130,6 +130,7 @@ Amortissement rapide : 1 opération Gaming (100k CA) = 42k net → ROI immédiat
 **Ne pas envoyer tout** — déjà dans 04_COURRIER_AVOCAT.md
 
 Utile si :
+
 - Besoin de détails additionnels
 - Discussion plus approfondie avec avocat
 
@@ -137,14 +138,14 @@ Utile si :
 
 ## 🎯 Pourquoi GIE et pas compte courant ?
 
-| Aspect | Compte courant | GIE |
-|--------|---|---|
-| **Légalité** | 🟡 Risque requalification | 🟢 Code Commerce explicite |
-| **URSSAF** | 🟡 Peut contester | 🟢 Accepté officiellement |
+| Aspect            | Compte courant                | GIE                            |
+|-------------------|-------------------------------|--------------------------------|
+| **Légalité**      | 🟡 Risque requalification     | 🟢 Code Commerce explicite     |
+| **URSSAF**        | 🟡 Peut contester             | 🟢 Accepté officiellement      |
 | **Documentation** | 🟡 Fragile (comptes à l'asso) | 🟢 Contrat écrit + transparent |
-| **Jurisprudence** | ❌ Peu favorable | ✅ Cassation 3 fév 2004 |
-| **Coût** | 💰 ~300€ | 💰 ~900€ |
-| **Sécurité** | 🔴 Audit URSSAF = pénalités | 🟢 Zéro risque |
+| **Jurisprudence** | ❌ Peu favorable              | ✅ Cassation 3 fév 2004        |
+| **Coût**          | 💰 ~300€                      | 💰 ~900€                       |
+| **Sécurité**      | 🔴 Audit URSSAF = pénalités   | 🟢 Zéro risque                 |
 
 **Verdict** : +600€ pour sécurité permanente = rentable immédiatement
 
@@ -196,6 +197,7 @@ Utile si :
 7. 05_GUIDE_IMPLEMENTATION.md → timeline concrète
 
 **Docs contexte** (optionnel) :
+
 - QUESTIONS_POUR_AVOCAT.md → détails si besoin
 - GIE_VS_COMPTE_COURANT.md → pourquoi GIE plutôt que compte courant
 - MODELE_GIE_ASS.md → exemple chiffré complet
@@ -218,27 +220,27 @@ Avant de contacter l'avocat, vérifiez ensemble :
 
 **Opération Gaming (100k CA)**:
 
-| Poste | Montant |
-|-------|---------|
-| CA encaissé | 100 000€ |
-| Charges | -37 000€ |
-| URSSAF 12,3% | -12 300€ |
-| IR estimé | -8 700€ |
+| Poste                | Montant     |
+|----------------------|-------------|
+| CA encaissé          | 100 000€    |
+| Charges              | -37 000€    |
+| URSSAF 12,3%         | -12 300€    |
+| IR estimé            | -8 700€     |
 | **NET versé au GIE** | **42 000€** |
 
 **Opération Musique (60k CA)**:
 
-| Poste | Montant |
-|-------|---------|
-| CA encaissé | 60 000€ |
-| Charges | -22 000€ |
-| URSSAF 12,3% | -7 380€ |
-| IR estimé | -5 220€ |
+| Poste                | Montant     |
+|----------------------|-------------|
+| CA encaissé          | 60 000€     |
+| Charges              | -22 000€    |
+| URSSAF 12,3%         | -7 380€     |
+| IR estimé            | -5 220€     |
 | **NET versé au GIE** | **25 000€** |
 
 **Redistribution GIE (50/50)**:
 
-```
+```txt
 Ronan: 42 000 - 8 500 = 33 500€ ✅
 Johann: 25 000 + 8 500 = 33 500€ ✅
 TOTAL: 67 000€ (50/50 parfait)
@@ -250,13 +252,13 @@ TOTAL: 67 000€ (50/50 parfait)
 
 **Questions courantes**:
 
-| Question | Réponse |
-|----------|---------|
-| "Ça marche vraiment 50/50?" | Oui, GIE redistribue mathématiquement |
-| "Et si on lance 3 opérations Gaming?" | Peu importe, GIE égalise tout |
-| "Qu'est-ce qu'on fait si on part?" | Asso récupère marque, GIE se dissout |
-| "C'est vraiment légal?" | Code Commerce L.211-1+, 100% oui |
-| "Et l'URSSAF?" | GIE accepté, zéro risque sociéré de fait |
+| Question                              | Réponse                                  |
+|---------------------------------------|------------------------------------------|
+| "Ça marche vraiment 50/50?"           | Oui, GIE redistribue mathématiquement    |
+| "Et si on lance 3 opérations Gaming?" | Peu importe, GIE égalise tout            |
+| "Qu'est-ce qu'on fait si on part?"    | Asso récupère marque, GIE se dissout     |
+| "C'est vraiment légal?"               | Code Commerce L.211-1+, 100% oui         |
+| "Et l'URSSAF?"                        | GIE accepté, zéro risque sociéré de fait |
 
 Posez la question à l'avocat. Le courrier 04 inclut déjà ces points.
 
@@ -264,4 +266,3 @@ Posez la question à l'avocat. Le courrier 04 inclut déjà ces points.
 
 **Modèle finalisé** ✅  
 **Prêt à lancer** ✅
-
