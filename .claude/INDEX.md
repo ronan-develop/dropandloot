@@ -12,7 +12,8 @@ Navigation complète de la documentation du projet.
 
 ### Pour comprendre le projet
 3. **[PROJECT_OVERVIEW.md](PROJECT_OVERVIEW.md)** — Vue complète (10 min)
-4. **[STRUCTURE_LEGAL.md](STRUCTURE_LEGAL.md)** — Modèle juridique (15 min)
+4. **[STRUCTURE_LEGAL.md](STRUCTURE_LEGAL.md)** — Modèle GIE + Asso (5 min, résumé)
+5. **[../business/ARCHITECTURE_GIE_FINAL.md](../business/ARCHITECTURE_GIE_FINAL.md)** — Modèle complet + flux financier (20 min)
 
 ---
 
@@ -37,6 +38,8 @@ Navigation complète de la documentation du projet.
 
 | Fichier | Contenu |
 |---------|---------|
+| **🎯 business/ARCHITECTURE_GIE_FINAL.md** | **MODÈLE MAÎTRE** — Asso + GIE + flexibilité niches |
+| **business/README.md** | Navigation complète + checklists |
 | **business/00_LISEZMOI_DABORD.md** | Guide de démarrage rapide |
 | **business/01_STATUTS_Maison_DropLoot.md** | Statuts association (juridique) |
 | **business/02_SYNTHESE_MASTER.md** | Budget + coordonnées (à remplir) |
@@ -44,9 +47,8 @@ Navigation complète de la documentation du projet.
 | **business/04_PRESENTATION_JOHANN.md** | Rôle et finances Johann |
 | **business/05_COURRIER_AVOCAT.md** | Template correspondance avocat |
 | **business/06_CONFIANCE_GAMING_STRATEGIE.md** | Stratégie complète gaming |
-| **business/MODELE_COMPTE_COURANT.md** | Explications flux financier |
+| **business/GIE_VS_COMPTE_COURANT.md** | Pourquoi on choisit GIE (justification) |
 | **business/QUESTIONS_POUR_AVOCAT.md** | 70+ questions avocat |
-| **../README.md** | Navigation générale (racine) |
 
 ---
 
@@ -85,4 +87,5 @@ Navigation complète de la documentation du projet.
 
 ---
 
-**Dernière mise à jour :** 14 mai 2026
+**Dernière mise à jour :** 17 mai 2026
+**Modèle** : GIE + Asso (rationalisé, chacun flexible sur niches)

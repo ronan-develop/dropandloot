@@ -1,5 +1,15 @@
-# Drop & Loot — Architecture documentaire
-## Guide de navigation complet
+# Drop & Loot — Architecture GIE + Asso
+## Guide de navigation complet (Modèle final : 17 mai 2026)
+
+---
+
+## 📌 ⚠️ IMPORTANT : Flexibilité nouvelle
+
+**NE LISEZ PAS** : "Ronan = Gaming", "Johann = Musique"
+
+**LISEZ** : "Chacun peut faire n'importe quelle niche"
+
+**Voir** : [`ARCHITECTURE_GIE_FINAL.md`](ARCHITECTURE_GIE_FINAL.md) pour clarifications
 
 ---
 
@@ -7,14 +17,14 @@
 
 ### 📋 Documents de référence (ordre de lecture)
 
-| #      | Fichier                             | Taille   | Usage                                           | Qui ?             |
-|--------|-------------------------------------|----------|-------------------------------------------------|-------------------|
-| **00** | `business/00_STRUCTURE_COMPLETE.md` | 26K      | 📖 **Vue d'ensemble complète** — tout en un      | Ronan + Johann    |
-| **01** | `business/01_STATUTS_Maison_DropLoot.md` | 20K | ✍️ **À signer** — statuts loi 1901              | Ronan + Johann    |
-| **02** | `business/02_SYNTHESE_MASTER.md`    | 18K      | 🎯 **Référence rapide** — noms, budget, timeline | Ronan + Johann    |
-| **03** | `business/03_PRESENTATION_RONAN.md` | 8,6K     | 🎯 **Ton rôle détaillé** — Président + AE A      | Ronan             |
-| **04** | `business/04_PRESENTATION_JOHANN.md` | 8,6K    | 🎯 **Ton rôle détaillé** — Trésorier + AE B      | Johann            |
-| **05** | `business/05_COURRIER_AVOCAT.md`    | 3,7K     | 📧 **À envoyer** — demande template règlement    | Ronan (Président) |
+| #      | Fichier                              | Taille   | Usage                                            | Qui ?             |
+|--------|--------------------------------------|----------|--------------------------------------------------|-------------------|
+| **🎯** | `ARCHITECTURE_GIE_FINAL.md`          | 22K      | 📖 **LA RÉFÉRENCE MAÎTRE** — tout le modèle GIE  | Ronan + Johann    |
+| **01** | `01_STATUTS_Maison_DropLoot.md`      | 20K      | ✍️ **À signer** — statuts loi 1901               | Ronan + Johann    |
+| **02** | `02_SYNTHESE_MASTER.md`              | 18K      | 🎯 **Référence rapide** — noms, budget, timeline | Ronan + Johann    |
+| **03** | `03_PRESENTATION_RONAN.md`           | 8,6K     | 🎯 **Ton rôle détaillé** — Président + AE        | Ronan             |
+| **04** | `04_PRESENTATION_JOHANN.md`          | 8,6K     | 🎯 **Ton rôle détaillé** — Trésorier + AE        | Johann            |
+| **05** | `05_COURRIER_AVOCAT.md`              | 3,7K     | 📧 **À envoyer** — demande template règlement     | Ronan (Président) |
 
 ---
 
@@ -31,7 +41,7 @@
 **Ensuite** :
 
 
-- `00_STRUCTURE_COMPLETE.md` — référence détaillée
+- `ARCHITECTURE_GIE_FINAL.md` — référence complète + modèle GIE
 
 - `05_COURRIER_AVOCAT.md` — envoyer aux avocats (tu signes)
 
@@ -48,29 +58,32 @@
 **Ensuite** :
 
 
-- `00_STRUCTURE_COMPLETE.md` — référence détaillée
+- `ARCHITECTURE_GIE_FINAL.md` — référence complète + modèle GIE
 
 ---
 
 ## 📊 Contenu par fichier
 
-### 00_STRUCTURE_COMPLETE.md (19K)
-**La bible du projet** — tout ce que tu dois savoir
+### ARCHITECTURE_GIE_FINAL.md (22K)
+**LA BIBLE du projet** — tout ce que tu dois savoir
 
-| Section                                   | Contenu                                              |
-|-------------------------------------------|------------------------------------------------------|
-| 1. Schéma de la structure                 | 3 entités (asso + AE A + AE B) + rôles               |
-| 2. Fonctionnement opération par opération | Gaming vs Musique — ce que voient clients/URSSAF     |
-| 3. Création des entités + coûts           | Étapes : asso, AE A, AE B — 205 EUR total            |
-| 4. Frais fixes annuels                    | 15 EUR/an minimum (domaine)                          |
-| 5. Optimisation fiscale                   | Abattement 71%, simulations 100k et 60k              |
-| 6. Plan de progression                    | Phases 1-5 (Gaming → Musique → Lifestyle…)           |
-| 7. Cadre juridique                        | Jeu concours, règlement-cadre, template réutilisable |
-| 8. Stratégie marketing                    | Canaux, test Meta Ads obligatoire (100 EUR)          |
-| 9. Checklist                              | Structure (Sem 1) → Lancement (Sem 10)               |
-| 10. Résumé 5 points                       | Synthèse finale                                      |
+| Section                                         | Contenu                                              |
+|-------------------------------------------------|------------------------------------------------------|
+| 1. Principe en une phrase                       | Asso détient actifs, GIE gère opérations            |
+| 2. Architecture complète                        | Asso + GIE + 2 AE (schéma visuel)                   |
+| 3. Étage 1 : Asso (détaillé)                    | Propriété, coûts, gouvernance                       |
+| 4. Étage 2 : GIE (détaillé)                     | **Flexibilité : chacun peut faire n'importe quelle niche** |
+| 5. Flux financier complet                       | Opération type avec redistribution 50/50            |
+| 6. Simulation chiffrée (2 ops)                  | Gaming + Musique avec équité finale                 |
+| 7. Légalité & sécurité juridique                | Code Commerce, URSSAF, jurisprudence                |
+| 8. Niches disponibles                           | Gaming, Musique, Lifestyle, Esports, etc.           |
+| 9. Coûts complets (une seule fois)              | Création: ~900€ + Avocat: ~600-800€                |
+| 10. Rôles & responsabilités clairs              | Qui fait quoi dans Asso vs GIE                      |
+| 11. Contrat partenariat Asso ↔ GIE              | Éléments à formaliser                               |
+| 12. Checklist création (4 semaines)             | Toutes les étapes                                   |
+| 13. Budget résumé + ROI                         | Investissement minimal, récupération rapide          |
 
-**À utiliser pour** : Référence complète, clarifications techniques, historique du projet
+**À utiliser pour** : Référence complète, modèle GIE, clarifications techniques
 
 ---
 
@@ -405,6 +418,7 @@ Voir **Questions fréquentes** dans :
 
 ---
 
-**Dernière mise à jour** : 2026-05-14
-**Statut** : ✅ Prêt à lancer (Sem 1)
+**Dernière mise à jour** : 2026-05-17
+**Statut** : ✅ Rationalisé modèle GIE final (chacun flexible sur niches)
+**Document maître** : `ARCHITECTURE_GIE_FINAL.md`
 
