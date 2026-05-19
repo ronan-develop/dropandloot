@@ -1,6 +1,6 @@
 # Guide d'Implémentation — Timeline Complète
 
-**Drop & Loot — Modèle GIE Studio + Asso Maison**
+## Drop & Loot — Modèle GIE Studio + Asso Maison
 
 ---
 
@@ -48,7 +48,7 @@ ordre, et avec quel timing.
 
 ### Étape 1.3 : Déclarer l'Association en préfecture
 
-**Responsable** : Ronan (Président)  
+**Responsable** : (Président)
 **Durée** : 20 min en ligne + 1-7 jours d'attente  
 **Coût** : 0€  
 **Lien** : service-public.fr → Créer une association
@@ -104,12 +104,12 @@ ordre, et avec quel timing.
 
 **Options** (classées par avantage) :
 
-| Banque | Coût | Avantages |
-|--------|------|----------|
-| **Revolut Business** | 0€ | Ouverture instantanée, Stripe compatible |
-| **Blank** | 0€ | Français, simple |
-| **Shine** | 9€/mois | Français, compatibilité URSSAF optimale |
-| **Qonto** | 5€/mois | Français, suivi de trésorerie |
+| Banque               | Coût    | Avantages                                |
+|----------------------|---------|------------------------------------------|
+| **Revolut Business** | 0€      | Ouverture instantanée, Stripe compatible |
+| **Blank**            | 0€      | Français, simple                         |
+| **Shine**            | 9€/mois | Français, compatibilité URSSAF optimale  |
+| **Qonto**            | 5€/mois | Français, suivi de trésorerie            |
 
 **Procédure (exemple Revolut)** :
 
