@@ -36,14 +36,14 @@
 
 **Lire d'abord** — Vue complète du modèle
 
-| Section | Contenu |
-|---------|---------|
-| Architecture | Asso + GIE + AE (roles clairs) |
+| Section        | Contenu                                     |
+|----------------|---------------------------------------------|
+| Architecture   | Asso + GIE + AE (roles clairs)              |
 | Flux financier | Encaissement → déclaration → redistribution |
-| Légalité | Code Commerce L.211-1+ |
-| Niches | Chacun peut faire n'importe quelle niche |
-| Coûts | Budget création + frais annuels |
-| Checklist | 4 semaines de setup |
+| Légalité       | Code Commerce L.211-1+                      |
+| Niches         | Chacun peut faire n'importe quelle niche    |
+| Coûts          | Budget création + frais annuels             |
+| Checklist      | 4 semaines de setup                         |
 
 ---
 
@@ -51,10 +51,10 @@
 
 #### Document légal à signer
 
-| Contenu | Statut |
-|---------|--------|
-| 10 titres + 40 articles | ✅ Complet pour GIE |
-| Articles clés | Propriété marque, GIE, indépendance AE |
+| Contenu                 | Statut                                 |
+|-------------------------|----------------------------------------|
+| 10 titres + 40 articles | ✅ Complet pour GIE                    |
+| Articles clés           | Propriété marque, GIE, indépendance AE |
 
 **À faire** : Imprimer 2 copies → signer Ronan + Johann → déposer préfecture
 
@@ -64,12 +64,12 @@
 
 #### Constitution du GIE (avocat)
 
-| Élément | Détail |
-|---------|--------|
+| Élément   | Détail                        |
+|-----------|-------------------------------|
 | Structure | 2 auto-entrepreneurs associés |
-| Apports | Chacun apporte son activité |
-| Résultats | Modalités de répartition |
-| Sortie | Conditions de départ |
+| Apports   | Chacun apporte son activité   |
+| Résultats | Modalités de répartition      |
+| Sortie    | Conditions de départ          |
 
 **À faire avec avocat** : Rédaction + signature
 
@@ -79,7 +79,8 @@
 
 #### Liaison Asso ↔ GIE
 
-Formallise :
+Formalise :
+
 - Mise à disposition marque/domaine/réseaux par Asso
 - Utilisation par GIE
 - Contributions GIE vers Asso (optionnel)
@@ -90,12 +91,12 @@ Formallise :
 
 #### À envoyer signé au cabinet
 
-| Élément | Détail |
-|---------|--------|
-| Modèle | GIE + Asso (nouveau) |
-| Points clés | 8 questions essentielles |
-| Livrables | Contrat GIE + règlement jeu concours |
-| Budget | À négocier |
+| Élément     | Détail                               |
+|-------------|--------------------------------------|
+| Modèle      | GIE + Asso (nouveau)                 |
+| Points clés | 8 questions essentielles             |
+| Livrables   | Contrat GIE + règlement jeu concours |
+| Budget      | À négocier                           |
 
 ---
 
@@ -103,12 +104,22 @@ Formallise :
 
 #### Timeline complète + checklist
 
-| Phase | Délai | Actions |
-|-------|-------|---------|
-| **Semaine 1-2** | Setup juridique | Asso + AE + GIE |
-| **Semaine 2-3** | GIE + Marque | Contrat + enregistrement + INPI |
-| **Semaine 4** | Actifs communs | Réseaux + domaine + Stripe |
-| **Semaine 5+** | Opération 1 | Avocat + huissier + lancement |
+| Phase           | Délai           | Actions                         | Coûts estimés |
+|-----------------|-----------------|----------------------------------|---|
+| **Semaine 1-2** | Setup juridique | Asso + AE + GIE                 | ~150€ |
+| **Semaine 2-3** | GIE + Marque    | Contrat + enregistrement + INPI | ~880€ |
+| **Semaine 4**   | Actifs communs  | Réseaux + domaine + Stripe      | ~15€ |
+| **Semaine 5+**  | Opération 1     | Avocat + huissier + lancement   | ~900€ |
+| **TOTAL** | **~6 semaines** | **Démarrage complet** | **~1 945€** |
+
+**Détail des coûts** :
+
+- **Semaine 1-2** : GIE enregistrement ~150€
+- **Semaine 2-3** : Avocat contrats ~400-500€, Marque INPI ~230€, GIE enregistrement déjà compté
+- **Semaine 4** : Domaine ~15€/an, réseaux/Stripe gratuit
+- **Semaine 5+** : Avocat règlement jeu concours ~300-500€, Huissier dépôt + tirage ~300-400€
+
+Amortissement rapide : 1 opération Gaming (100k CA) = 42k net → ROI immédiat ✅
 
 ---
 
@@ -198,7 +209,7 @@ Avant de contacter l'avocat, vérifiez ensemble :
 - ✅ Le modèle GIE vous plaît?
 - ✅ Les rôles (Asso propriétaire, GIE opérationnel) sont clairs?
 - ✅ La flexibilité (n'importe quelle niche) fonctionne pour vous?
-- ✅ Le budget ~900€ création + 600-800€ avocat (total ~1 700€) OK?
+- ✅ Le budget ~1 945€ total (Asso + GIE + avocat + marque + huissier) OK?
 - ✅ Questions à poser à l'avocat identifiées?
 
 ---
