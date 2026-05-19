@@ -87,16 +87,18 @@ Formalise :
 
 ---
 
-### 5️⃣ **04_COURRIER_AVOCAT.md** (5K)
+### 5️⃣ **04_COURRIER_AVOCAT.md** (3K)
 
-#### À envoyer signé au cabinet
+#### Courrier simplifié pour RDV de diagnostic
 
-| Élément     | Détail                               |
-|-------------|--------------------------------------|
-| Modèle      | GIE + Asso (nouveau)                 |
-| Points clés | 8 questions essentielles             |
-| Livrables   | Contrat GIE + règlement jeu concours |
-| Budget      | À négocier                           |
+| Élément | Détail |
+|---------|--------|
+| Approche | Demander RDV (30-45 min) avant questions détaillées |
+| Contenu | Présentation modèle + 4 questions clés |
+| Objectif | Affiner le devis + planning + facturation RDV |
+| Lien | Référence à QUESTIONS_POUR_AVOCAT.md pour détails |
+
+**Stratégie** : Limiter frais initiaux, affiner après discussion téléphonique.
 
 ---
 
@@ -164,6 +166,37 @@ Utile si :
 | **Sécurité**      | 🔴 Audit URSSAF = pénalités   | 🟢 Zéro risque                 |
 
 **Verdict** : +600€ pour sécurité permanente = rentable immédiatement
+
+---
+
+## 🤝 Workflow avec l'avocat (NEW!)
+
+### Étape 1 — Courrier simplifié
+
+**Envoyer** : 04_COURRIER_AVOCAT.md (signé)
+
+**Contient** : Présentation + 4 questions clés seulement
+
+**Stratégie** : Éviter liste exhaustive (coûteuse à traiter par écrit)
+
+### Étape 2 — RDV téléphonique (30-45 min)
+
+**Discuter** :
+
+1. Légalité modèle GIE (zéro risque URSSAF?)
+2. Jeu concours (dépôt huissier? tirage obligatoire?)
+3. Organisateur légal (Asso, GIE, AE?)
+4. **Facturation RDV** (gratuit ou payant?)
+
+**Résultat** : Devis précis + planning affini
+
+### Étape 3 — Questions détaillées (après accord)
+
+**Envoyer** : QUESTIONS_POUR_AVOCAT.md (si approfondissement)
+
+**Contient** : 50+ questions par thème + livrables + budget
+
+**Avantage** : Affiner après diagnostic = discussions plus ciblées
 
 ---
 
