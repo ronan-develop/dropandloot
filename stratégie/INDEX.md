@@ -5,6 +5,14 @@
 
 ---
 
+> ⚠️ **Audit juridique 2026-09-26** : le tirage doit rester gratuit, sans surcoût (art. L.320-1 CSI) ; les
+> annonces d'admins ou de Fondateurs récompensés doivent être identifiées comme publicité (loi n° 2023-451).
+> Voir [../business/01_AUDIT_2026-09-26.md](../business/01_AUDIT_2026-09-26.md) et
+> [../business/03_JEUX_CONCOURS_CADRE_LEGAL.md](../business/03_JEUX_CONCOURS_CADRE_LEGAL.md).
+> Le modèle [01_approche_hybride.md](./01_approche_hybride.md) (tirage payant) est non conforme en l'état.
+
+---
+
 ## 🎯 Vue d'Ensemble
 
 La stratégie Drop & Loot comprend :
@@ -42,7 +50,7 @@ La stratégie Drop & Loot comprend :
   Structure de prix : 1 GPU pour gagnant + €1500 fonds communautaire (voté par communauté).
   - Grand lot : €2000 GPU
   - Fonds communautaire : €1500 (community decides)
-  - Opérationnel : €600 (huissier, assurance, expédition)
+  - Opérationnel : €600 (huissier facultatif, assurance, expédition)
   - **Total par Op : €4100**
 
 ### Modèle de Communauté
@@ -102,18 +110,21 @@ Mois 3-6 : Exponential Growth
 ## 📈 Projections
 
 ### Op1
+
 - Participants : 300
 - Fondateurs : 300
 - Budget : €4100
 - Invitations distribuées : 900
 
 ### Ops 2-3
+
 - Participants cumulatifs : 800
 - Fondateurs : 400
 - Conversion invitations : 200
 - Leaderboard inviters : 50 actifs
 
 ### Mois 6 (Ops 4-6)
+
 - Participants : 1500+
 - Fondateurs : 600+ (core)
 - Reputation : « Drop & Loot = prestige »
@@ -124,6 +135,7 @@ Mois 3-6 : Exponential Growth
 ## 🛠️ Exécution Concrète
 
 ### Phase 1 : Recrutement Admins (Semaines 0-2)
+
 Voir [15_GRASSROOTS_ADMIN_PARTNERSHIP.md](./15_GRASSROOTS_ADMIN_PARTNERSHIP.md) Phase 1
 
 - Identifier 30-40 Discords cibles (1k-10k members)
@@ -131,14 +143,16 @@ Voir [15_GRASSROOTS_ADMIN_PARTNERSHIP.md](./15_GRASSROOTS_ADMIN_PARTNERSHIP.md) 
 - Database : spreadsheet avec contacts admins
 
 ### Phase 2 : Infiltration Authentique (Semaines 1-8)
+
 Voir [15_GRASSROOTS_ADMIN_PARTNERSHIP.md](./15_GRASSROOTS_ADMIN_PARTNERSHIP.md) Phase 2
 
 - Rejoindre chaque Discord naturellement
 - Lurk 1-2 semaines (observer culture)
-- Participer comme joueur normal (authentique)
+- Participer comme joueur normal, en déclarant l'appartenance à Drop & Loot (art. L.121-4, 21° C. conso)
 - Bâtir relation admin progressivement
 
 ### Phase 3 : Pitch Privé (Semaines 4-6)
+
 Voir [15_GRASSROOTS_ADMIN_PARTNERSHIP.md](./15_GRASSROOTS_ADMIN_PARTNERSHIP.md) Phase 3-4
 
 - Message privé personnalisé à admin
@@ -147,15 +161,18 @@ Voir [15_GRASSROOTS_ADMIN_PARTNERSHIP.md](./15_GRASSROOTS_ADMIN_PARTNERSHIP.md) 
 - Close deal ou note rejection
 
 ### Phase 4 : Op1 Exécution (Semaines 7-12)
+
 Voir [16_COMMUNITY_FUND_MODEL.md](./16_COMMUNITY_FUND_MODEL.md) Exécution
 
 - Giveaway DANS leur Discord
-- Admin annonce à leur communauté
-- Tirage avec huissier (Zoom transparent)
+- Admin annonce à leur communauté (mention « Publicité » si l'admin reçoit un avantage)
+- Participation gratuite, sans obligation d'achat (art. L.320-1 CSI)
+- Tirage avec huissier (facultatif, recommandé ; Zoom transparent)
 - Livraison tracked
 - Documentation case study
 
 ### Phase 5 : Founder's Circle Launch (Semaine 13+)
+
 Voir [17_FOUNDER_CIRCLE_PRESTIGE.md](./17_FOUNDER_CIRCLE_PRESTIGE.md)
 
 - Op1 participants = Fondateurs
@@ -165,6 +182,7 @@ Voir [17_FOUNDER_CIRCLE_PRESTIGE.md](./17_FOUNDER_CIRCLE_PRESTIGE.md)
 - Codes jeux mensuels commencent
 
 ### Phase 6 : Scaling (Mois 2-6)
+
 Voir [15_GRASSROOTS_ADMIN_PARTNERSHIP.md](./15_GRASSROOTS_ADMIN_PARTNERSHIP.md) Phase 7
 
 - Répéter avec admins 2-10
