@@ -774,17 +774,17 @@ D'ici là, consultez :
 
 ### Dashboard interne (à suivre)
 
-| Métrique                     | Cible             | Mesure                             |
-|------------------------------|-------------------|------------------------------------|
-| **Taux de participation**    | +10% / opération  | (Participants / impressions)       |
-| **Trust score (sondage)**    | > 80%             | "Je fais confiance à Drop & Loot"  |
-| **NPS (Net Promoter Score)** | > 50              | (Promoteurs - Détracteurs) / Total |
-| **Temps support**            | < 24h             | Moyenne réponse #support           |
-| **Satisfaction livraison**   | > 95%             | Sondage post-réception             |
-| **Social listening**         | Sentiment positif | Mentions Twitter/Reddit/Discord    |
-| **Retour gagnant**           | 100%              | Unboxing vidéo publié              |
-| **Influenceurs impliqués**   | +1 / opération    | Micro → mid → macro                |
-| **Cas support critiques**    | 0                 | Complaints non résolues            |
+| Métrique | Cible | Mesure |
+| --- | --- | --- |
+| **Taux de participation** | +10% / opération | (Participants / impressions) |
+| **Trust score (sondage)** | > 80% | "Je fais confiance à Drop & Loot" |
+| **NPS (Net Promoter Score)** | > 50 | (Promoteurs - Détracteurs) / Total |
+| **Temps support** | < 24h | Moyenne réponse #support |
+| **Satisfaction livraison** | > 95% | Sondage post-réception |
+| **Social listening** | Sentiment positif | Mentions Twitter/Reddit/Discord |
+| **Retour gagnant** | 100% | Unboxing vidéo publié |
+| **Influenceurs impliqués** | +1 / opération | Micro → mid → macro |
+| **Cas support critiques** | 0 | Complaints non résolues |
 
 ---
 
@@ -920,31 +920,31 @@ Prévention :
 > n° 2014-1545 du 20 décembre 2014, art. 54 ; l'ancien art. L.121-36 a été recodifié en 2016 (loteries
 > publicitaires : art. L.121-20 C. conso). Le constat reste recommandé comme preuve.
 
-| Élément                  | Coût          | Fréquence       | Détail                              |
-|--------------------------|---------------|-----------------|-------------------------------------|
-| **Huissier**             | 350-500 EUR   | Par opération   | Tirage constaté (recommandé)        |
-| **Assurance RC**         | 150-250 EUR   | Annuelle        | Responsabilité civile pro          |
-| **Certificat assoc**     | 0 EUR         | One-time        | Gratuit (extrait registre)         |
+| Élément | Coût | Fréquence | Détail |
+| --- | --- | --- | --- |
+| **Huissier** | 350-500 EUR | Par opération | Tirage constaté (recommandé) |
+| **Assurance RC** | 150-250 EUR | Annuelle | Responsabilité civile pro |
+| **Certificat assoc** | 0 EUR | One-time | Gratuit (extrait registre) |
 
 ### Certifications Recommandées (Confiance Gaming)
 
-| Élément                     | Coût           | Fréquence | Impact                       |
-|-----------------------------|----------------|-----------|------------------------------|
-| **Audit RGPD**              | 500-1 500 EUR  | One-time  | Certification données        |
-| **Certificat légal** (Estago)| 100-300 EUR   | One-time  | Vérification structure       |
-| **Assurance colis**         | 100-150 EUR    | Par op    | Livraison garantie           |
-| **Logo SSL**                | 0 EUR          | Gratuit   | HTTPS (Let's Encrypt)        |
-| **Micro-influenceurs test** | 500 EUR        | One-time  | Première preuve authenticité |
+| Élément | Coût | Fréquence | Impact |
+| --- | --- | --- | --- |
+| **Audit RGPD** | 500-1 500 EUR | One-time | Certification données |
+| **Certificat légal** (Estago) | 100-300 EUR | One-time | Vérification structure |
+| **Assurance colis** | 100-150 EUR | Par op | Livraison garantie |
+| **Logo SSL** | 0 EUR | Gratuit | HTTPS (Let's Encrypt) |
+| **Micro-influenceurs test** | 500 EUR | One-time | Première preuve authenticité |
 
 ### Budget Initial Complet (Recommandé)
 
-| Catégorie                     | Montant       | Notes                                    |
-|-------------------------------|---------------|------------------------------------------|
-| **Recommandé (preuve)**       | 350-500 EUR   | Huissier (première op)                  |
-| **Obligatoire annuel**        | 150-250 EUR   | Assurance RC                            |
-| **Recommandé (confiance)**    | 1 600-2 300 EUR | RGPD + certificat + test influenceurs |
-| **Optionnel sécurité**        | 1 000-2 000 EUR | Audit (futur)                          |
-| **TOTAL ANNÉE 1 (complet)**   | **~3 100-5 050 EUR** | Investissement confiance              |
+| Catégorie | Montant | Notes |
+| --- | --- | --- |
+| **Recommandé (preuve)** | 350-500 EUR | Huissier (première op) |
+| **Obligatoire annuel** | 150-250 EUR | Assurance RC |
+| **Recommandé (confiance)** | 1 600-2 300 EUR | RGPD + certificat + test influenceurs |
+| **Optionnel sécurité** | 1 000-2 000 EUR | Audit (futur) |
+| **TOTAL ANNÉE 1 (complet)** | **~3 100-5 050 EUR** | Investissement confiance |
 
 **Breakdown par opération** :
 

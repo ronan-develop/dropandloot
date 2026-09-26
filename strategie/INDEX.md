@@ -34,7 +34,7 @@ La stratégie Drop & Loot comprend :
 ### Approches Explorées (10 options)
 
 | Approche | Doc | Type | Timeline | Budget | Status |
-| -------- | --- | ---- | -------- | ------ | ------ |
+| --- | --- | --- | --- | --- | --- |
 | Approche 1 : Build in Public | [08_BUILD_IN_PUBLIC.md](./08_BUILD_IN_PUBLIC.md) | Public | 8 sem | 2-3k | ❌ Rejeté (trop exposé) |
 | Approche 2 : Low-Profile | [09_APPROCHES_LOW_PROFILE.md](./09_APPROCHES_LOW_PROFILE.md) | Discret | 4 sem | 2-3k | ⚠️ Exploré |
 | Approche 3 : Trojan Horse | [10_TROJAN_HORSE.md](./10_TROJAN_HORSE.md) | Authority | 12-14 sem | 1-2k | ⚠️ Possible |
@@ -94,7 +94,7 @@ Mois 3-6 : Exponential Growth
 ## 📊 Comparaison Approches
 
 | Critère | Grassroots | Media First | Company Partnership |
-| ------- | ---------- | ----------- | ------------------- |
+| --- | --- | --- | --- |
 | **Budget Initial** | €3-4k | €1.5-2k | ~€1k |
 | **Timeline** | 6 mois | 14 semaines | 8-10 semaines |
 | **Discrétion** | ✅ Très haut | ❌ Publicité jour 1 | ⚠️ Dépend partenaire |
@@ -195,7 +195,7 @@ Voir [15_GRASSROOTS_ADMIN_PARTNERSHIP.md](./15_GRASSROOTS_ADMIN_PARTNERSHIP.md) 
 ## 💰 Budget Consolidé (6 mois)
 
 | Élément | Mois 1 | Mois 2-3 | Mois 4-6 | Total |
-| ------- | ------ | -------- | -------- | ----- |
+| --- | --- | --- | --- | --- |
 | Op (GPU + ops) | €4.1k | €8.2k | €12.3k | €24.6k |
 | Codes jeux Fondateurs | €1.5k | €5k | €15k | €21.5k |
 | Tournois | - | €200 | €600 | €800 |

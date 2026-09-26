@@ -14,7 +14,7 @@ Plus large que Trojan Horse (pas juste expertise personnelle, mais vrai content 
 
 ### Différence avec Trojan Horse
 
-```
+```text
 Trojan Horse:
 ├─ Vous êtes l'expert
 ├─ Révélation = perso, c'est VOUS qui avez construit
@@ -35,7 +35,7 @@ Content Authority:
 
 #### Concept : "The Complete Guide to Not Getting Scammed by Giveaways"
 
-```
+```text
 Vaste ressource couvrant:
 
 1. Types de scams
@@ -67,7 +67,7 @@ Vaste ressource couvrant:
 
 #### Format Multi-Platform
 
-```
+```text
 Content hub (website, Medium, Substack):
 ├─ Main guide (long-form, 5000+ words, evergreen)
 ├─ Downloadable resources (checklist, templates)
@@ -92,7 +92,7 @@ Podcast (optional):
 
 #### Production Timeline
 
-```
+```text
 Semaine -12 : Framework + research
 ├─ Outline complete guide
 ├─ Research: real cases, legal framework, expert quotes
@@ -116,7 +116,7 @@ Semaines -10 à -8 : Publishing + amplification
 
 #### Distribution Strategy
 
-```
+```text
 Where to publish:
 
 1. Reddit communities
@@ -148,7 +148,7 @@ Where to publish:
 
 #### Engagement Phase
 
-```
+```text
 Key is to NOT sell anything yet. Just help.
 
 Example interactions:
@@ -176,7 +176,7 @@ Discord: Someone asking "Is this giveaway safe?"
 
 #### Signals of Readiness
 
-```
+```text
 When you see these = time to reveal:
 
 ✓ "Great guide, but what's the SOLUTION?"
@@ -190,7 +190,7 @@ When you see these = time to reveal:
 
 #### Build Anticipation (Weeks -3 to -1)
 
-```
+```text
 Subtle hints in content:
 
 Article addition:
@@ -215,7 +215,7 @@ Social tease:
 
 #### The Big Announcement
 
-```
+```text
 Timing : Same day across all platforms
 
 Format: Coordinated article + video + social posts
@@ -259,7 +259,7 @@ Messaging angle:
 
 ### Phase 5 : Op1 Launch (Semaines 1-6)
 
-```
+```text
 Your audience already:
 ✓ Knows the problems (they read your guide)
 ✓ Trusts you (you were helpful, no agenda)
@@ -291,7 +291,7 @@ Semaine 6: "Op1 Results & Lessons Learned"
 ## Budget & Timeline
 
 | Élément | Coût | Timeline |
-|---------|------|----------|
+| --- | --- | --- |
 | **Guide research & writing** | 0 EUR (DIY) | Weeks -12 to -8 |
 | **Video production** | 0 EUR (DIY) ou 500-1500 EUR (freelancer) | Weeks -11 to -4 |
 | **Website/platform** | 0 EUR (Medium/Substack) | Week -12 |
@@ -304,21 +304,25 @@ Semaine 6: "Op1 Results & Lessons Learned"
 ## Avantages Clés
 
 ✅ **Résource durable**
+
 - Guide = evergreen, continues helping people
 - You become associated with authority on topic
 - Long-term inbound traffic / credibility
 
 ✅ **Audience très qualifiée**
+
 - Only people who care about giveaway safety
 - Already understand problem space
 - Pre-educated for solution
 
 ✅ **Business model flexibility**
+
 - Can monetize guide (premium version)
 - Can add affiliate products later
 - Drop & Loot = one of many revenue streams
 
 ✅ **Brand moat**
+
 - Hard to replicate (requires real expertise + content volume)
 - "The giveaway expert" is defensible position
 - Authority > marketing
@@ -328,7 +332,7 @@ Semaine 6: "Op1 Results & Lessons Learned"
 ## Risques & Mitigations
 
 | Risque | Mitigation |
-|--------|-----------|
+| --- | --- |
 | Guide takes very long (18 weeks total) | Start with 80% MVP guide, iterate |
 | Audience slow to grow | Consistency > viral. 1000 engaged > 100k distracted |
 | Reveal falls flat | Over-deliver on Op1, guide → product is natural step |
@@ -339,7 +343,7 @@ Semaine 6: "Op1 Results & Lessons Learned"
 ## Success Metrics
 
 | Métrique | Target | Meaning |
-|----------|--------|---------|
+| --- | --- | --- |
 | **Guide monthly views** | 5000-10k | Content is discoverable, helpful |
 | **Guide backlinks** | 10+ | Authority recognized by others |
 | **Social followers** | 1000+ across platforms | Real audience |
@@ -351,12 +355,14 @@ Semaine 6: "Op1 Results & Lessons Learned"
 ## Recommendation
 
 **Best for :**
+
 - Want to build personal brand as expert
 - Have 4+ months before Op1
 - Enjoy writing / content creation
 - Want durable authority (long-term moat)
 
 **Not ideal for :**
+
 - Need Op1 in <8 weeks
 - Hate content creation
 - Want fast, minimal effort

@@ -27,7 +27,7 @@ l'Opération 1.
 ### ✅ Forces (du doc 06)
 
 | Force | Impact |
-|-------|--------|
+| --- | --- |
 | Structure légale béton | Association + Huissier + Avocat = crédibilité FR maximale |
 | Checklists détaillées | Pas de surprises, tout planifié |
 | ROI calculé | ~1-2k € d'investissement confiance pour 100k CA potentiel |
@@ -37,7 +37,7 @@ l'Opération 1.
 ### ⚠️ Faiblesses
 
 | Faiblesse | Risque |
-|-----------|--------|
+| --- | --- |
 | Document = théorie | Pas testé, obstacles réels inconnus |
 | Dépendance huissier | Absence/retard = crédibilité en baisse |
 | Timing serré | 6 semaines, marge d'erreur faible |
@@ -48,7 +48,7 @@ l'Opération 1.
 ### 🎯 Opportunités
 
 | Opportunité | Potentiel |
-|-------------|-----------|
+| --- | --- |
 | Content marketing fondateurs | Articles, vidéos : "Pourquoi nous" |
 | Red team communautaire | Inviter 50-100 joueurs à valider AVANT Op1 |
 | Micro-moments confiance | Contenus interim (coulisses, interviews avocat) |
@@ -63,7 +63,7 @@ l'Opération 1.
 ### 🚨 Menaces
 
 | Menace | Mitigation |
-|--------|-----------|
+| --- | --- |
 | 1er gagnant déçu = viral négatif | Livraison ultra-prioritaire, assurance, suivi quotidien |
 | Huissier indisponible jour J | Multi-huissiers, redondance, contrat clarifiée |
 | Data leak avant Op1 | Audit sécu AVANT lancement |
@@ -113,6 +113,7 @@ Semaine 1-2 : Créer contenu fondateur
 ```
 
 **Impact :**
+
 - Transforms "noms sur papier" → "vrais mecs avec expérience"
 - SEO bonus (contenu long, backlinks)
 - Répondable immédiatement en Discord : "Tu veux connaître nos antécédents?"
@@ -159,6 +160,7 @@ Validation :
 ```
 
 **Impact :**
+
 - Cible "première opération" → "Test réussi par 100 joueurs"
 - Crée des champions organiques (red teamers deviennent ambassadeurs)
 - Preuve tangible : "La communauté a validé, elle témoigne"
@@ -217,11 +219,13 @@ Pour CHAQUE lot, créer page visuelle :
 ```
 
 **Format :**
+
 - Page sur site (timeline interactive)
 - Épinglée sur Discord (#transparence)
 - Partageable en image (story Instagram/Twitter)
 
 **Impact :**
+
 - Zéro doute sur l'existence du lot
 - Étapes documentées = impossible de nier
 - Viral naturel si unboxing gagnant est excitant
@@ -271,6 +275,7 @@ Chacune de ces protections est vérifiable et transparente."
 ```
 
 **Impact :**
+
 - Positionne Drop & Loot comme "la solution"
 - Éducatif (aide communauté à identifier arnaques futures)
 - Référence future en Discord : "Va lire article confiance"
@@ -319,11 +324,13 @@ Semaine 4+ : Hype
 ```
 
 **Format :**
+
 - TikTok / Reels (15-30 sec clips)
 - YouTube (longs, détaillés)
 - Discord (épinglés, notifications)
 
 **Impact :**
+
 - Crée momentum continu, pas d'attente
 - Chaque vidéo = nouvelle preuve
 - Engagement Discord en continu (pas silence radio)
@@ -373,6 +380,7 @@ Avantages validateurs :
 ```
 
 **Impact :**
+
 - Crée "third-party oversight" (indépendants, nommés par communauté)
 - Rend la transparence systémique, pas one-shot
 - Transforme passifs → actifs (community becomes stakeholders)
@@ -429,11 +437,13 @@ Récompenses badges :
 ```
 
 **Format :**
+
 - Discord bot (auto-award badges)
 - Leaderboard visible #stats
 - Animation TikTok : "Voici top gamers confiance"
 
 **Impact :**
+
 - Rend confiance FUN, pas imposant
 - Engagement répété (badges = micro-goals)
 - Crée communauté interne (compétition friendly)
@@ -495,6 +505,7 @@ Résultat final :
 ```
 
 **Impact :**
+
 - Démontre sérieux anticipatoire (on a PENSÉ aux problèmes)
 - SLAs publics = accountability
 - Chaque crise devient "prévue, managée, transparent"
@@ -546,6 +557,7 @@ Préparation Op2 :
 ```
 
 **Impact :**
+
 - Transforme confiance en culture (pas one-shot)
 - Démontre itération (écoute feedback, amélioration continue)
 - Build momentum pour Op2+ (vs retour à zéro)
@@ -607,6 +619,7 @@ Résultat :
 ```
 
 **Impact :**
+
 - Déplace confiance de "2 inconnus" → "2 inconnus + 3 tiers certifiés"
 - SEO : Backlinks depuis Estago, Huissier, etc.
 - Moat : Autres concurrents ne pourront pas copier (partenariats = contrats)
@@ -618,7 +631,7 @@ Résultat :
 ## 📋 Tableau Récapitulatif
 
 | # | Piste | Effort | Impact | Timeline | Priorité |
-|----|-------|--------|--------|----------|----------|
+| --- | --- | --- | --- | --- | --- |
 | 1 | Proof of Work fondateurs | 🟡 Moyen | 🟢 Fort | Sem 1 | 🔴 HAUTE |
 | 2 | Red Team communautaire | 🟡 Moyen | 🟢 Fort | Sem 2 | 🔴 HAUTE |
 | 3 | Chain of Custody visuelle | 🟡 Moyen | 🟢 Fort | Sem 1-6 | 🟡 MOYENNE |
@@ -759,7 +772,7 @@ Résultat :
 Ajouter au tableau de bord (doc 06, Piste 7) :
 
 | Métrique de Proof | Cible | Mesure |
-|------------------|-------|--------|
+| --- | --- | --- |
 | **Red team validateurs** | 50-100 | Actif #red-team |
 | **Rapport red team** | 100% | Complété sem 2 |
 | **Validateurs indépendants** | 5-10 | Nommés + actifs |
@@ -777,6 +790,7 @@ Ajouter au tableau de bord (doc 06, Piste 7) :
 10 pistes pour transformer "on promet transparence" → "on PROUVE transparence".
 
 **L'ordre compte** :
+
 1. Fondations (Piste 1, 8, 10) — Sem 0-1
 2. Validation communautaire (Piste 2, 6) — Sem 2-3
 3. Engagement continu (Piste 5, 7, 4) — Sem 1-4

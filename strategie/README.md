@@ -176,7 +176,7 @@ Détail : Fondateurs lifetime, invitations, perks, croissance virale
 ## 📊 Chiffres Clés
 
 | Métrique | Mois 1 | Mois 3 | Mois 6 |
-| -------- | ------ | ------ | ------ |
+| --- | --- | --- | --- |
 | Participants | 300 | 800 | 1500+ |
 | Fondateurs | 300 | 400 | 600+ |
 | Ops exécutées | 1 | 3 | 6+ |

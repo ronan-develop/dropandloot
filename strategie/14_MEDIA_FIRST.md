@@ -11,7 +11,7 @@
 
 Presse = ultimate credibility. Si journaliste renommé parle de vous, c'est validation.
 
-```
+```text
 Traditional approach:
 ├─ You launch product
 ├─ Hope media covers
@@ -33,7 +33,7 @@ Media First:
 
 #### Cibles de Médias
 
-```
+```text
 Tier 1 (French Gaming & Tech Media):
 ├─ Jeuxvideo.com (major French gaming site)
 ├─ VentureBeat (tech startup coverage)
@@ -65,7 +65,7 @@ Strategy:
 
 #### Research Per Outlet
 
-```
+```text
 For each outlet, find:
 
 Key journalist:
@@ -98,7 +98,7 @@ Contact method:
 
 #### The Angle (Different per outlet)
 
-```
+```text
 Jeuxvideo.com (largest French gaming site):
 ├─ Angle: "French startup creates first transparent giveaway platform"
 ├─ Data: "80% of gamers reject giveaways as suspicious"
@@ -120,7 +120,7 @@ Numerama (French tech angle):
 
 #### Pitch Email (Personalized)
 
-```
+```text
 Subject: Story Idea — French Startup Fixing Gaming Giveaway Scams
 
 ---
@@ -185,7 +185,7 @@ Key:
 
 #### If Journalist Responds
 
-```
+```text
 Typical response: "Interesting. Tell me more."
 
 Next step: Setup call or email followup
@@ -234,7 +234,7 @@ After call: send documentation
 
 #### Transparency with Journalist
 
-```
+```text
 Important: be honest
 
 ✓ "We're a startup, just launching"
@@ -254,7 +254,7 @@ Journalists appreciate honesty.
 
 #### Interview Logistics
 
-```
+```text
 If journalist wants to observe Op1:
 
 Option 1: Virtual (easiest)
@@ -290,7 +290,7 @@ What journalist likely needs:
 
 #### Publication Timing
 
-```
+```text
 Ideal timeline:
 
 Semaine -2: Journalist confirms article will run
@@ -316,7 +316,7 @@ Jour 0: Op1 launches
 
 #### Article Amplification
 
-```
+```text
 Once published:
 
 Share everywhere:
@@ -343,7 +343,7 @@ Tag journalist:
 
 #### Journalist Relationship
 
-```
+```text
 Maintain relationship:
 
 After article:
@@ -364,7 +364,7 @@ Journalist becomes:
 
 #### Launch Messaging
 
-```
+```text
 "Featured in [Media] — Now Live"
 
 Announcement:
@@ -388,7 +388,7 @@ Join the movement.
 
 #### Press Momentum
 
-```
+```text
 During Op1:
 
 Day 1:
@@ -417,7 +417,7 @@ Post-Op1:
 ## Budget & Timeline
 
 | Élément | Coût | Timeline |
-|---------|------|----------|
+| --- | --- | --- |
 | **Media research** | 0 EUR | Weeks -8 to -6 |
 | **Pitch writing** | 0 EUR (DIY) | Weeks -6 to -4 |
 | **Outreach + engagement** | 0 EUR | Weeks -4 to -2 |
@@ -431,26 +431,31 @@ Post-Op1:
 ## Avantages Clés
 
 ✅ **Third-party validation**
+
 - Journalist vets your story
 - Publication = credibility transfer
 - Impossible to fake
 
 ✅ **Amplified reach**
+
 - Major outlet = 10k-100k+ readers
 - Op1 launch not cold (audience primed)
 - Organic reach impossible otherwise
 
 ✅ **Professional positioning**
+
 - "Featured in [Major Media]" on your website
 - Signals: professional, credible, real
 - Future journalists more likely to cover (existing press)
 
 ✅ **Continuing credibility**
+
 - Relationship with journalist = ongoing coverage
 - Op2+ gets easier to pitch
 - Press coverage snowball effect
 
 ✅ **Story angle**
+
 - Journalist writes YOUR narrative
 - Better than you trying to write it yourself
 - Reaches audiences who trust media
@@ -460,7 +465,7 @@ Post-Op1:
 ## Risques & Mitigations
 
 | Risque | Mitigation |
-|--------|-----------|
+| --- | --- |
 | Journalists say no | Have 5-10 targets, expect 20% response rate |
 | Article doesn't run | Follow up, offer exclusivity, adjust angle |
 | Article is critical | Better honest coverage than no coverage |
@@ -472,7 +477,7 @@ Post-Op1:
 ## Success Metrics
 
 | Métrique | Target | Meaning |
-|----------|--------|---------|
+| --- | --- | --- |
 | **Pitch responses** | 20%+ | Media interest exists |
 | **Articles published** | 1-3 | Actual coverage |
 | **Article reach** | 10k+ readers | Significant reach |
@@ -484,6 +489,7 @@ Post-Op1:
 ## Recommendation
 
 **Best for :**
+
 - Have good story angle (not just "another giveaway")
 - Comfortable with journalist scrutiny
 - Can handle media relations / interviews
@@ -491,6 +497,7 @@ Post-Op1:
 - 14-week timeline acceptable
 
 **Not ideal for :**
+
 - Need Op1 in <6 weeks (press takes time)
 - Want to stay under the radar (media = visibility)
 - Don't like public speaking / interviews
@@ -503,6 +510,7 @@ Post-Op1:
 **Be truthful from day 1.**
 
 Journalists will fact-check. If you:
+
 - Exaggerate numbers ❌
 - Fake credentials ❌
 - Hide being a startup ❌

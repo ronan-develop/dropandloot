@@ -38,7 +38,7 @@ administrateurs. Puis vous proposez discrètement d'héberger un giveaway chez e
 
 #### Phase 1 : Identification des Communautés (Semaines -4 à -3)
 
-```
+```text
 Cibles à rechercher :
 
 1. Discords gaming français (1 000 à 10 000 membres)
@@ -63,7 +63,7 @@ Cible : Identifier 15-20 communautés de qualité
 
 #### Phase 2 : Intégration Discrète (Semaines -3 à -1)
 
-```
+```text
 Pour chaque communauté :
 
 Semaine 1 :
@@ -88,7 +88,7 @@ Durée totale : 2-3 semaines par communauté = intégration naturelle, non-spamm
 
 #### Phase 3 : Approche Discrète aux Administrateurs (Semaine 0)
 
-```
+```text
 Message privé à administrateur principal (PERSONNALISÉ, pas template) :
 
 ---
@@ -123,7 +123,7 @@ Clés du message :
 
 #### Phase 4 : Les Administrateurs Qui Disent Oui (Semaines 1-2)
 
-```
+```text
 Si administrateur est intéressé :
 
 Proposition concrète :
@@ -152,7 +152,7 @@ Résultat 5-10 administrateurs : 10 000-20 000 personnes informées
 
 ### Résultats Attendus
 
-```
+```text
 Si 5-10 administrateurs disent oui :
 
 ├─ Semaine 1 : 5-10 giveaways « officiels » dans communautés existantes
@@ -172,7 +172,7 @@ Le bruit (word-of-mouth) se propage organiquement :
 ### Budget & Timeline
 
 | Élément | Coût | Timeline |
-|---------|------|----------|
+| --- | --- | --- |
 | **Lots pour 5-10 giveaways** | 1-1.5k EUR | Semaines 1-2 |
 | **Huissier (1-2 tirages groupés)** | 500-800 EUR | Semaine 1 |
 | **Temps intégration** | 0 EUR (juste temps Ronan) | Semaines -4 à 0 |
@@ -196,7 +196,7 @@ Avant de lancer publiquement, exécutez une « Opération 0 » **complètement t
 
 #### Phase 1 : Recrutement Discret (Semaine -4 à -3)
 
-```
+```text
 Cible : 20-30 participants de confiance
 
 Qui approcher :
@@ -217,7 +217,7 @@ Résultat : 20-30 personnes consentantes, enthousiastes
 
 #### Phase 2 : Exécution Op0 (Semaines -2 à 0)
 
-```
+```text
 Tirage réel :
 ├─ Lot réel (500-1000 EUR, respectant enveloppe)
 ├─ Inscription : simple (Discord privé ou formulaire)
@@ -234,7 +234,7 @@ Tout comme Op1, mais à petite échelle et privé.
 
 #### Phase 3 : Documentation Complète (Semaine 0 à 1)
 
-```
+```text
 Collectez tout :
 ├─ Vidéo du tirage (avec huissier)
 ├─ Procès-verbal signé (huissier)
@@ -257,7 +257,7 @@ Ce document = votre meilleure preuve Day 1 de lancement public.
 
 ### Lancement Public Op1 (Après Op0)
 
-```
+```text
 Votre annonce Day 1 :
 
 « On a testé Drop & Loot avec 30 personnes en privé.
@@ -277,7 +277,7 @@ Effect :
 ### Budget & Timeline
 
 | Élément | Coût | Timeline |
-|---------|------|----------|
+| --- | --- | --- |
 | **Lot Op0** | 500-1000 EUR | Semaine -2 |
 | **Huissier** | 400-600 EUR | Semaine -1 |
 | **Assurance** | 50-100 EUR | Semaine -1 |
@@ -298,7 +298,7 @@ publiquement avec 5-10 validations préexistantes.
 
 #### Phase 1 : Identification Influenceurs (Semaines -4 à -3)
 
-```
+```text
 Cibles :
 ├─ Micro-influencers gaming (15k-50k followers)
 ├─ Streamers Twitch petits-moyens
@@ -318,7 +318,7 @@ Note: Ce ne sont pas encore des partenaires. Juste une liste.
 
 #### Phase 2 : Approche Personnalisée (Semaines -3 à -2)
 
-```
+```text
 Pour chaque influenceur (approche DIFFÉRENTE, pas template) :
 
 Message privé Twitter/Discord :
@@ -354,7 +354,7 @@ Clés :
 
 #### Phase 3 : Les Influenceurs Qui Disent Oui (Semaines -2 à 0)
 
-```
+```text
 Celui qui dit oui :
 
 1. Vous discutez détails
@@ -379,7 +379,7 @@ Résultat par influenceur : 15k-50k impressions à audiences qualifiées
 
 #### Phase 4 : Lancement Public (Semaine 0-1)
 
-```
+```text
 Une fois 5-10 influencers ont exécuté :
 
 Votre annonce :
@@ -402,7 +402,7 @@ Effect :
 ### Budget & Timeline
 
 | Élément | Coût | Timeline |
-|---------|------|----------|
+| --- | --- | --- |
 | **Lots pour 5-10 giveaways** | 2-3k EUR | Semaines -2 à 0 |
 | **Huissier (groupé)** | 500-800 EUR | Semaines -1 à 0 |
 | **Assurance livraison** | 150-200 EUR | Semaines -1 à 0 |
@@ -417,7 +417,7 @@ Effect :
 
 Combiner **Grassroots + Influencers** pour crédibilité maximale avec exposition minimale.
 
-```
+```text
 Semaines -4 à -2 : Grassroots Seeding
 ├─ Vous rejoignez 10-15 Discords gaming français
 ├─ Vous bâtissez relation avec admins (2-3 semaines)
@@ -452,7 +452,7 @@ TOTAL : ~2-2.5k EUR, zéro exposition initiale, crédibilité maximale Day 1
 ## 📊 Tableau Comparatif Complet
 
 | Aspect | Build in Public | Grassroots | Op0 Secret | Influencers | Combinaison |
-|--------|----------------|-----------|-----------|------------|-----------|
+| --- | --- | --- | --- | --- | --- |
 | **Budget** | 0 EUR | 0 EUR | 1-1.5k EUR | 3-4k EUR | 2-2.5k EUR |
 | **Exposition initiale** | Très haute | Très basse | Zéro | Basse | Très basse |
 | **Crédibilité Day 1** | Basse (construction) | Haute (admins) | Très haute (prouvé) | Très haute (5 voix) | Maximale (15 voix) |
@@ -466,18 +466,19 @@ TOTAL : ~2-2.5k EUR, zéro exposition initiale, crédibilité maximale Day 1
 
 ## 🎯 Recommandation Stratégique
 
-### Si vous préférez EXPOSITION MINIMALE :
+### Si vous préférez EXPOSITION MINIMALE
 
 **→ Approche 4 (Combinaison) est optimale**
 
 Raison:
+
 1. **Zéro exposition publique** jusqu'à semaine 1
 2. **15-20 validations existantes** avant annonce
 3. **Crédibilité maximale** sans risque public
 4. **Budget raisonnable** (~2.5k EUR)
 5. **Viral potential** (influencers + admins parlent)
 
-### Si vous préférez VITESSE :
+### Si vous préférez VITESSE
 
 **→ Approche 2 (Op0) est plus rapide**
 
@@ -485,7 +486,7 @@ Raison:
 - Case study immédiat
 - Op1 lancé plus vite après
 
-### Si vous avez ZÉRO BUDGET :
+### Si vous avez ZÉRO BUDGET
 
 **→ Approche 1 (Grassroots)**
 
@@ -494,7 +495,7 @@ Raison:
 - Lent (6-8 semaines)
 - Nécessite patience + relationnel
 
-### Si vous avez RESEAU INFLUENCEURS :
+### Si vous avez RESEAU INFLUENCEURS
 
 **→ Approche 3 (Influencers)**
 
@@ -667,24 +668,28 @@ Raison:
 ## ⚠️ Considérations
 
 **Approche 1 (Grassroots) :**
+
 - Vraiment zéro budget
 - Très authentique
 - MAIS : lent (6-8 semaines)
 - MAIS : dépend bonne intégration
 
 **Approche 2 (Op0) :**
+
 - Rapide (4-6 semaines)
 - Case study très fort
 - MAIS : requiert 1-1.5k EUR
 - MAIS : réseau test de qualité requis
 
 **Approche 3 (Influencers) :**
+
 - Très viral
 - Très contrôlé
 - MAIS : coût plus élevé (3-4k EUR)
 - MAIS : dépend trouver influencers qualifiés
 
 **Approche 4 (Combinaison) :**
+
 - Équilibre parfait
 - Crédibilité maximale
 - Zéro exposition initiale
@@ -703,6 +708,7 @@ Raison:
 4. Que valorisons-nous? (vitesse? discrétion? crédibilité?)
 
 **Recommandation commune :** Approche 4 (Combinaison)
+
 - Balances tous les besoins
 - Faisable avec 2-2.5k EUR
 - Zéro exposition initiale

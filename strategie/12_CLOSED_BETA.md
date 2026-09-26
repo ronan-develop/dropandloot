@@ -10,6 +10,7 @@
 **Gamify adoption** en créant une phase "Closed Beta" exclusive.
 
 Bénéfices:
+
 - Testeurs = pre-qualified, engaged audience
 - Chaque testeur devient ambassador post-Op1
 - Op1 = "test" (lower pressure than "official launch")
@@ -23,7 +24,7 @@ Bénéfices:
 
 #### Ouverture des candidatures
 
-```
+```text
 Annonce (Twitter, Reddit, personal network):
 
 "We're launching Drop & Loot with a Closed Beta phase.
@@ -55,7 +56,7 @@ Application form:
 
 #### Sélection Criteria
 
-```
+```text
 Cible: 100-200 testeurs qualifiés
 
 Balance:
@@ -77,7 +78,7 @@ Objectif:
 
 #### Communication avec Sélectionnés
 
-```
+```text
 Email à beta testeurs acceptés:
 
 ---
@@ -122,7 +123,7 @@ Key point: Make testeurs feel SPECIAL (exclusive access, early validation)
 
 #### Testeur Onboarding
 
-```
+```text
 Discord privé créé : #beta-testers
 
 Contenu mis à disposition:
@@ -156,7 +157,7 @@ Contenu mis à disposition:
 
 #### Testeur Validation Checklist
 
-```
+```text
 Testeurs review & validate:
 
 Documents review:
@@ -194,7 +195,7 @@ Result:
 
 #### Testeur Role During Op1
 
-```
+```text
 Testeurs are NOT passive. They're active validators.
 
 Setup:
@@ -241,7 +242,7 @@ Result: Testeurs now have LIVED the process
 
 #### Transparency for Testeurs
 
-```
+```text
 Share everything:
 
 ├─ Financial (anonymized)
@@ -269,7 +270,7 @@ NOT: "This is perfect, validate us"
 
 #### Detailed Feedback Collection
 
-```
+```text
 Form: "Drop & Loot Beta Test — Detailed Feedback"
 
 Sections:
@@ -305,7 +306,7 @@ Sections:
 
 #### Public Feedback Loop
 
-```
+```text
 Show testeurs you listened:
 
 Post: "Here's what beta testeurs said"
@@ -330,7 +331,7 @@ Post: "Here's what beta testeurs said"
 
 #### The Big Reveal
 
-```
+```text
 Announcement:
 
 "Closed Beta Phase Complete — 200 Testers Approved Drop & Loot
@@ -378,7 +379,7 @@ Messaging: "200 people just validated this. Now it's your turn."
 
 #### Testeur Benefits Going Forward
 
-```
+```text
 Recognition:
 
 ├─ Badge on Discord: "Beta Tester"
@@ -405,7 +406,7 @@ Business model:
 ## Budget & Timeline
 
 | Élément | Coût | Timeline |
-|---------|------|----------|
+| --- | --- | --- |
 | **Beta testeur recruitment** | 0 EUR | Week -3 |
 | **Onboarding materials** | 0 EUR (DIY docs) | Week -2 |
 | **Discord setup** | 0 EUR | Week -2 |
@@ -419,21 +420,25 @@ Business model:
 ## Avantages Clés
 
 ✅ **Pre-qualified ambassadors**
+
 - 200 people who already validated you
 - Each one becomes voice defending you
 - Word-of-mouth from day 1
 
 ✅ **Gamified adoption**
+
 - People love being "testers"
 - Exclusive access feels special
 - Creates FOMO (others want to join)
 
 ✅ **Real feedback loop**
+
 - Op1 bugs caught in "safe" environment
 - You improve before big public launch
 - Public launch = polished, tested
 
 ✅ **Strong Day 1 launch**
+
 - Not "trust us" but "200 people trusted us"
 - Testimonials ready to go
 - NPS data ready to share
@@ -443,7 +448,7 @@ Business model:
 ## Risques & Mitigations
 
 | Risque | Mitigation |
-|--------|-----------|
+| --- | --- |
 | Testeurs give bad feedback | Better to know + fix before public |
 | Testeurs don't show up | Clear communication, incentivize participation |
 | Op1 fails with testeurs watching | Better in controlled setting, iterate quickly |
@@ -454,7 +459,7 @@ Business model:
 ## Success Metrics
 
 | Métrique | Target | Meaning |
-|----------|--------|---------|
+| --- | --- | --- |
 | **Beta applications** | 500+ | Interest is high |
 | **Testeur acceptance rate** | 20-40% | Selective (not everyone accepted) |
 | **Onboarding completion** | 90%+ | Testeurs engaged |
@@ -467,12 +472,14 @@ Business model:
 ## Recommendation
 
 **Best for :**
+
 - Want controlled launch (test before public)
 - Want strong testimonials + ambassadors day 1
 - Have 6 weeks timeline
 - Want quantifiable validation (NPS, feedback)
 
 **Not ideal for :**
+
 - Need immediate Op1 (takes 6 weeks)
 - Can't manage community of 200 testeurs
 - Don't want to show vulnerabilities (testeurs see your processes)

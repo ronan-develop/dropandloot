@@ -11,7 +11,7 @@ Résumé des 10 approches de lancement Drop & Loot avec analyse comparative.
 **Concept** : Transparent radical. Twitter threads quotidiennes, Discord construction-log, personal network activation.
 
 | Aspect | Détail |
-| ------ | ------ |
+| --- | --- |
 | Timeline | 8 semaines |
 | Budget | €2-3k |
 | Discrétion | ❌ Très public |
@@ -30,7 +30,7 @@ Résumé des 10 approches de lancement Drop & Loot avec analyse comparative.
 **Concept** : 4 stratégies discrètes (Grassroots, Stealth Op0, Influencer-First, Combo).
 
 | Aspect | Détail |
-| ------ | ------ |
+| --- | --- |
 | Timeline | 4 semaines (rapide) |
 | Budget | €2-3k |
 | Discrétion | ✅ Élevée |
@@ -45,10 +45,11 @@ Résumé des 10 approches de lancement Drop & Loot avec analyse comparative.
 
 **Doc** : [10_TROJAN_HORSE.md](./10_TROJAN_HORSE.md)
 
-**Concept** : Expertise publique (YouTube, blog, articles) sur « comment reconnaître arnaques giveaway », puis révéler Drop & Loot comme solution.
+**Concept** : Expertise publique (YouTube, blog, articles) sur « comment reconnaître arnaques giveaway », puis révéler
+Drop & Loot comme solution.
 
 | Aspect | Détail |
-| ------ | ------ |
+| --- | --- |
 | Timeline | 12-14 semaines |
 | Budget | €1-2k |
 | Discrétion | ✅ Initialement discret |
@@ -68,7 +69,7 @@ Résumé des 10 approches de lancement Drop & Loot avec analyse comparative.
 **Concept** : Guide éducatif colossal (~5000 mots) sur scams giveaway, red flags, framework légal, puis Drop & Loot revelation.
 
 | Aspect | Détail |
-| ------ | ------ |
+| --- | --- |
 | Timeline | 18 semaines (très long) |
 | Budget | €1-2k |
 | Discrétion | ✅ Educational positioning |
@@ -85,10 +86,11 @@ Résumé des 10 approches de lancement Drop & Loot avec analyse comparative.
 
 **Doc** : [12_CLOSED_BETA.md](./12_CLOSED_BETA.md)
 
-**Concept** : Inviter 100-200 beta testeurs sélectionnés, Op1 comme « test privé », puis lancer publiquement avec « 200 testeurs approuvés ».
+**Concept** : Inviter 100-200 beta testeurs sélectionnés, Op1 comme « test privé », puis lancer publiquement avec « 200
+testeurs approuvés ».
 
 | Aspect | Détail |
-| ------ | ------ |
+| --- | --- |
 | Timeline | 6 semaines |
 | Budget | €1.5-2.5k |
 | Discrétion | ✅ Contrôlé |
@@ -105,10 +107,11 @@ Résumé des 10 approches de lancement Drop & Loot avec analyse comparative.
 
 **Doc** : [13_COMPANY_PARTNERSHIP.md](./13_COMPANY_PARTNERSHIP.md)
 
-**Concept** : Partenaire avec GPU makers (NVIDIA, AMD), console makers (PlayStation, Xbox). Eux fournissent lots gratuitement (marketing donation), vous lancez avec endorsement.
+**Concept** : Partenaire avec GPU makers (NVIDIA, AMD), console makers (PlayStation, Xbox). Eux fournissent lots
+gratuitement (marketing donation), vous lancez avec endorsement.
 
 | Aspect | Détail |
-| ------ | ------ |
+| --- | --- |
 | Timeline | 8-10 semaines |
 | Budget | ~€1k (zéro lot) |
 | Credibility | ✅✅ Brand backing énorme |
@@ -125,10 +128,11 @@ Résumé des 10 approches de lancement Drop & Loot avec analyse comparative.
 
 **Doc** : [14_MEDIA_FIRST.md](./14_MEDIA_FIRST.md)
 
-**Concept** : Contacter journalistes AVANT lancement (VentureBeat, Jeuxvideo.com, Numerama). Obtenir article presse, PUIS lancer Op1 (article = third-party validation jour 1).
+**Concept** : Contacter journalistes AVANT lancement (VentureBeat, Jeuxvideo.com, Numerama). Obtenir article presse,
+PUIS lancer Op1 (article = third-party validation jour 1).
 
 | Aspect | Détail |
-| ------ | ------ |
+| --- | --- |
 | Timeline | 14 semaines |
 | Budget | €1.5-2k |
 | Credibility | ✅✅ Journaliste validation |
@@ -145,10 +149,11 @@ Résumé des 10 approches de lancement Drop & Loot avec analyse comparative.
 
 **Doc** : [15_GRASSROOTS_ADMIN_PARTNERSHIP.md](./15_GRASSROOTS_ADMIN_PARTNERSHIP.md)
 
-**Concept** : Infiltrer 30-40 Discords gaming français, bâtir relations authentiques avec admins, proposer giveaways DANS leurs serveurs (admin face publique, Drop & Loot opère background).
+**Concept** : Infiltrer 30-40 Discords gaming français, bâtir relations authentiques avec admins, proposer giveaways
+DANS leurs serveurs (admin face publique, Drop & Loot opère background).
 
 | Aspect | Détail |
-| ------ | ------ |
+| --- | --- |
 | Timeline | 6 mois (phases) |
 | Budget | €3-4k total (€500-600/op) |
 | Discrétion | ✅✅ Invisible publiquement |
@@ -159,6 +164,7 @@ Résumé des 10 approches de lancement Drop & Loot avec analyse comparative.
 | Status | ✅✅ **CHOISIE** |
 
 **Raison choix** :
+
 - ✅ Approche discrète (demande user)
 - ✅ Prestige naturel (exclusive clubs)
 - ✅ Croissance virale saine (amis invitent amis)
@@ -166,6 +172,7 @@ Résumé des 10 approches de lancement Drop & Loot avec analyse comparative.
 - ✅ Budget raisonnable (€3-4k sur 6 mois)
 
 **Risque minimisé** :
+
 - Infiltration authentique = pas apparent comme « marketing »
   (⚠️ audit 2026-09-26 : dissimuler la qualité de professionnel est une pratique trompeuse,
   art. L.121-4, 21° C. conso ; voir l'avertissement de 15_GRASSROOTS_ADMIN_PARTNERSHIP.md)
