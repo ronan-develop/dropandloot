@@ -112,56 +112,28 @@ N'y mets pas ce que les fichiers de `business/` contiennent déjà : pointe vers
 
 | Fichier | Contenu |
 | --- | --- |
-| `business/00_LISEZMOI_DABORD.md` | Point d'entrée du dossier |
-| `business/MODELE_GIE_ASS.md`, `business/ARCHITECTURE_GIE_FINAL.md` | Architecture GIE + Asso |
-| `business/01_STATUTS_ASSO_MAISON_DROPLOOT.md` | Statuts de l'association |
-| `business/02_CONTRAT_GIE.md` | Contrat constitutif du GIE |
-| `business/03_CONTRAT_PARTENARIAT_ASSO_GIE.md` | Mise à disposition de la marque et des actifs |
-| `business/04_COURRIER_AVOCAT.md`, `business/04B_CLARIFICATIONS.md`, `business/QUESTIONS_POUR_AVOCAT.md` | Questions à l'avocat |
-| `business/05_DEMANDE_AVIS_URSSAF.md`, `business/06_*`, `business/07_LETTRE_URSSAF_RESCRIT_SOCIAL_V2.md` | Rescrit social (V2 = version courante) |
-| `business/REPONSES_QUESTION5_JEU_CONCOURS.md` | Jeux concours |
-| `business/GIE_VS_COMPTE_COURANT.md` | Comparaison avec l'ancien modèle |
-| `.claude/BUDGET_REFERENCE.md`, `.claude/STRUCTURE_LEGAL.md`, `.claude/LEGAL_CHECKLIST.md` | Budget et cadre légal |
-| `.claude/agent.md` | Ancienne fiche « agent juridique » — contient des références erronées (voir ci-dessous) |
+| `business/00_LISEZMOI_DABORD.md` | Point d'entrée : état du projet, prochaines actions |
+| `business/01_AUDIT_2026-09-26.md` | Audit complet : verdict, risques, références corrigées, questions avocat |
+| `business/02_OPTIONS_STRUCTURE.md` | Comparatif des structures (non tranché) |
+| `business/03_JEUX_CONCOURS_CADRE_LEGAL.md` | Cadre légal du jeu promotionnel |
+| `business/operations/` | Checklists légale et opération, banques et assurances |
+| `strategie/` | Stratégie marketing et confiance gaming (avertissements d'audit intégrés) |
+
+Les documents de l'ancien modèle (GIE, statuts d'asso, lettres URSSAF) ont été retirés le 2026-09-26.
+Ceux qui étaient versionnés sont consultables via `git show 179ab1b:<chemin>`.
 
 ---
 
 ## Contexte Drop & Loot (état connu au 2026-09-26)
 
-- **Association loi 1901** « Maison Drop & Loot » : propriétaire de la PI (marque INPI, domaine, réseaux, base clients).
-- **GIE** « Drop & Loot » : porte les opérations commerciales ; 2 membres micro-entrepreneurs (Ronan, Johann).
-- **Principes** : 50/50 strict, opérations toujours menées à deux, rôles alternés, logistique externalisée
-  (l'enseigne partenaire expédie les lots), tirage certifié par commissaire de justice.
-- **Activité** : vente de T-shirts + jeux concours / tirages au sort (secteur gaming).
-- **Démarche en cours** : demande de rescrit social (art. L.243-6-3 CSS) avant création — voir lettre V2.
-- **Rien n'est encore immatriculé** (ni asso, ni GIE, ni micro-entreprises à la date de la lettre V2).
+- **Porteurs** : Ronan et Johann, tous deux salariés par ailleurs ; partage 50/50 ; activité ponctuelle et irrégulière.
+- **Activité** : vente de T-shirts gaming adossée à des jeux promotionnels (lots physiques, expédiés par une enseigne
+  partenaire).
+- **Structure** : non tranchée. Modèles GIE + asso et « asso centrale + micro-entrepreneurs missionnés » écartés par l'audit.
+  Objection des porteurs à une société : charges fixes sans activité.
+- **Jeu** : participation payante abandonnée (loterie prohibée, L.320-1 CSI). Piste : loterie commerciale avec achat du
+  T-shirt au prix normal (L.121-20 C. conso) et voie de participation gratuite ; risque d'« achat prétexte » à cadrer.
+- **Rescrit URSSAF** : jamais envoyé, abandonné.
+- **Rien n'est immatriculé.**
 
----
-
-## Points de vigilance déjà repérés — à traiter en priorité
-
-Pistes relevées lors de la création de l'agent (2026-09-26). Les confirmer par la méthode de sourcing,
-puis consigner le résultat en mémoire.
-
-1. **Références légales erronées dans les anciens documents** (`.claude/agent.md`, `.claude/STRUCTURE_LEGAL.md`,
-   fichiers citant « L.121-36 ») : GIE cité en L.210-1 / L.211-1 au lieu de L.251-1 et s. C. com. ;
-   rescrit cité « L.612-1 LCS » au lieu de L.243-6-3 CSS ; immatriculation « en sous-préfecture » au lieu du RCS ;
-   L.121-36 C. conso recodifié en 2016. Dresser la liste complète et les corrections.
-2. **Jeux concours avec « cotisation des participants »** (lettre V2). Le CSI prohibe les loteries : espérance de gain
-   liée au hasard + sacrifice financier exigé (art. L.320-1, L.320-6 et L.324-1 CSI ; L.322-1 et L.322-2 abrogés en 2020).
-   C'est potentiellement le risque n°1 du modèle, avant l'URSSAF. Analyser : gratuité, remboursement, lien avec
-   l'achat d'un T-shirt, exceptions.
-3. **Micro-entreprise et membre de GIE.** GIE fiscalement transparent (art. 239 quater CGI) ; la quote-part suit
-   les règles applicables au membre (BOI-BIC-CHAMP-70-20-50). Vérifier la compatibilité avec l'art. 50-0 CGI
-   (exclusions : BOI-BIC-DECLA-10-20), le traitement social de la quote-part et le formulaire à déposer
-   (le « 2036 bis-SD » de la lettre V2 est douteux).
-4. **Double comptage du CA.** Les documents disent tantôt « chacun déclare 100 % du CA », tantôt « le GIE déclare
-   le CA, les membres leur quote-part ». Incompatible : établir qui facture, qui encaisse, qui déclare.
-5. **Responsabilité indéfinie et solidaire** des membres (art. L.251-6 C. com., vérifié le 2026-09-26), sauf convention
-   avec le tiers cocontractant ; le créancier doit d'abord mettre le GIE en demeure. Une limite interne d'engagement
-   ne protège pas face aux tiers : chiffrer le risque et la couverture RC.
-6. **Seuils 2026** (à reconfirmer sur source officielle) : micro 203 100 € ventes / 83 600 € prestations ;
-   franchise TVA 85 000 € / 37 500 € (majorés 93 500 € / 41 250 €). À comparer au CA prévisionnel de 160 k€,
-   en qualifiant l'activité (vente de biens vs prestation de jeu).
-7. **Association** : vérifier que la détention de la marque et sa mise à disposition au GIE ne rendent pas l'asso
-   lucrative (fiscalisation, gestion désintéressée si Ronan / Johann en sont dirigeants et bénéficiaires du GIE).
+Points tranchés et points ouverts : voir la mémoire.
