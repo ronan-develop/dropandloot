@@ -16,6 +16,7 @@ fixez. **Ça crée confiance** — pas via contrats ou paroles polies, mais via 
 radicale.
 
 **Avantages** :
+
 - Coût : 0 EUR (juste du temps)
 - Crédibilité : +300% (authenticity > polish)
 - Community : Self-selected (seulement intéressés par transparence)
@@ -28,7 +29,7 @@ radicale.
 **Ne pas** : "Lancer Op1 parfait, puis dire aux gens"
 **Faire** : "Construire Op1 EN PUBLIC, gens regardent et valident en temps réel"
 
-```
+```text
 Traditional Startup:
 ├─ Mois 1-3 : Build en secret
 ├─ Mois 4 : Launch avec boom
@@ -42,6 +43,7 @@ Build in Public:
 ```
 
 **Why it works for YOU** :
+
 - Gaming community appreciates realness
 - Showing vulnerability = credibility (vs fake polish)
 - Early audience = built-in validators
@@ -56,6 +58,7 @@ Build in Public:
 #### Twitter Threads (Post Daily/Every 2 Days)
 
 **Why Twitter?**
+
 - Free
 - Reach gamers + entrepreneurs  
 - Threading = storytelling
@@ -63,7 +66,7 @@ Build in Public:
 
 **Thread 1 : Day 1 — "Building Drop & Loot Publicly"**
 
-```
+```text
 🧵 Day 1 : We're building Drop & Loot (transparent giveaways) 
            IN PUBLIC. Here's why.
 
@@ -107,7 +110,7 @@ We're building the airplane while flying it. 🚀
 
 **Thread 2 : Day 3 — "Legality Call with Lawyer"**
 
-```
+```text
 🧵 Day 3 update : Called avocat. Here's what we learned 
                   (and what we got wrong).
 
@@ -140,7 +143,7 @@ Questions? What did we miss?
 
 **Thread 3 : Day 5 — "No Budget Problem-Solving"**
 
-```
+```text
 🧵 Day 5 : We have $0 budget. Here's how we're working around it.
 
 Reality:
@@ -173,7 +176,7 @@ Who's in?
 
 **Thread 4 : Day 7 — "Draft Legal Docs (Feedback Needed)"**
 
-```
+```text
 🧵 Day 7 : We published our draft RGPD policy + giveaway rules.
 
 Link: [Discord #transparence-vault]
@@ -202,7 +205,7 @@ You helped build this. That's the point.
 
 **Thread 5 : Day 9 — "First Micro-Influencer Outreach"**
 
-```
+```text
 🧵 Day 9 : We reached out to 5 micro-influencers 
            (no budget, just honest ask).
 
@@ -232,7 +235,7 @@ Patience. This is slow-burn credibility.
 
 **Thread 6 : Day 11 — "Mistakes We Made (Transparency)"**
 
-```
+```text
 🧵 Day 11 : Mistakes we made (and how we fixed them).
 
 Mistake 1 : Didn't contact SIREN for association registration first
@@ -269,7 +272,7 @@ That's credibility.
 
 **Don't** make it pretty. Make it **transparent**.
 
-```
+```text
 discord.gg/dropandloot
 
 Structure:
@@ -328,7 +331,7 @@ Growth:
 
 #### Email Template (Personalize Each One)
 
-```
+```text
 Subject: Building something interesting, need your input
 
 ---
@@ -374,7 +377,7 @@ For family:
 
 #### Outreach Target
 
-```
+```text
 Week 1 outreach:
 ├─ [ ] 5 personal friends (have they shared?)
 ├─ [ ] 5 old colleagues (gaming/startup background)
@@ -397,7 +400,8 @@ Result target:
 You found 1-3 micro-influencers. They said yes.
 
 **Now:**
-```
+
+```text
 Step 1: Send them the lot (however you got it)
 ├─ Free, no strings
 ├─ Just: "Would love your honest take"
@@ -433,7 +437,7 @@ Impact: 10k+ viewers see your concept is real
 
 Not a "formal red team," just **Discord asks**:
 
-```
+```text
 #help-us post:
 
 "We need you to break our process.
@@ -461,7 +465,7 @@ Impact: 20-30 people now invested + your docs are better
 
 #### Daily Twitter Updates (Minimal, Raw)
 
-```
+```text
 Op1 starts. You document everything, live:
 
 Day 1 (Lancement) :
@@ -495,6 +499,7 @@ Day 15+ :
 ```
 
 **This is free amplification:**
+
 - Every update = new tweet = reachable by search
 - People following your journey = invested
 - Live documentation = credible (not polished fake)
@@ -503,7 +508,7 @@ Day 15+ :
 
 #### Discord #construction-log (Daily, Casual)
 
-```
+```text
 Real, unfiltered updates:
 
 "Day 1 - Op1 live
@@ -652,7 +657,7 @@ People see it, they believe you.
 ## 🎯 Success Metrics (Zero Budget Edition)
 
 | Metric | Target | Why |
-|--------|--------|-----|
+| --- | --- | --- |
 | **Discord members** | 100-200 by Op1 | Engaged community |
 | **Twitter followers** | 200-500 by Op1 | Reach for announcements |
 | **Influencer validations** | 2-3 unboxing videos | First social proof |
@@ -667,7 +672,8 @@ People see it, they believe you.
 ## ⚠️ Risk Mitigation (No Budget)
 
 **Risk 1 : Influencer says "this is sus"**
-```
+
+```text
 ├─ You already knew it was possible
 ├─ You said "honest feedback only"
 ├─ You listen, iterate, try again
@@ -676,7 +682,8 @@ People see it, they believe you.
 ```
 
 **Risk 2 : Lot doesn't arrive in time**
-```
+
+```text
 ├─ Post immediately on Discord/Twitter
 ├─ "We hit a delay [reason]. Honest communication: [new timeline]"
 ├─ Offer bonus (if possible) or rescheduled Op1
@@ -684,7 +691,8 @@ People see it, they believe you.
 ```
 
 **Risk 3 : Zero followers, zero engagement**
-```
+
+```text
 ├─ Real possibility with zero budget
 ├─ But: you still built real credibility (docs, process, honesty)
 ├─ Use Op1 as proof point for Op2+ outreach
@@ -692,7 +700,8 @@ People see it, they believe you.
 ```
 
 **Risk 4 : Gagnant doesn't want to go public**
-```
+
+```text
 ├─ Respect their privacy
 ├─ Share only numbers ("1 gagnant received lot, happy")
 ├─ Testimonial = optional, not required
@@ -735,7 +744,7 @@ People see it, they believe you.
 
 Once Op1 is done + documented:
 
-```
+```text
 You have:
 ├─ Real operating numbers
 ├─ Real testimonials
@@ -765,6 +774,7 @@ It's a operating philosophy: **radical transparency = ultimate credibility.**
 For zero-budget startups, it's not just better — it's the **only way** that works.
 
 Because:
+
 - Expensive: paid audience, fake polish
 - You have: time, honesty, documentation
 
@@ -773,6 +783,7 @@ Lean into your strengths.
 ---
 
 **Cette semaine :**
+
 1. Create Twitter account + post Thread 1
 2. Create Discord + invite 5 people
 3. Send 5 personalized emails

@@ -832,7 +832,8 @@ Mois 9 : Public launch avec « Founder's Circle » comme prestige offering
 
 **Prêt à lancer Founder's Circle ?** 🌟
 
-Ce système crée une communauté qui grandit d'elle-même, où chaque Fondateur devient advocate, et où prestige croît avec chaque nouvelle operation.
+Ce système crée une communauté qui grandit d'elle-même, où chaque Fondateur devient advocate, et où prestige croît avec
+chaque nouvelle operation.
 
 ---
 

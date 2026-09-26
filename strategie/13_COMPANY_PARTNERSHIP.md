@@ -10,7 +10,7 @@
 
 **Win-win partnership** :
 
-```
+```text
 Leur besoin:
 ├─ Brand exposure
 ├─ Community engagement
@@ -34,7 +34,7 @@ Votre besoin:
 
 #### Cibles Potentielles
 
-```
+```text
 Tier 1 (Hardware Manufacturers):
 ├─ NVIDIA (GPU — most relevant for gaming)
 ├─ AMD (GPU + CPU)
@@ -66,7 +66,7 @@ Strategy:
 
 #### Research Per Target
 
-```
+```text
 For each company, find:
 
 Contact:
@@ -99,7 +99,7 @@ Decision maker:
 
 #### One-Pager / Pitch Deck
 
-```
+```text
 Format: 1-page PDF + 30-second elevator pitch
 
 ---
@@ -143,7 +143,7 @@ Contact: Ronan / Johann
 
 #### Email Pitch Template
 
-```
+```text
 Subject: [COMPANY] Partner with Drop & Loot? 🎮
 
 ---
@@ -188,7 +188,7 @@ Tone: Respectful, brief, not salesy. Like peer-to-peer (not desperate)
 
 #### Outreach Strategy
 
-```
+```text
 Wave 1 (Best targets first):
 ├─ Identify 3-5 top companies
 ├─ Personalized email (mention recent campaign, show you know them)
@@ -216,7 +216,7 @@ Success rate expectation:
 
 #### Negotiation Points
 
-```
+```text
 If they say "maybe," address concerns:
 
 Concern: "Is this a scam yourself?"
@@ -244,7 +244,7 @@ Negotiation:
 
 #### Confirmation Email
 
-```
+```text
 Subject: Confirmed — [COMPANY] Partners with Drop & Loot Op1
 
 ---
@@ -284,7 +284,7 @@ Key: Clear expectations, specific timeline, mutual benefit clear
 
 ### Phase 4 : Product Reception & Documentation (Semaine 0)
 
-```
+```text
 Products arrive at your address / shared coworking:
 
 Reception:
@@ -311,7 +311,7 @@ Announcement:
 
 #### Launch Messaging
 
-```
+```text
 Announcement:
 
 "Op1 Launch — Backed by Industry Partners 🎮
@@ -339,7 +339,7 @@ Participate: [link]
 
 #### Partner Amplification
 
-```
+```text
 Request from each partner:
 
 "Would you share Op1 on your channels?"
@@ -359,7 +359,7 @@ If they do:
 
 #### During Op1
 
-```
+```text
 Maintain partnership vibe:
 
 Tirage update: "Thanks [COMPANY] for [product]!"
@@ -375,7 +375,7 @@ Result: Company sees ROI (positive mentions, engagement)
 ## Budget & Timeline
 
 | Élément | Coût | Timeline |
-|---------|------|----------|
+| --- | --- | --- |
 | **Company outreach** | 0 EUR | Weeks -6 to -1 |
 | **Negotiation + admin** | 0 EUR | Weeks -4 to 0 |
 | **Products received** | ~0 EUR (donation) | Weeks 0-1 |
@@ -389,26 +389,31 @@ Result: Company sees ROI (positive mentions, engagement)
 ## Avantages Clés
 
 ✅ **Zero lot cost**
+
 - Companies provide products (marketing donation)
 - Save 1-2k EUR on lots
 - Can reinvest elsewhere
 
 ✅ **Maximum credibility**
+
 - "Backed by NVIDIA" > anything else
 - Big brand = third-party validation
 - Impossible to fake
 
 ✅ **Amplification**
+
 - Partners have huge audiences
 - One retweet = 100k impressions
 - Op1 gets 10x more participants
 
 ✅ **PR story**
+
 - "Startup partners with major brands"
 - Journalists love this angle
 - Media coverage potential
 
 ✅ **Relationship building**
+
 - Start relationships with big companies
 - Potential for ongoing partnerships
 - Moat: hard for competitors to replicate
@@ -418,7 +423,7 @@ Result: Company sees ROI (positive mentions, engagement)
 ## Risques & Mitigations
 
 | Risque | Mitigation |
-|--------|-----------|
+| --- | --- |
 | Companies say no | Have 20+ targets, expect 20-30% conversion |
 | Products late | Start outreach 8 weeks before Op1, not 4 |
 | Company wants something in return | Negotiate clearly upfront |
@@ -430,7 +435,7 @@ Result: Company sees ROI (positive mentions, engagement)
 ## Success Metrics
 
 | Métrique | Target | Meaning |
-|----------|--------|---------|
+| --- | --- | --- |
 | **Outreach responses** | 20%+ | Companies interested |
 | **Partnership confirmations** | 3-5 | At least some partners confirmed |
 | **Product donations** | 3-5 items | Partners delivering |
@@ -443,6 +448,7 @@ Result: Company sees ROI (positive mentions, engagement)
 ## Recommendation
 
 **Best for :**
+
 - Want maximum credibility (big brand backing)
 - Want zero lot cost (companies provide)
 - Can handle negotiation / relationship building
@@ -450,6 +456,7 @@ Result: Company sees ROI (positive mentions, engagement)
 - Like working with established companies
 
 **Not ideal for :**
+
 - Need Op1 in <6 weeks (outreach takes time)
 - Don't like sales/negotiation process
 - Want to avoid "corporate" positioning
@@ -461,7 +468,7 @@ Result: Company sees ROI (positive mentions, engagement)
 
 **This approach does NOT require payment.** It's mutualistic:
 
-```
+```text
 You don't pay companies for products.
 Companies don't pay you for partnership.
 

@@ -25,6 +25,7 @@
 **Concept:** Vous n'êtes pas la marque. Les admins Discord sont.
 
 **Model:**
+
 1. Rejoignez 10-20 Discords gaming français (anonymement, en tant que joueurs)
 2. Bâtissez relation authentique avec admins (2-3 mois)
 3. Proposez collaboration : « Organise un giveaway transparent pour ta commu. On gère tout. »
@@ -33,6 +34,7 @@
 6. Chaque succès = prochain admin plus facile
 
 **Résultats après 6 mois:**
+
 - 10+ giveaways réussis
 - 10+ admins qui vous connaissent + validez
 - 1000+ gamers ayant participé
@@ -51,7 +53,7 @@
 
 **Où chercher :**
 
-```
+```text
 Sources principales:
 ├─ Reddit (r/gaming, r/france, r/esports, subreddits jeux)
 │  └─ Bios des utilisateurs = liens Discord
@@ -71,7 +73,7 @@ Sources principales:
 
 **Critères de Sélection :**
 
-```
+```text
 ✓ Bon serveur = 1k-10k membres
   └─ Sweet spot : assez gros (impact), pas trop (admin pas débordé)
 
@@ -93,7 +95,7 @@ Sources principales:
 
 **Collecte :**
 
-```
+```text
 Créer spreadsheet:
 
 | Nom Serveur | Membres | Jeux | Admin | Vibe | Contact |
@@ -110,7 +112,7 @@ Target: 30-40 serveurs qualifiés
 
 #### Étape 1.2 : Prioriser
 
-```
+```text
 Scoring simple (par admin):
 
 Points:
@@ -144,7 +146,7 @@ Si réussit là, autres seront faciles.
 
 #### Étape 2.1 : Rejoindre (Naturellement)
 
-```
+```text
 Par serveur, timeline de 7-14 jours:
 
 Jour 1:
@@ -174,7 +176,7 @@ Juste: authentique, utile, normal
 
 #### Étape 2.2 : Observation Admin
 
-```
+```text
 Pendant 2-4 semaines en lurk/participate:
 
 Repérez:
@@ -208,7 +210,7 @@ Goal: Understand admin psychologically
 
 #### Étape 3.1 : Devenir Utile
 
-```
+```text
 Actions pour être remarqué:
 
 1. Modération light
@@ -245,7 +247,7 @@ Goal achieved: You're no longer unknown.
 
 **Template (PERSONNALISÉ par admin/serveur) :**
 
-```
+```text
 Subject: Idea for [ServerName]
 
 ---
@@ -291,7 +293,7 @@ Personnalisation checklist:
 
 #### Étape 4.1 : Call Structure (15 min)
 
-```
+```text
 00:00-02:00 | Rapport & merci
 ├─ « Merci d'avoir taken the call »
 ├─ « Ton serveur est vraiment cool, j'aime l'énergie »
@@ -336,7 +338,7 @@ Personnalisation checklist:
 
 #### Étape 4.2 : Répondre Objections
 
-```
+```text
 Objection 1: « Sounds cool but how do I know this is real? »
 Response: « Great question. Here's what you should know:
   - We're registered with SIREN/SIRET (I'll send you)
@@ -384,7 +386,7 @@ Response: « I hear you. Let me share what we're thinking... »
 
 #### Étape 5.1 : Setup
 
-```
+```text
 Once admin says YES:
 
 Week 7:
@@ -407,7 +409,7 @@ Week 9:
 
 #### Étape 5.2 : Tirage
 
-```
+```text
 Week 10 (Draw day):
 
 Call avec Huissier:
@@ -430,7 +432,7 @@ Your docs:
 
 #### Étape 5.3 : Livraison
 
-```
+```text
 Weeks 11-12:
 
 Colis dispatch:
@@ -460,7 +462,7 @@ Result:
 
 #### Étape 6.1 : Case Study
 
-```
+```text
 After giveaway complete (week 13):
 
 Créer document:
@@ -478,7 +480,7 @@ Publish on: Website (later, after public launch)
 
 #### Étape 6.2 : Admin Testimonial
 
-```
+```text
 After success:
 
 Request (casual):
@@ -502,7 +504,7 @@ Snowball effect starts.
 
 #### Scaling Timeline
 
-```
+```text
 Month 1: Admin 1 (learning, optimizing process)
 ├─ Cost: €500-600 (full huissier)
 ├─ Participants: 100+
@@ -541,7 +543,7 @@ Total after 6 months:
 
 ### Par Giveaway
 
-```
+```text
 Fixed cost:
 ├─ Huissier: €400-600
 ├─ Assurance: €50-100
@@ -596,7 +598,7 @@ Sustainability:
 
 ### 6-Month Budget
 
-```
+```text
 Scenario A (Borrow lots first 3 months):
 ├─ Month 1: €600 (1 giveaway)
 ├─ Month 2-3: €600 (2 giveaways, shared huissier)
@@ -624,7 +626,7 @@ See separate section below on how to handle admin requests for payment.
 ## Success Metrics
 
 | Métrique | Target | Meaning |
-|----------|--------|---------|
+| --- | --- | --- |
 | **Giveaways executed** | 10+ | Proof of repeatable system |
 | **Admins partnered** | 10+ | Diverse communities validated |
 | **Total participants** | 1000+ | Real reach |
@@ -638,31 +640,37 @@ See separate section below on how to handle admin requests for payment.
 ## Avantages Clés
 
 ✅ **Zero public exposure**
+
 - You're invisible (admins are faces)
 - No founder Twitter drama
 - No viral pressure
 
 ✅ **Authentic validation**
+
 - Real admins, real communities, real results
 - Not paid testimonials (faux si l'admin reçoit un avantage : voir avertissement en tête)
 - Community members vouch for you
 
 ✅ **Repeatable playbook**
+
 - Each giveaway teaches you something
 - 2nd, 3rd, 10th are easier
 - System compounds
 
 ✅ **Organic growth**
+
 - Admins talk to each other (« We did a giveaway... »)
 - Word-of-mouth spreads naturally
 - Viral but controlled
 
 ✅ **Budget realistic**
+
 - €3-4k for 6 months (if borrow lots)
 - Can start with €500-600
 - Scales down with each giveaway
 
 ✅ **True grassroots**
+
 - Community-driven, not marketing-driven
 - People believe in it organically
 - When you launch publicly: « 1000+ people already tested »
@@ -672,7 +680,7 @@ See separate section below on how to handle admin requests for payment.
 ## Risques & Mitigations
 
 | Risque | Mitigation |
-|--------|-----------|
+| --- | --- |
 | Admin says no | 30-40 targets, expect 20% accept → 6-8 yes |
 | Giveaway breaks | Huissier + insurance covers, admin protected |
 | Participant complains | Livraison guarantees, refund policy clear |

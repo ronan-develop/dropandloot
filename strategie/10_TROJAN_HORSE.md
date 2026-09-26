@@ -1,6 +1,6 @@
 # Approche 6 : Trojan Horse — Présence Légitime → Révélation
 
-> Construire une expertise reconnue dans un domaine (giveaway arnaque), puis révéler Drop & Loot 
+> Construire une expertise reconnue dans un domaine (giveaway arnaque), puis révéler Drop & Loot
 > comme solution logique et attendue.
 
 ---
@@ -29,7 +29,7 @@ solution naturelle aux problèmes que vous avez identifiés.
 
 #### Où créer présence?
 
-```
+```text
 Option A : YouTube
 ├─ Chaine "Gaming Giveaway Expert" ou perso (Ronan)
 ├─ Contenu : vidéos éducatives (10-15 min)
@@ -61,7 +61,7 @@ Recommandation : YouTube + Blog (dual approach)
 
 **Titre/Topics à couvrir :**
 
-```
+```text
 Semaine -8 : "5 Biggest Giveaway Scams of 2024"
 ├─ Étude cas réels (Reddit r/scams, Twitter complaints)
 ├─ Analyse : pourquoi arnaque, signes d'alerte
@@ -89,7 +89,7 @@ Semaine -5 : "I Tested 10 'Gaming Giveaways' — Here's What Happened"
 
 **Tone:**
 
-```
+```text
 ✓ Éducateur (pas vendeur)
 ✓ Honnête (admit quand tu sais pas)
 ✓ Detailed (explique pourquoi, pas juste what)
@@ -107,7 +107,7 @@ Semaine -5 : "I Tested 10 'Gaming Giveaways' — Here's What Happened"
 
 #### Signaux d'Autorité
 
-```
+```text
 Semaine -4 :
 
 📊 Audience croissance
@@ -147,7 +147,7 @@ Semaines -3 à -2 :
 
 #### Contenu Continuation (Semaines -4 à -2)
 
-```
+```text
 Semaine -4 : "Why Most Giveaways Fail (Or Scam)"
 ├─ Analyse profonde : reasons
 ├─ Organiational challenges
@@ -175,7 +175,7 @@ Semaine -2 : "What I'm Building (Hint: Solving Giveaway Problems)"
 
 #### Announcement Video/Article
 
-```
+```text
 Timing : Semaine -1 ou 0 (quand audience au maximum anticipation)
 
 Format : YouTube video + Article blog (simultané)
@@ -223,7 +223,7 @@ Article parallèle (2500-3000 mots) :
 
 #### Audience Reaction
 
-```
+```text
 Expected:
 
 ✓ "Finally, someone actually solving this!"
@@ -244,7 +244,7 @@ Potential:
 
 ### Phase 4 : Op1 Launch (Semaine 1-6)
 
-```
+```text
 Your audience = already knows you
 Your audience = already wants to believe you
 Your audience = already validated by your research
@@ -278,7 +278,7 @@ Semaine 6 : "Op1 Complete — Here Are Results"
 ## Budget & Timeline
 
 | Élément | Coût | Timeline |
-|---------|------|----------|
+| --- | --- | --- |
 | **YouTube channel (free)** | 0 EUR | Week -8 |
 | **Blog setup** | 0-50 EUR (domain optionnel) | Week -8 |
 | **Content production** (8-10 vidéos/articles) | 0 EUR (DIY) ou 500-1000 EUR (freelancer) | Weeks -8 to -2 |
@@ -291,21 +291,25 @@ Semaine 6 : "Op1 Complete — Here Are Results"
 ## Avantages Clés
 
 ✅ **Audience pré-qualifiée**
+
 - Sensibilisée aux problèmes
 - Demandant la solution
 - Prêts à participer
 
 ✅ **Autorité établie**
+
 - Vous êtes l'expert, pas le vendeur
 - Confiance = built over time
 - Crédibilité maximale
 
 ✅ **Viral organique potentiel**
+
 - Educational content = shareable
 - Audience devient ambassadeur
 - "This guy solved the problem" narrative
 
 ✅ **Business moat**
+
 - Difficile à copier (requiert expertise + time)
 - Audience loyalty = durable
 - Brand = fondé sur crédibilité, pas marketing
@@ -315,7 +319,7 @@ Semaine 6 : "Op1 Complete — Here Are Results"
 ## Risques & Mitigations
 
 | Risque | Mitigation |
-|--------|-----------|
+| --- | --- |
 | Contenu pend trop de temps | Start avec 1 plateforme (YouTube), expand après |
 | Audience lente à croître | Consistency > virality. 500 subs engaged > 10k fake |
 | Competitors copient | Difficile (requiert expertise réelle), vous ahead |
@@ -326,7 +330,7 @@ Semaine 6 : "Op1 Complete — Here Are Results"
 ## Success Metrics
 
 | Métrique | Target | Meaning |
-|----------|--------|---------|
+| --- | --- | --- |
 | **YouTube subs** | 1000-2000 | Engaged audience |
 | **Blog monthly views** | 2000-5000 | SEO working, discoverability |
 | **Comments quality** | High (thoughtful) | Audience engagement, not bots |
@@ -338,12 +342,14 @@ Semaine 6 : "Op1 Complete — Here Are Results"
 ## Recommendation
 
 **Best for :**
+
 - Ronan ou Johann who enjoys creating content
 - Long-term brand building (not immediate Op1)
 - Building personal brand as "giveaway expert"
 - Audience who values education + transparency
 
 **Not ideal for :**
+
 - Need Op1 in 4-6 weeks (this takes 12-14)
 - Hate public speaking / content creation
 - Want to stay completely low-profile

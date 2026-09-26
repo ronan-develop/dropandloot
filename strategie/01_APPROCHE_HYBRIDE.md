@@ -226,18 +226,18 @@ Processus:
 
 ### **Par opération** (exemple type: 300 cotisants × 10€)
 
-| Item               | Montant          | Détail                      |
-|--------------------|------------------|-----------------------------|
-| **REVENU**         |                  |                             |
-| Cotisations Tier 1 | 3 000€           | 300 × 10€                   |
-|                    |                  |                             |
-| **COÛTS**          |                  |                             |
-| Lot (coût d'achat) | (1 200€)         | Acheté chez partenaire      |
-| Frais opérationnel | (200€)           | Support, modération, outils |
-| Tirage certifié    | (0-150€)         | Huissier si lot ≥ 5k€       |
-| RGPD/Archivage     | (50€)            | Stockage sécurisé 10 ans    |
-|                    |                  |                             |
-| **= MARGE NETTE**  | **1 400-1 550€** | Revenu Drop & Loot          |
+| Item | Montant | Détail |
+| --- | --- | --- |
+| **REVENU** | | |
+| Cotisations Tier 1 | 3 000€ | 300 × 10€ |
+| | | |
+| **COÛTS** | | |
+| Lot (coût d'achat) | (1 200€) | Acheté chez partenaire |
+| Frais opérationnel | (200€) | Support, modération, outils |
+| Tirage certifié | (0-150€) | Huissier si lot ≥ 5k€ |
+| RGPD/Archivage | (50€) | Stockage sécurisé 10 ans |
+| | | |
+| **= MARGE NETTE** | **1 400-1 550€** | Revenu Drop & Loot |
 
 ### **Partenaire enseigne — son intérêt**
 
@@ -269,12 +269,12 @@ Processus:
 > numéros depuis la recodification du 2016-07-01 (ord. n° 2016-301) ; « R.122-1+ » ne correspond à aucun
 > décret d'application des loteries publicitaires. Le tirage payant du Tier 1 reste non conforme.
 
-| Article                    | Titre                                 | Compliance                                     |
-|----------------------------|---------------------------------------|------------------------------------------------|
-| **L.121-20 C. conso**      | Loteries publicitaires                | À vérifier : licite si non déloyale            |
-| **L.121-1 C. conso**       | Pratiques commerciales déloyales      | À vérifier : transparence nécessaire           |
-| **L.111-1 C. conso**       | Information précontractuelle          | OK : règlement clair + public                  |
-| **L.320-1 et L.320-6 CSI** | Prohibition des loteries / exceptions | KO : participation payante = loterie prohibée  |
+| Article | Titre | Compliance |
+| --- | --- | --- |
+| **L.121-20 C. conso** | Loteries publicitaires | À vérifier : licite si non déloyale |
+| **L.121-1 C. conso** | Pratiques commerciales déloyales | À vérifier : transparence nécessaire |
+| **L.111-1 C. conso** | Information précontractuelle | OK : règlement clair + public |
+| **L.320-1 et L.320-6 CSI** | Prohibition des loteries / exceptions | KO : participation payante = loterie prohibée |
 
 ### **Checklist conformité**
 
@@ -361,39 +361,39 @@ Processus:
 
 ### **Metrics par opération**
 
-| Métrique                       | Target                                | Récurrence        |
-|--------------------------------|---------------------------------------|-------------------|
-| **Taux participation**         | +5-10% vs opération précédente        | Post-opération    |
-| **Trust score**                | Sondage: "Vous avez confiance?"       | Post-opération    |
-| **NPS**                        | > 50 (gagnant + spectateurs)          | Post-opération    |
-| **Satisfaction livraison**     | > 95%                                 | Post-opération    |
-| **Support réactivité**         | < 24h réponse                         | Pendant opération |
-| **Cas non résolus**            | 0                                     | Post-opération    |
-| **Gagnants publient feedback** | Objectif 100% optionnel encouragement | Post-opération    |
+| Métrique | Target | Récurrence |
+| --- | --- | --- |
+| **Taux participation** | +5-10% vs opération précédente | Post-opération |
+| **Trust score** | Sondage: "Vous avez confiance?" | Post-opération |
+| **NPS** | > 50 (gagnant + spectateurs) | Post-opération |
+| **Satisfaction livraison** | > 95% | Post-opération |
+| **Support réactivité** | < 24h réponse | Pendant opération |
+| **Cas non résolus** | 0 | Post-opération |
+| **Gagnants publient feedback** | Objectif 100% optionnel encouragement | Post-opération |
 
 ### **Metrics cumulées (long-term)**
 
-| Métrique                    | But                            | Timeline  |
-|-----------------------------|--------------------------------|-----------|
-| **Portfolio de preuves**    | 10+ opérations réussies        | 6-12 mois |
-| **Réputation gaming**       | Reconnu comme sérieux          | 6-12 mois |
-| **Discord croissance**      | 5k→10k→25k members             | 12+ mois  |
-| **Revenue scaling**         | 3 ops/mois = 4.5k€ revenu/mois | 6+ mois   |
-| **Partenaires diversifiés** | 5+ enseignes partenaires       | 12+ mois  |
+| Métrique | But | Timeline |
+| --- | --- | --- |
+| **Portfolio de preuves** | 10+ opérations réussies | 6-12 mois |
+| **Réputation gaming** | Reconnu comme sérieux | 6-12 mois |
+| **Discord croissance** | 5k→10k→25k members | 12+ mois |
+| **Revenue scaling** | 3 ops/mois = 4.5k€ revenu/mois | 6+ mois |
+| **Partenaires diversifiés** | 5+ enseignes partenaires | 12+ mois |
 
 ---
 
 ## 🚨 Risques & Mitigation
 
-| Risque                      | Impact                      | Mitigation                        |
-|-----------------------------|-----------------------------|-----------------------------------|
-| **Gagnant non satisfait**   | Crédibilité atteinte        | Livraison via partenaire certifié |
-| **Tirage contesté**         | Léger impact                | Vidéo + témoins Tier 2            |
-| **Lot non disponible**      | Critique                    | Vérifier stock partenaire JJ-2    |
-| **RGPD violation**          | Légal + réputation          | Suppression 30j post-opération    |
-| **Non-conformité légale**   | Amende DGCCRF jusqu'à 150k€ | Template huissier + avocat        |
-| **Loterie prohibée**        | 3 ans + 90 000 € (L.324-1)  | Jeu gratuit ou sans surcoût       |
-| **Participants frauduleux** | Perte revenue               | Vérification paiement avant badge |
+| Risque | Impact | Mitigation |
+| --- | --- | --- |
+| **Gagnant non satisfait** | Crédibilité atteinte | Livraison via partenaire certifié |
+| **Tirage contesté** | Léger impact | Vidéo + témoins Tier 2 |
+| **Lot non disponible** | Critique | Vérifier stock partenaire JJ-2 |
+| **RGPD violation** | Légal + réputation | Suppression 30j post-opération |
+| **Non-conformité légale** | Amende DGCCRF jusqu'à 150k€ | Template huissier + avocat |
+| **Loterie prohibée** | 3 ans + 90 000 € (L.324-1) | Jeu gratuit ou sans surcoût |
+| **Participants frauduleux** | Perte revenue | Vérification paiement avant badge |
 
 ---
 
