@@ -18,7 +18,7 @@ Audit complet du 2026-09-26. Sources vérifiées ce jour-là (Légifrance, BOFiP
   La fiche agent `.claude/agents/business.md` (vigilance n°2) cite encore L.322-1/L.322-2 : à corriger.
 - C. conso L.121-20 (depuis 2016-07-01) : loteries promotionnelles interdites seulement si déloyales (L.121-1).
   ANJ FAQ pro : doivent servir **exclusivement à la promotion d'un bien ou service**.
-  => « cotisation pour participer au tirage » (lettre V2, stratégie/01_approche_hybride) = loterie prohibée.
+  => « cotisation pour participer au tirage » (lettre V2, strategie/01_APPROCHE_HYBRIDE.md) = loterie prohibée.
 - L.322-3 CSI (v. 2024-04-17) : loteries d'objets mobiliers pour causes listées (sociales, sportives, culturelles…),
   autorisation du maire. Inutilisable pour un but de profit des fondateurs.
 - L.121-36 C. conso cité partout : recodifié 2016 (loteries → L.121-20 ; déloyales → L.121-1).
@@ -58,6 +58,26 @@ Audit complet du 2026-09-26. Sources vérifiées ce jour-là (Légifrance, BOFiP
 - IS : 15 % jusqu'à 42 500 € puis 25 % (F23575, vérifié 2026-02-17).
 - INPI marque : 190 € + 40 €/classe supplémentaire (tarifs au 2026-07-02).
 - NAF 47.91B = « Vente à distance sur catalogue spécialisé » (le contrat GIE dit « en magasin spécialisé »).
+
+## Ajouts du 2026-09-26 (structure et jeux, détails dans `business/02_...` et `business/03_...`)
+
+- Président/DG de SAS non rémunéré : aucune cotisation, pas de minimum (L.311-3 23° CSS ; Bpifrance Création).
+- SARL : L.311-3 11° apprécie la gérance **ensemble** → 2 cogérants 50/50 = majoritaires = TNS, minimum 2026
+  ≈ 1 255 à 1 298 €/an chacun (Bpifrance ; urssaf.fr en erreur ce jour).
+- CFE : cotisation minimum exonérée si CA ≤ 5 000 € (1647 D CGI, version 2026-07-01).
+- Création société : 33,83 € + 19,33 € BE (F37688) ; annonces 2026 SAS 199 €, SARL 148 €, SNC 220 € HT (A18724).
+- Mise en sommeil 2 ans max, comptes annuels dus (F37362). Micro radiée après 24 mois de CA nul.
+- L.1222-5 C. trav. : exclusivité inopposable 1 an au salarié créateur ; loyauté maintenue.
+- SEP : IR si associés indéfiniment responsables et déclarés (BOI-IS-CHAMP-10-40 §90) ; exclue du micro ;
+  1872-1 C. civ. : solidaire si révélée et commerciale ; 1873 : société créée de fait → régime SEP.
+- PFU 2026 = 31,4 % (A18796).
+- Loi 2014-1545 art. 54 a bien abrogé L.121-36-1 à L.121-41 (dépôt huissier non obligatoire) : l'ancien doc était
+  exact sur ce point.
+- Cass. com. 29 janv. 2020 n° 18-22.137 (publié) : sacrifice financier indirect suffit. CJUE C-304/08 (2010).
+- L.320-7 CSI : mineurs exclus sauf 2° et 7° de L.320-6 → loteries publicitaires ouvertes aux mineurs.
+- L.121-4 18° C. conso : annoncer un prix sans l'attribuer = trompeuse ; L.132-2 : 2 ans + 300 000 €.
+- Loi 2023-451 art. 4 renvoie à L.320-1 et L.320-6 CSI ; décret 2026-233 : mention ≥ 90 % de la durée vidéo.
+- TVA cadeaux : 73 € TTC (28-00 A ann. IV CGI).
 
 ## Non vérifiés (ne pas conclure dessus)
 
