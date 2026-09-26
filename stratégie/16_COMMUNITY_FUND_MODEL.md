@@ -6,6 +6,17 @@
 
 ---
 
+> ⚠️ **Promotion non identifiée et avantages aux relais d'influence (audit 2026-09-26)** : l'admin qui
+> annonce le tirage et obtient en retour un avantage (fonds de €1500 pour sa communauté, statut, lot) fait la
+> promotion de Drop & Loot à titre onéreux au sens de l'art. 1 de la loi n° 2023-451 du 9 juin 2023
+> (qualification à confirmer avec l'avocat). Chaque annonce doit porter la mention « Publicité » ou
+> « Collaboration commerciale » (art. 5-2 de la loi, version au 2024-11-08) ; à défaut : pratique commerciale
+> trompeuse par omission (art. L.121-3 C. conso) et déloyale (art. L.121-1 C. conso). Le tirage lui-même doit
+> rester gratuit, sans surcoût ni obligation d'achat (art. L.320-1 CSI). Voir
+> `business/03_JEUX_CONCOURS_CADRE_LEGAL.md`.
+
+---
+
 ## Concept Core
 
 **Changement de paradigme :**
@@ -49,7 +60,7 @@ Valeur Totale : €4100
 Répartition :
 ├─ Grand Lot : RTX 5070 Ti GPU = €2000
 ├─ Fonds Communautaire : €1500 (voté par la communauté)
-├─ Opérationnel : €600 (huissier + assurance + expédition)
+├─ Opérationnel : €600 (huissier facultatif + assurance + expédition)
 └─ TOTAL : €4100
 
 Distribution :
@@ -100,6 +111,10 @@ Post-Op1 :
 ```
 
 ### Pitch Admin (Personnalisé)
+
+> ⚠️ **Audit 2026-09-26** : le pitch ci-dessous doit imposer à l'admin la mention « Publicité » ou
+> « Collaboration commerciale » sur ses annonces (art. 5-2 loi n° 2023-451 ; art. L.121-1 C. conso).
+> Voir l'avertissement en tête de document.
 
 ```txt
 Cher [Admin],

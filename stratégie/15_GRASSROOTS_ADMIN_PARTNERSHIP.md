@@ -6,6 +6,20 @@
 
 ---
 
+> ⚠️ **Promotion non identifiée et avantages aux relais d'influence (audit 2026-09-26)** :
+>
+> - Rejoindre des serveurs « anonymement, en tant que joueurs » puis y promouvoir Drop & Loot sans révéler
+>   la qualité de professionnel est une pratique commerciale trompeuse réputée telle : « se présenter
+>   faussement comme un consommateur » (art. L.121-4, 21° C. conso), déloyale au sens de l'art. L.121-1.
+>   Déclarer d'emblée l'appartenance à Drop & Loot dans tout échange à visée commerciale.
+> - L'admin qui annonce le giveaway contre un avantage (lot pour sa communauté, part négociée, prestige)
+>   agit à titre onéreux (art. 1 loi n° 2023-451 du 9 juin 2023, qualification à confirmer) : mention
+>   « Publicité » ou « Collaboration commerciale » obligatoire (art. 5-2 de la loi, version au 2024-11-08),
+>   sinon pratique trompeuse par omission (art. L.121-3 C. conso). Les témoignages d'admins ainsi
+>   rémunérés ne peuvent être présentés comme « non payés ».
+> - Le tirage doit rester gratuit, sans obligation d'achat (art. L.320-1 CSI). Voir
+>   `business/03_JEUX_CONCOURS_CADRE_LEGAL.md`.
+
 ## Executive Summary
 
 **Concept:** Vous n'êtes pas la marque. Les admins Discord sont.
@@ -245,7 +259,7 @@ sans spam et arnaque.
 J'ai pensé à quelque chose qui te plaira maybe (zero pressure if not).
 
 On travaille sur des giveaways 100% transparents pour gaming community.
-Tout est certifié légal (huissier, avocats), zéro arnaque.
+Tirage constaté par commissaire de justice, process relu par avocat, zéro arnaque.
 
 Ton serveur = parfait pour tester un truc comme ça.
 Idée: tu organises un giveaway pour ta commu.
@@ -326,7 +340,8 @@ Personnalisation checklist:
 Objection 1: « Sounds cool but how do I know this is real? »
 Response: « Great question. Here's what you should know:
   - We're registered with SIREN/SIRET (I'll send you)
-  - Huissier de justice validates every draw (legal requirement)
+  - Commissaire de justice attends every draw (our choice: not legally required since the
+    loi n° 2014-1545 of 20 Dec. 2014, art. 54)
   - Avocats reviewed our process (I'll share letter)
   - Everything is documented + transparent
   
@@ -599,6 +614,9 @@ Recommended: Scenario A (borrow → trade → buy cheap)
 
 ## Admin Compensation (Next Section)
 
+> ⚠️ **Audit 2026-09-26** : toute compensation de l'admin (argent, part, lot, avantage) impose la mention
+> « Publicité » ou « Collaboration commerciale » sur ses annonces (art. 5-2 loi n° 2023-451).
+
 See separate section below on how to handle admin requests for payment.
 
 ---
@@ -626,7 +644,7 @@ See separate section below on how to handle admin requests for payment.
 
 ✅ **Authentic validation**
 - Real admins, real communities, real results
-- Not paid testimonials
+- Not paid testimonials (faux si l'admin reçoit un avantage : voir avertissement en tête)
 - Community members vouch for you
 
 ✅ **Repeatable playbook**

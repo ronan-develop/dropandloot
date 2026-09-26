@@ -561,6 +561,12 @@ Justification :
 
 ### Revenue Model (à explorer)
 
+> ⚠️ **Non conforme (audit 2026-09-26)** : une participation payante au tirage est une loterie prohibée
+> (art. L.320-1 CSI). À remplacer par un jeu gratuit ou une loterie commerciale sans surcoût, avec voie de
+> participation gratuite. Voir `business/03_JEUX_CONCOURS_CADRE_LEGAL.md`.
+> Vise le « Premium Tier » ci-dessous s'il donne un avantage dans les tirages (« priority ops », chances
+> supplémentaires) : l'abonnement de €5/mois devient alors un sacrifice financier lié au tirage.
+
 ```txt
 Options futures (pas day 1, mais possible) :
 
@@ -636,6 +642,11 @@ Month 1-6 : Ongoing Engagement
 ## Pitch Recruitment
 
 ### Comment Recruter des Invitations
+
+> ⚠️ **Audit 2026-09-26** : un Fondateur récompensé (codes jeux, matériel) pour inviter fait une promotion
+> à titre onéreux. Le message type doit indiquer l'avantage reçu (mention « Publicité » ou « Collaboration
+> commerciale » si l'art. 1 de la loi n° 2023-451 s'applique, à confirmer ; à défaut, art. L.121-1 et
+> L.121-3 C. conso). La phrase « légal, tout checké » ne peut être diffusée qu'après validation avocat.
 
 ```txt
 Pour Fondateurs, pitching amis pour inviter :
