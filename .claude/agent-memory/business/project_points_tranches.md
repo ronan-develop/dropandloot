@@ -18,7 +18,7 @@ Audit complet du 2026-09-26. Sources vérifiées ce jour-là (Légifrance, BOFiP
   La fiche agent `.claude/agents/business.md` (vigilance n°2) cite encore L.322-1/L.322-2 : à corriger.
 - C. conso L.121-20 (depuis 2016-07-01) : loteries promotionnelles interdites seulement si déloyales (L.121-1).
   ANJ FAQ pro : doivent servir **exclusivement à la promotion d'un bien ou service**.
-  => « cotisation pour participer au tirage » (lettre V2, strategie/01_APPROCHE_HYBRIDE.md) = loterie prohibée.
+  => « cotisation pour participer au tirage » (lettre V2, strategie/02_APPROCHE_HYBRIDE.md) = loterie prohibée.
 - L.322-3 CSI (v. 2024-04-17) : loteries d'objets mobiliers pour causes listées (sociales, sportives, culturelles…),
   autorisation du maire. Inutilisable pour un but de profit des fondateurs.
 - L.121-36 C. conso cité partout : recodifié 2016 (loteries → L.121-20 ; déloyales → L.121-1).
