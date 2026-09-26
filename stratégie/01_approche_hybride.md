@@ -51,6 +51,10 @@ Drop & Loot doit structurellement prouver son sérieux pour atteindre un taux de
 
 ---
 
+> ⚠️ **Non conforme (audit 2026-09-26)** : une participation payante au tirage est une loterie prohibée
+> (art. L.320-1 CSI). À remplacer par un jeu gratuit ou une loterie commerciale sans surcoût, avec voie de
+> participation gratuite. Voir `business/03_JEUX_CONCOURS_CADRE_LEGAL.md`.
+
 ### **Tier 1 — Participant (Cotisation ponctuelle par opération)**
 
 **Mécanique:** "Tu veux participer à cette opération? Cotise une seule fois pour CETTE opération"
@@ -70,10 +74,20 @@ Drop & Loot doit structurellement prouver son sérieux pour atteindre un taux de
 - Pas de paie = tu suis juste (reste en Tier 0)
 - Liste des participants comptabilisée par Tier 2
 
-**Conformité légal:** ✅ L.121-36 — "cotisation pour accès au tirage" est légal si transparent
-(analogue: acheter un tshirt pour participer)
+**Conformité légale :** ❌ une « cotisation pour accès au tirage » n'est pas légale, même transparente :
+hasard + espérance de gain + sacrifice financier = loterie prohibée (art. L.320-1 CSI, version au 2020-01-01).
+L'ancien art. L.121-36 C. conso est abrogé (recodifié en 2016 : L.121-20 C. conso), et L.121-20 ne vise que
+les loteries publicitaires servant à promouvoir un bien ou service. L'analogie « acheter un T-shirt pour
+participer » ne vaut que sans surcoût lié au jeu et avec une voie de participation gratuite.
 
 ---
+
+> ⚠️ **Risque travail dissimulé (audit 2026-09-26)** : des tâches régulières (comptage des paiements,
+> vérification, témoignage) confiées sur instruction et rémunérées en avantages (participation gratuite,
+> double chance, futur % du revenu) peuvent être requalifiées en salariat. Défaut de déclaration préalable
+> à l'embauche = dissimulation d'emploi salarié (art. L.8221-5 et L.1221-10 C. trav.) ; sanction pénale
+> art. L.8224-1 C. trav. (3 ans, 45 000 €) et redressement URSSAF majoré. À valider avec l'avocat avant tout
+> recrutement ; ne pas prévoir de contrepartie.
 
 ### **Tier 2 — Compteurs/Modérateurs**
 
@@ -114,9 +128,9 @@ Drop & Loot doit structurellement prouver son sérieux pour atteindre un taux de
       └─ Preuve impossible de manipulation post-unboxing
 
 4. Rédiger règlement
-   ├─ Adapter template déposé chez huissier
+   ├─ Adapter le template (dépôt chez commissaire de justice facultatif)
    ├─ Infos obligatoires:
-   │  ├─ Organisateur légal (GIE + SIRET + adresse)
+   │  ├─ Organisateur légal (entité à trancher + SIRET + adresse)
    │  ├─ Conditions participation (âge, géo, restrictions)
    │  ├─ Mécanique jeu (tirage au sort, probabilités)
    │  ├─ Lot (description exacte, valeur déclarée)
@@ -125,6 +139,10 @@ Drop & Loot doit structurellement prouver son sérieux pour atteindre un taux de
    │  └─ Droits gagnants (recours, délais)
    └─ Publier règlement accessible (Discord annonce)
 ```
+
+> ⚠️ **Non conforme (audit 2026-09-26)** : une participation payante au tirage est une loterie prohibée
+> (art. L.320-1 CSI). À remplacer par un jeu gratuit ou une loterie commerciale sans surcoût, avec voie de
+> participation gratuite. Voir `business/03_JEUX_CONCOURS_CADRE_LEGAL.md`.
 
 ### **Phase 2: Annonce & Ouverture Cotisation (Jour 3)**
 
@@ -162,8 +180,8 @@ Tirage certifié:
 └─ SI lot ≥ 5 000€:
    ├─ Huissier/Commissaire de justice présent
    ├─ Tirage certifié officiellement (150-300€)
-   ├─ Procès-verbal signé par huissier
-   └─ Archivage 10 ans (légalement requis)
+   ├─ Procès-verbal signé par commissaire de justice
+   └─ Archivage : voir encadré « Conservation des données » ci-dessous
 
 Annonce du gagnant:
 ├─ Public: "Numéro/Pseudo du gagnant"
@@ -202,6 +220,10 @@ Processus:
 
 ## 💰 Modèle économique
 
+> ⚠️ **Non conforme (audit 2026-09-26)** : une participation payante au tirage est une loterie prohibée
+> (art. L.320-1 CSI). À remplacer par un jeu gratuit ou une loterie commerciale sans surcoût, avec voie de
+> participation gratuite. Voir `business/03_JEUX_CONCOURS_CADRE_LEGAL.md`.
+
 ### **Par opération** (exemple type: 300 cotisants × 10€)
 
 | Item               | Montant          | Détail                      |
@@ -227,6 +249,10 @@ Processus:
 
 ### **Tier 2 (Compteurs) — compensation**
 
+> ⚠️ **Risque travail dissimulé (audit 2026-09-26)** : toute contrepartie (participation gratuite, double
+> chance, % du revenu) à un travail régulier sur instruction expose à une requalification en salariat
+> (art. L.8221-5 C. trav.). Voir l'avertissement de la section Tier 2 ci-dessus.
+
 - Contribution volontaire (pas de salaire)
 - Badge permanent + respect communauté
 - Participation gratuite aux opérations (Ronan les invite)
@@ -237,29 +263,48 @@ Processus:
 
 ## ✅ Conformité légale
 
-### **Cadre légal applicabe**
+### **Cadre légal applicable**
 
-| Article               | Titre                            | Compliance                         |
-|-----------------------|----------------------------------|------------------------------------|
-| **L.121-36**          | Jeux concours & tirages          | ✅ Fondation légale (pas trompeur) |
-| **L.120-1**           | Pratiques commerciales déloyales | ✅ Transparence totale             |
-| **L.111-1+**          | Information consommateur         | ✅ Règlement clair + public        |
-| **Articles R.122-1+** | Décrets d'application            | ✅ Procédures documentées          |
+> ⚠️ **Références corrigées (audit 2026-09-26)** : L.121-36 et L.120-1 C. conso n'existent plus sous ces
+> numéros depuis la recodification du 2016-07-01 (ord. n° 2016-301) ; « R.122-1+ » ne correspond à aucun
+> décret d'application des loteries publicitaires. Le tirage payant du Tier 1 reste non conforme.
+
+| Article                    | Titre                                 | Compliance                                     |
+|----------------------------|---------------------------------------|------------------------------------------------|
+| **L.121-20 C. conso**      | Loteries publicitaires                | À vérifier : licite si non déloyale            |
+| **L.121-1 C. conso**       | Pratiques commerciales déloyales      | À vérifier : transparence nécessaire           |
+| **L.111-1 C. conso**       | Information précontractuelle          | OK : règlement clair + public                  |
+| **L.320-1 et L.320-6 CSI** | Prohibition des loteries / exceptions | KO : participation payante = loterie prohibée  |
 
 ### **Checklist conformité**
 
-- ✅ **Organisateur légal** — GIE immatriculé + SIRET visible
+- ✅ **Organisateur légal** — entité immatriculée (structure non tranchée) + SIRET visible
 - ✅ **Transparence lot** — vidéo unboxing (Ronan/Johann) + re-scellé
-- ✅ **Tirage impartial** — vidéo live ou huissier
-- ✅ **Règlement accessible** — publié avant ouverture cotisation
+- ✅ **Tirage impartial** — vidéo live ou commissaire de justice
+- ✅ **Règlement accessible** — publié avant ouverture de la participation
 - ✅ **Infos obligatoires** — âge, géo, conditions, mécanique, droits
 - ✅ **Archivage 10 ans** — storage sécurisé (règlement, vidéos, preuves)
 - ✅ **RGPD** — suppression données participants 30j après opération
 - ✅ **Pas de tromperie** — tout est clair et honnête
 
-### **Dépôt huissier** (une seule fois)
+> ⚠️ **Incohérence conservation des données (audit 2026-09-26)** : « archivage 10 ans » et « suppression
+> 30 jours » visent des données différentes et se contredisent en l'état. Formulation proposée :
+>
+> - **Données de participation** (pseudo, e-mail, identifiants Discord des non-gagnants) : suppression
+>   30 jours après la clôture de l'opération (limitation de conservation, art. 5.1.e RGPD), sauf
+>   consentement distinct à la prospection.
+> - **Données du gagnant et preuves du tirage** (règlement, vidéo, PV, justificatif de remise du lot) :
+>   durée de prescription des recours, à fixer avec l'avocat (non vérifié).
+> - **Pièces comptables** (factures, achats de lots, paiements) : 10 ans (art. L.123-22 C. com.).
 
-- Template déposé chez huissier: **300-400€** (one-time)
+### **Dépôt du règlement** (facultatif)
+
+> ⚠️ **Correction (audit 2026-09-26)** : l'obligation de dépôt du règlement auprès d'un officier ministériel
+> (ancien art. L.121-38 C. conso) a été abrogée par la loi n° 2014-1545 du 20 décembre 2014, art. 54
+> (abrogation au 2014-12-22). Le dépôt chez un commissaire de justice est recommandé (preuve de la version
+> du règlement en vigueur), non obligatoire.
+
+- Template déposé chez commissaire de justice (facultatif) : **300-400€** (one-time, non vérifié)
 - Valable pour toutes les opérations futures
 - Réutiliser template + adapter annexes (lot, dates, partenaire)
 - Archive le constat chez soi 10 ans
@@ -270,16 +315,16 @@ Processus:
 
 ### **Avant Semaine 1**
 
-- [ ] Immatriculation GIE + SIRET reçu
+- [ ] Immatriculation de l'entité (structure non tranchée : GIE / association / société) + SIRET reçu
 - [ ] Site web live (Drop & Loot présentation + infos légales)
 - [ ] Discord créé + modération configurée
 - [ ] Assurance RC validée (responsabilité civile jeux concours)
-- [ ] Avocat consulté (RGPD + L.121-36)
+- [ ] Avocat consulté (RGPD + L.121-20 C. conso + L.320-1 CSI)
 
 ### **Semaine 1**
 
 - [ ] Template règlement rédigé + approuvé avocat
-- [ ] Template déposé chez huissier (300-400€) → constat archivé
+- [ ] Template déposé chez commissaire de justice (facultatif, 300-400€) → constat archivé
 - [ ] Partenaire enseigne sélectionné + accord verbal
 - [ ] Lot sélectionné (PS5, GPU, merch, etc.)
 
@@ -299,7 +344,7 @@ Processus:
 
 ### **Semaine 4**
 
-- [ ] Tirage certifié (vidéo ou huissier)
+- [ ] Tirage certifié (vidéo ou commissaire de justice)
 - [ ] Gagnant contacté + confirmé
 - [ ] Partenaire notifié (livraison gagnant)
 
@@ -347,6 +392,7 @@ Processus:
 | **Lot non disponible**      | Critique                    | Vérifier stock partenaire JJ-2    |
 | **RGPD violation**          | Légal + réputation          | Suppression 30j post-opération    |
 | **Non-conformité légale**   | Amende DGCCRF jusqu'à 150k€ | Template huissier + avocat        |
+| **Loterie prohibée**        | 3 ans + 90 000 € (L.324-1)  | Jeu gratuit ou sans surcoût       |
 | **Participants frauduleux** | Perte revenue               | Vérification paiement avant badge |
 
 ---
@@ -392,4 +438,4 @@ Scaling (Mois 6-12)
 
 **Version:** 1.0  
 **Créé:** 19 mai 2026  
-**Status:** Prêt pour Opération #1
+**Status:** Non conforme en l'état (audit 2026-09-26) — mécanique Tier 1 à refondre avant Opération #1
