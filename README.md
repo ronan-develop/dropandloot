@@ -1,35 +1,33 @@
 # Drop & Loot
 
-Plateforme de ventes de T-shirts + tirages au sort, structurée en 3 entités légales.
+Vente de T-shirts gaming adossée à des jeux promotionnels. Dépôt de documentation (juridique, stratégie, opérations).
 
 ---
 
-## 📖 Documentation
-
-La documentation complète du projet se trouve dans le dossier [`business/`](business/).
-
-**Point d'entrée** : [`business/README.md`](business/README.md)
-
----
-
-## 🏗️ Structure du repository
+## Structure du dépôt
 
 ```txt
 /
-├── .claude/          # Configuration du projet (conventions, checklists)
-├── business/         # Documentation complète Drop & Loot
-├── CLAUDE.md         # Règles absolues du projet
-└── README.md         # Vous êtes ici
+├── CLAUDE.md                 Règles du projet
+├── README.md                 Ce fichier
+├── .claude/
+│   ├── INDEX.md              Navigation
+│   ├── CONVENTION_DE_COMMIT.md
+│   ├── GH_WORKFLOW.md
+│   ├── agents/business.md    Agent contrôleur URSSAF / avocat
+│   └── agent-memory/         Mémoire du dossier juridique
+├── business/
+│   ├── 00_LISEZMOI_DABORD.md Point d'entrée
+│   ├── 01_AUDIT_2026-09-26.md
+│   ├── 02_OPTIONS_STRUCTURE.md
+│   ├── 03_JEUX_CONCOURS_CADRE_LEGAL.md
+│   └── operations/           Checklists, banques et assurances
+└── strategie/                Stratégie marketing et confiance gaming
 ```
 
 ---
 
-## 🚀 Démarrage rapide
+## Démarrage
 
-1. Lire [`CLAUDE.md`](CLAUDE.md) pour comprendre les règles
-2. Consulter [`business/README.md`](business/README.md) pour la documentation complète
-3. Voir [`.claude/INDEX.md`](.claude/INDEX.md) pour la navigation des conventions
-
----
-
-**Dernière mise à jour** : 14 mai 2026
+1. Lire [`business/00_LISEZMOI_DABORD.md`](business/00_LISEZMOI_DABORD.md).
+2. Avant toute contribution : [`CLAUDE.md`](CLAUDE.md) et [`.claude/CONVENTION_DE_COMMIT.md`](.claude/CONVENTION_DE_COMMIT.md).
