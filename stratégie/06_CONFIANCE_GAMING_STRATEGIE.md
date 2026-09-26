@@ -274,7 +274,8 @@ Pour CHAQUE opération :
 1. **Avant le tirage** :
 
 
-   - Dépôt du règlement chez l'huissier (obligatoire L.121-36)
+   - Dépôt du règlement chez le commissaire de justice (recommandé, non obligatoire
+     depuis la loi n° 2014-1545 du 20/12/2014, art. 54, qui a abrogé l'ancien L.121-38 C. conso)
 
    - Signature du cahier des charges par Huissier
 
@@ -433,6 +434,10 @@ Engagement de livraison transparent :
 ## THÈME 4 — Solutions : Viralité positive
 
 ### Solution 4.1 : Engagement d'influenceurs gaming
+
+> ⚠️ **Audit 2026-09-26** : un influenceur qui reçoit le lot, des cadeaux ou une sponsorisation agit à titre
+> onéreux (art. 1 loi n° 2023-451 du 9 juin 2023) : mention « Publicité » ou « Collaboration commerciale »
+> obligatoire (art. 5-2), sinon pratique commerciale trompeuse (art. L.121-3 C. conso).
 
 **Problème résolu** : "Je n'en ai jamais entendu parler"
 
@@ -908,11 +913,16 @@ Prévention :
 
 ## THÈME 10 — Budget détaillé certifications & confiance
 
-### Certifications Obligatoires
+### Certifications de base
+
+> ⚠️ **Correction (audit 2026-09-26)** : le recours à un commissaire de justice (ex-huissier) n'est pas
+> obligatoire. L'obligation de dépôt du règlement (ancien art. L.121-38 C. conso) a été abrogée par la loi
+> n° 2014-1545 du 20 décembre 2014, art. 54 ; l'ancien art. L.121-36 a été recodifié en 2016 (loteries
+> publicitaires : art. L.121-20 C. conso). Le constat reste recommandé comme preuve.
 
 | Élément                  | Coût          | Fréquence       | Détail                              |
 |--------------------------|---------------|-----------------|-------------------------------------|
-| **Huissier**             | 350-500 EUR   | Par opération   | Tirage au sort certifié (L.121-36) |
+| **Huissier**             | 350-500 EUR   | Par opération   | Tirage constaté (recommandé)        |
 | **Assurance RC**         | 150-250 EUR   | Annuelle        | Responsabilité civile pro          |
 | **Certificat assoc**     | 0 EUR         | One-time        | Gratuit (extrait registre)         |
 
@@ -930,7 +940,7 @@ Prévention :
 
 | Catégorie                     | Montant       | Notes                                    |
 |-------------------------------|---------------|------------------------------------------|
-| **Obligatoire légal**         | 350-500 EUR   | Huissier (première op)                  |
+| **Recommandé (preuve)**       | 350-500 EUR   | Huissier (première op)                  |
 | **Obligatoire annuel**        | 150-250 EUR   | Assurance RC                            |
 | **Recommandé (confiance)**    | 1 600-2 300 EUR | RGPD + certificat + test influenceurs |
 | **Optionnel sécurité**        | 1 000-2 000 EUR | Audit (futur)                          |

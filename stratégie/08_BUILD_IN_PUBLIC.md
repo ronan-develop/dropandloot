@@ -115,10 +115,11 @@ What we thought:
 ├─ "Giveaways = simple, just random draw"
 
 Reality:
-├─ France has specific law: L.121-36 (Code de la consommation)
-├─ Giveaways must be: open to all, random, published rules, 
+├─ France has specific law: L.121-20 (Code de la consommation)
+│  + L.320-1 CSI (paid entry to a draw = prohibited lottery)
+├─ Giveaways must be: free to enter (no extra cost), fair, published rules,
                        proof of draw
-├─ Need: huissier de justice to validate
+├─ Huissier (commissaire de justice): recommended, not mandatory since 2014
 
 Cost impact:
 ├─ Avocat: 300-500 EUR (one-time legal review) ← more than we budgeted!
@@ -131,7 +132,7 @@ Positives:
 
 Next:
 ├─ [ ] Call 3 huissiers for actual pricing + contracts
-├─ [ ] Understand exact L.121-36 requirements
+├─ [ ] Understand exact L.121-20 C. conso + L.320-1 CSI requirements
 ├─ [ ] Revise RGPD policy with lawyer input
 
 Questions? What did we miss?
@@ -184,7 +185,7 @@ Feedback we need:
 ├─ What's scary?
 
 We iterated based on:
-├─ French law (L.121-36)
+├─ French law (L.121-20 C. conso, L.320-1 CSI)
 ├─ RGPD compliance
 ├─ Gamer expectations (not overly cautious)
 
