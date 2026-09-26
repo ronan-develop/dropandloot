@@ -5,7 +5,7 @@ Mis à jour le 2026-09-26
 Document préparatoire, rédigé sans inscription au barreau : ce n'est pas un conseil d'avocat.
 
 Remplace `business/REPONSES_QUESTION5_JEU_CONCOURS.md` (références de 2016 périmées, aucune analyse du Code de la
-sécurité intérieure). Rend caduque la section « Conformité légale » de `strategie/01_APPROCHE_HYBRIDE.md`.
+sécurité intérieure). Rend caduque la section « Conformité légale » de `strategie/02_APPROCHE_HYBRIDE.md`.
 
 ---
 

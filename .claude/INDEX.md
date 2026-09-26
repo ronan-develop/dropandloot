@@ -30,4 +30,4 @@ Mis à jour le 2026-09-26.
 
 ## Stratégie
 
-Voir [`../strategie/INDEX.md`](../strategie/INDEX.md).
+Voir [`../strategie/00_LISEZMOI_DABORD.md`](../strategie/00_LISEZMOI_DABORD.md).
