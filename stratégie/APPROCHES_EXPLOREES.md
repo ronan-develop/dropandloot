@@ -6,7 +6,7 @@ Résumé des 10 approches de lancement Drop & Loot avec analyse comparative.
 
 ## Approche 1 : Build in Public
 
-**Doc** : [../business/08_BUILD_IN_PUBLIC.md](../business/08_BUILD_IN_PUBLIC.md)
+**Doc** : [08_BUILD_IN_PUBLIC.md](./08_BUILD_IN_PUBLIC.md)
 
 **Concept** : Transparent radical. Twitter threads quotidiennes, Discord construction-log, personal network activation.
 
@@ -25,7 +25,7 @@ Résumé des 10 approches de lancement Drop & Loot avec analyse comparative.
 
 ## Approche 2 : Low-Profile
 
-**Doc** : [../business/09_APPROCHES_LOW_PROFILE.md](../business/09_APPROCHES_LOW_PROFILE.md)
+**Doc** : [09_APPROCHES_LOW_PROFILE.md](./09_APPROCHES_LOW_PROFILE.md)
 
 **Concept** : 4 stratégies discrètes (Grassroots, Stealth Op0, Influencer-First, Combo).
 
@@ -43,7 +43,7 @@ Résumé des 10 approches de lancement Drop & Loot avec analyse comparative.
 
 ## Approche 3 : Trojan Horse
 
-**Doc** : [../business/10_TROJAN_HORSE.md](../business/10_TROJAN_HORSE.md)
+**Doc** : [10_TROJAN_HORSE.md](./10_TROJAN_HORSE.md)
 
 **Concept** : Expertise publique (YouTube, blog, articles) sur « comment reconnaître arnaques giveaway », puis révéler Drop & Loot comme solution.
 
@@ -63,7 +63,7 @@ Résumé des 10 approches de lancement Drop & Loot avec analyse comparative.
 
 ## Approche 4 : Content Authority
 
-**Doc** : [../business/11_CONTENT_AUTHORITY.md](../business/11_CONTENT_AUTHORITY.md)
+**Doc** : [11_CONTENT_AUTHORITY.md](./11_CONTENT_AUTHORITY.md)
 
 **Concept** : Guide éducatif colossal (~5000 mots) sur scams giveaway, red flags, framework légal, puis Drop & Loot revelation.
 
@@ -83,7 +83,7 @@ Résumé des 10 approches de lancement Drop & Loot avec analyse comparative.
 
 ## Approche 5 : Closed Beta
 
-**Doc** : [../business/12_CLOSED_BETA.md](../business/12_CLOSED_BETA.md)
+**Doc** : [12_CLOSED_BETA.md](./12_CLOSED_BETA.md)
 
 **Concept** : Inviter 100-200 beta testeurs sélectionnés, Op1 comme « test privé », puis lancer publiquement avec « 200 testeurs approuvés ».
 
@@ -103,7 +103,7 @@ Résumé des 10 approches de lancement Drop & Loot avec analyse comparative.
 
 ## Approche 6 : Company Partnership
 
-**Doc** : [../business/13_COMPANY_PARTNERSHIP.md](../business/13_COMPANY_PARTNERSHIP.md)
+**Doc** : [13_COMPANY_PARTNERSHIP.md](./13_COMPANY_PARTNERSHIP.md)
 
 **Concept** : Partenaire avec GPU makers (NVIDIA, AMD), console makers (PlayStation, Xbox). Eux fournissent lots gratuitement (marketing donation), vous lancez avec endorsement.
 
@@ -123,7 +123,7 @@ Résumé des 10 approches de lancement Drop & Loot avec analyse comparative.
 
 ## Approche 7 : Media First
 
-**Doc** : [../business/14_MEDIA_FIRST.md](../business/14_MEDIA_FIRST.md)
+**Doc** : [14_MEDIA_FIRST.md](./14_MEDIA_FIRST.md)
 
 **Concept** : Contacter journalistes AVANT lancement (VentureBeat, Jeuxvideo.com, Numerama). Obtenir article presse, PUIS lancer Op1 (article = third-party validation jour 1).
 
@@ -143,7 +143,7 @@ Résumé des 10 approches de lancement Drop & Loot avec analyse comparative.
 
 ## ✅ Approche 8 : Grassroots Admin Partnership — **CHOISIE**
 
-**Doc** : [01_GRASSROOTS_ADMIN_PARTNERSHIP.md](./01_GRASSROOTS_ADMIN_PARTNERSHIP.md)
+**Doc** : [15_GRASSROOTS_ADMIN_PARTNERSHIP.md](./15_GRASSROOTS_ADMIN_PARTNERSHIP.md)
 
 **Concept** : Infiltrer 30-40 Discords gaming français, bâtir relations authentiques avec admins, proposer giveaways DANS leurs serveurs (admin face publique, Drop & Loot opère background).
 
@@ -167,6 +167,8 @@ Résumé des 10 approches de lancement Drop & Loot avec analyse comparative.
 
 **Risque minimisé** :
 - Infiltration authentique = pas apparent comme « marketing »
+  (⚠️ audit 2026-09-26 : dissimuler la qualité de professionnel est une pratique trompeuse,
+  art. L.121-4, 21° C. conso ; voir l'avertissement de 15_GRASSROOTS_ADMIN_PARTNERSHIP.md)
 - Community Fund = admins deviennent advocates
 - Founder's Circle = rareté = prestige amplifié
 
@@ -230,7 +232,7 @@ Mois 5-6 : Launch Public
 ✅ Scalable de Op1 à Op100 sans changer modèle
 ```
 
-**Next : Lire** [01_GRASSROOTS_ADMIN_PARTNERSHIP.md](./01_GRASSROOTS_ADMIN_PARTNERSHIP.md) pour exécution détaillée.
+**Next : Lire** [15_GRASSROOTS_ADMIN_PARTNERSHIP.md](./15_GRASSROOTS_ADMIN_PARTNERSHIP.md) pour exécution détaillée.
 
 ---
 

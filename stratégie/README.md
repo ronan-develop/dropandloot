@@ -4,17 +4,23 @@ Centralisé de toute la stratégie de lancement et croissance de Drop & Loot.
 
 Ce folder organise et lie tous les documents stratégiques pour une navigation facile.
 
+> ⚠️ **Audit juridique 2026-09-26** : plusieurs documents de ce dossier contiennent des avertissements de
+> non-conformité (tirage payant = loterie prohibée, art. L.320-1 CSI ; promotion non identifiée ; références
+> abrogées corrigées). Lire d'abord [../business/01_AUDIT_2026-09-26.md](../business/01_AUDIT_2026-09-26.md)
+> et [../business/03_JEUX_CONCOURS_CADRE_LEGAL.md](../business/03_JEUX_CONCOURS_CADRE_LEGAL.md).
+> La structure juridique (GIE / association / société) n'est pas tranchée.
+
 ---
 
 ## 🗂️ Structure Complète
 
-```
+```txt
 stratégie/
 ├── README.md                                    ← Vous êtes ici
 ├── INDEX.md                                    ← Navigation (COMMENCEZ ICI)
 ├── APPROCHES_EXPLOREES.md                      ← Synthèse 10 approches
 │
-├── 00_GUIDE_IMPLEMENTATION.md                  📋 Fondamental
+├── 01_approche_hybride.md                      ⚠️ Non conforme (tirage payant)
 ├── 06_CONFIANCE_GAMING_STRATEGIE.md            📋 Contexte
 ├── 07_PROOF_OF_CONCEPT_TRUST.md                📋 Brainstorm 10 pistes
 │
@@ -26,9 +32,9 @@ stratégie/
 ├── 13_COMPANY_PARTNERSHIP.md                   ✅ Recommandé
 ├── 14_MEDIA_FIRST.md                           ✅ Recommandé
 │
-├── 01_GRASSROOTS_ADMIN_PARTNERSHIP.md          ✅✅ APPROCHE CHOISIE
-├── 02_COMMUNITY_FUND_MODEL.md                  ✅✅ MODÈLE ÉCONOMIQUE
-└── 03_FOUNDER_CIRCLE_PRESTIGE.md               ✅✅ MODÈLE COMMUNAUTÉ
+├── 15_GRASSROOTS_ADMIN_PARTNERSHIP.md          ✅✅ APPROCHE CHOISIE
+├── 16_COMMUNITY_FUND_MODEL.md                  ✅✅ MODÈLE ÉCONOMIQUE
+└── 17_FOUNDER_CIRCLE_PRESTIGE.md               ✅✅ MODÈLE COMMUNAUTÉ
 ```
 
 **Tous les documents de stratégie sont maintenant centralisés ici.**
@@ -38,27 +44,33 @@ stratégie/
 ## 🚀 Où Commencer
 
 ### 1. **Pour Vue d'Ensemble Rapide**
+
 Lire : [INDEX.md](./INDEX.md) (5 min)
 Résumé : approches, modèle choisi, projections
 
 ### 2. **Pour Comparaison des 10 Approches**
+
 Lire : [APPROCHES_EXPLOREES.md](./APPROCHES_EXPLOREES.md) (10 min)
 Synthèse : tableau comparatif, raisons du choix Grassroots
 
 ### 3. **Pour Comprendre le Problème**
-Lire : [../business/06_CONFIANCE_GAMING_STRATEGIE.md](../business/06_CONFIANCE_GAMING_STRATEGIE.md) (10 min)
+
+Lire : [06_CONFIANCE_GAMING_STRATEGIE.md](./06_CONFIANCE_GAMING_STRATEGIE.md) (10 min)
 Contexte : pourquoi confiance gaming est obstacle, comment la surmonter
 
 ### 4. **Pour Connaître Approche Choisie** ⭐
-Lire : [01_GRASSROOTS_ADMIN_PARTNERSHIP.md](./01_GRASSROOTS_ADMIN_PARTNERSHIP.md) (20 min)
+
+Lire : [15_GRASSROOTS_ADMIN_PARTNERSHIP.md](./15_GRASSROOTS_ADMIN_PARTNERSHIP.md) (20 min)
 Détail : infiltration, pitching, exécution phase-par-phase
 
 ### 5. **Pour Connaître Modèle Économique** ⭐
-Lire : [02_COMMUNITY_FUND_MODEL.md](./02_COMMUNITY_FUND_MODEL.md) (15 min)
+
+Lire : [16_COMMUNITY_FUND_MODEL.md](./16_COMMUNITY_FUND_MODEL.md) (15 min)
 Détail : structure prix, voting mechanism, ROI analysis
 
 ### 6. **Pour Connaître Modèle Communauté** ⭐
-Lire : [03_FOUNDER_CIRCLE_PRESTIGE.md](./03_FOUNDER_CIRCLE_PRESTIGE.md) (15 min)
+
+Lire : [17_FOUNDER_CIRCLE_PRESTIGE.md](./17_FOUNDER_CIRCLE_PRESTIGE.md) (15 min)
 Détail : Fondateurs lifetime, invitations, perks, croissance virale
 
 ---
@@ -67,7 +79,7 @@ Détail : Fondateurs lifetime, invitations, perks, croissance virale
 
 ### 🎯 Navigation & Synthèse
 
-- **[APPROCHES_EXPLOREES.md](./APPROCHES_EXPLOREES.md)** 
+- **[APPROCHES_EXPLOREES.md](./APPROCHES_EXPLOREES.md)**
   Synthèse des 10 approches avec tableau comparatif
 
 - **[INDEX.md](./INDEX.md)**
@@ -75,24 +87,24 @@ Détail : Fondateurs lifetime, invitations, perks, croissance virale
 
 ### 📋 Fondamentaux & Contexte
 
-- **[00_GUIDE_IMPLEMENTATION.md](./00_GUIDE_IMPLEMENTATION.md)** 
-  Guide implémentation générale (foundations)
+- **[01_approche_hybride.md](./01_approche_hybride.md)** — ⚠️ Non conforme en l'état (audit 2026-09-26)
+  Modèle freemium à 3 tiers ; le tirage payant du Tier 1 est à refondre
 
-- **[06_CONFIANCE_GAMING_STRATEGIE.md](./06_CONFIANCE_GAMING_STRATEGIE.md)** 
+- **[06_CONFIANCE_GAMING_STRATEGIE.md](./06_CONFIANCE_GAMING_STRATEGIE.md)**
   Obstacles confiance gaming + solutions (problème)
 
-- **[07_PROOF_OF_CONCEPT_TRUST.md](./07_PROOF_OF_CONCEPT_TRUST.md)** 
+- **[07_PROOF_OF_CONCEPT_TRUST.md](./07_PROOF_OF_CONCEPT_TRUST.md)**
   10 pistes brainstorm pour gagner crédibilité
 
 ### 🎯 Solutions Choisies ✅✅
 
-- **[01_GRASSROOTS_ADMIN_PARTNERSHIP.md](./01_GRASSROOTS_ADMIN_PARTNERSHIP.md)** ✅ **APPROCHE CHOISIE**
+- **[15_GRASSROOTS_ADMIN_PARTNERSHIP.md](./15_GRASSROOTS_ADMIN_PARTNERSHIP.md)** ✅ **APPROCHE CHOISIE**
   Exécution détaillée : phases 1-7, timelines, budgets, examples
 
-- **[02_COMMUNITY_FUND_MODEL.md](./02_COMMUNITY_FUND_MODEL.md)** ✅ **MODÈLE ÉCONOMIQUE CHOISI**
+- **[16_COMMUNITY_FUND_MODEL.md](./16_COMMUNITY_FUND_MODEL.md)** ✅ **MODÈLE ÉCONOMIQUE CHOISI**
   Structure : €4100/op (€2000 GPU + €1500 fonds + €600 ops), voting mechanism
 
-- **[03_FOUNDER_CIRCLE_PRESTIGE.md](./03_FOUNDER_CIRCLE_PRESTIGE.md)** ✅ **COMMUNAUTÉ PRESTIGE CHOISIE**
+- **[17_FOUNDER_CIRCLE_PRESTIGE.md](./17_FOUNDER_CIRCLE_PRESTIGE.md)** ✅ **COMMUNAUTÉ PRESTIGE CHOISIE**
   Accès réservé, Fondateurs lifetime, invitations, perks, leaderboard
 
 ### 🚀 Approches Explorées (Options Alternatives)
@@ -118,11 +130,17 @@ Détail : Fondateurs lifetime, invitations, perks, croissance virale
 - **[14_MEDIA_FIRST.md](./14_MEDIA_FIRST.md)** — ✅ Recommandé
   Press coverage avant launch : Jeuxvideo.com, VentureBeat, Numerama
 
+### ⚖️ Cadre juridique (dossier business/)
+
+- **[../business/00_LISEZMOI_DABORD.md](../business/00_LISEZMOI_DABORD.md)** — point d'entrée du dossier
+- **[../business/01_AUDIT_2026-09-26.md](../business/01_AUDIT_2026-09-26.md)** — audit juridique
+- **[../business/03_JEUX_CONCOURS_CADRE_LEGAL.md](../business/03_JEUX_CONCOURS_CADRE_LEGAL.md)** — jeux concours
+
 ---
 
 ## 🎯 Stratégie Simplifiée
 
-```
+```txt
 ÉTAPE 1 : Recrutement Admin (Semaines 0-2)
 └─ Identifier 30-40 Discords gaming français
 └─ Database avec contacts admins
@@ -130,14 +148,15 @@ Détail : Fondateurs lifetime, invitations, perks, croissance virale
 ÉTAPE 2 : Infiltration (Semaines 1-8)
 └─ Rejoindre naturellement, lurk, participer
 └─ Bâtir relations authentiques avec admins
+└─ ⚠️ Déclarer l'appartenance à Drop & Loot (art. L.121-4, 21° C. conso)
 
 ÉTAPE 3 : Pitch (Semaines 4-6)
 └─ Message privé personnalisé
 └─ 15min call, concept giveaway + Community Fund
 
 ÉTAPE 4 : Op1 Exécution (Semaines 7-12)
-└─ Giveaway DANS Discord admin
-└─ Tirage huissier, livraison tracked
+└─ Giveaway DANS Discord admin (participation gratuite)
+└─ Tirage huissier (facultatif), livraison tracked
 └─ 300 Fondateurs créés
 
 ÉTAPE 5 : Founder's Circle Launch (Semaine 13+)
@@ -169,27 +188,31 @@ Détail : Fondateurs lifetime, invitations, perks, croissance virale
 ## 🛠️ Utilisation Pratique
 
 ### Pour le Founder Ronan
+
 1. Imprimer/garder INDEX.md comme checklist
-2. Utiliser [01_GRASSROOTS_ADMIN_PARTNERSHIP.md](./01_GRASSROOTS_ADMIN_PARTNERSHIP.md) comme playbook
+2. Utiliser [15_GRASSROOTS_ADMIN_PARTNERSHIP.md](./15_GRASSROOTS_ADMIN_PARTNERSHIP.md) comme playbook
 3. Adapter templates pour chaque Discord (voir Phase 3-4 du doc)
 4. Tracker progression dans spreadsheet
 
 ### Pour le Collaborateur Johann
+
 1. Lire INDEX.md pour overview (5 min)
-2. Lire [02_COMMUNITY_FUND_MODEL.md](./02_COMMUNITY_FUND_MODEL.md) pour modèle économique
-3. Lire [03_FOUNDER_CIRCLE_PRESTIGE.md](./03_FOUNDER_CIRCLE_PRESTIGE.md) pour opérations communauté
-4. Utiliser [01_GRASSROOTS_ADMIN_PARTNERSHIP.md](./01_GRASSROOTS_ADMIN_PARTNERSHIP.md) comme reference pendant Op1
+2. Lire [16_COMMUNITY_FUND_MODEL.md](./16_COMMUNITY_FUND_MODEL.md) pour modèle économique
+3. Lire [17_FOUNDER_CIRCLE_PRESTIGE.md](./17_FOUNDER_CIRCLE_PRESTIGE.md) pour opérations communauté
+4. Utiliser [15_GRASSROOTS_ADMIN_PARTNERSHIP.md](./15_GRASSROOTS_ADMIN_PARTNERSHIP.md) comme reference pendant Op1
 
 ### Pour Partenaires/Admins à Pitcher
-1. Commencer par [02_COMMUNITY_FUND_MODEL.md](./02_COMMUNITY_FUND_MODEL.md) (Admin Pitch section)
-2. Référence [03_FOUNDER_CIRCLE_PRESTIGE.md](./03_FOUNDER_CIRCLE_PRESTIGE.md) pour monter l'exclusivité
-3. Share [../business/06_CONFIANCE_GAMING_STRATEGIE.md](../business/06_CONFIANCE_GAMING_STRATEGIE.md) pour context problem-solving
+
+1. Commencer par [16_COMMUNITY_FUND_MODEL.md](./16_COMMUNITY_FUND_MODEL.md) (Admin Pitch section)
+2. Référence [17_FOUNDER_CIRCLE_PRESTIGE.md](./17_FOUNDER_CIRCLE_PRESTIGE.md) pour monter l'exclusivité
+3. Share [06_CONFIANCE_GAMING_STRATEGIE.md](./06_CONFIANCE_GAMING_STRATEGIE.md) pour context problem-solving
 
 ---
 
 ## ✅ Checklist de Lancement
 
 - [ ] Lire [INDEX.md](./INDEX.md) complètement
+- [ ] Lire [../business/03_JEUX_CONCOURS_CADRE_LEGAL.md](../business/03_JEUX_CONCOURS_CADRE_LEGAL.md) (tirage gratuit)
 - [ ] Identifier 30-40 Discords cibles (voir 15_GRASSROOTS_ADMIN_PARTNERSHIP.md Phase 1)
 - [ ] Créer database admins avec contacts
 - [ ] Rejoindre 5-10 Discords pour test infiltration
@@ -218,6 +241,6 @@ Détail : Fondateurs lifetime, invitations, perks, croissance virale
 
 ---
 
-**Version** : 1.0  
-**Last Updated** : 19 mai 2026  
-**Status** : ✅ Ready to Execute
+**Version** : 1.1
+**Last Updated** : 26 septembre 2026 (audit juridique : liens et avertissements)
+**Status** : ⚠️ Exécution conditionnée aux corrections de l'audit 2026-09-26
