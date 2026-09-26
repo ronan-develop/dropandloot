@@ -1,17 +1,22 @@
-# Banques Professionnelles — Comparatif & Guide
+# Banques professionnelles et assurances — Comparatif
+
+> ⚠️ **À revoir (audit 2026-09-26)** : tarifs et contenus des offres non vérifiés en 2026. Le choix du compte dépend
+> de la structure retenue (voir `../02_OPTIONS_STRUCTURE.md`) ; la procédure Shine ci-dessous suppose une association.
 
 ## RC Pro : Qu'est-ce que c'est ?
 
 ### RC Pro = Responsabilité Civile Professionnelle
 
-C'est une assurance obligatoire pour les professionnels et associations qui vous protège en cas de réclamation d'un tiers :
+Assurance qui couvre la responsabilité envers les tiers. Elle n'est pas obligatoire de façon générale
+(obligatoire seulement pour certaines professions réglementées) mais fortement recommandée ici :
 
 - **Dommages causés à un client** : blessure, perte d'argent, perte de données
 - **Erreurs de service** : erreur dans la gestion d'un jeu concours, perte de confidentialité
 - **Défense juridique** : frais d'avocat si vous êtes poursuivi
 
 **Coût habituel** : 15-30€/mois selon votre activité
-**Pour Drop & Loot** : Obligatoire car vous organisez des jeux concours et manipulez des données de participants
+**Pour Drop & Loot** : recommandée (jeux, données de participants, vente de T-shirts : prévoir aussi la RC produits).
+Elle ne couvre ni les dettes contractuelles ni les amendes.
 
 ---
 
