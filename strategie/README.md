@@ -15,12 +15,12 @@ Ce folder organise et lie tous les documents stratégiques pour une navigation f
 ## 🗂️ Structure Complète
 
 ```txt
-stratégie/
+strategie/
 ├── README.md                                    ← Vous êtes ici
 ├── INDEX.md                                    ← Navigation (COMMENCEZ ICI)
 ├── APPROCHES_EXPLOREES.md                      ← Synthèse 10 approches
 │
-├── 01_approche_hybride.md                      ⚠️ Non conforme (tirage payant)
+├── 01_APPROCHE_HYBRIDE.md                      ⚠️ Non conforme (tirage payant)
 ├── 06_CONFIANCE_GAMING_STRATEGIE.md            📋 Contexte
 ├── 07_PROOF_OF_CONCEPT_TRUST.md                📋 Brainstorm 10 pistes
 │
@@ -87,7 +87,7 @@ Détail : Fondateurs lifetime, invitations, perks, croissance virale
 
 ### 📋 Fondamentaux & Contexte
 
-- **[01_approche_hybride.md](./01_approche_hybride.md)** — ⚠️ Non conforme en l'état (audit 2026-09-26)
+- **[01_APPROCHE_HYBRIDE.md](./01_APPROCHE_HYBRIDE.md)** — ⚠️ Non conforme en l'état (audit 2026-09-26)
   Modèle freemium à 3 tiers ; le tirage payant du Tier 1 est à refondre
 
 - **[06_CONFIANCE_GAMING_STRATEGIE.md](./06_CONFIANCE_GAMING_STRATEGIE.md)**

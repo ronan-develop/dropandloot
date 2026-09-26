@@ -9,7 +9,7 @@
 > annonces d'admins ou de Fondateurs récompensés doivent être identifiées comme publicité (loi n° 2023-451).
 > Voir [../business/01_AUDIT_2026-09-26.md](../business/01_AUDIT_2026-09-26.md) et
 > [../business/03_JEUX_CONCOURS_CADRE_LEGAL.md](../business/03_JEUX_CONCOURS_CADRE_LEGAL.md).
-> Le modèle [01_approche_hybride.md](./01_approche_hybride.md) (tirage payant) est non conforme en l'état.
+> Le modèle [01_APPROCHE_HYBRIDE.md](./01_APPROCHE_HYBRIDE.md) (tirage payant) est non conforme en l'état.
 
 ---
 
