@@ -58,9 +58,9 @@ Toute la doc de structure est dans `.claude/`. Lire `CONVENTION_DE_COMMIT.md` av
 ## Stack technique
 
 - **Outils** : Markdown, Git, GitHub
-- **Certifications** : Huissier, RC, RGPD, Estago
+- **Conformité** : commissaire de justice (facultatif), RC pro, RGPD
 - **Domaine** : O2Switch (lenouvel.me partagé avec dropandloot.fr)
-- **Structure** : Association loi 1901 + 2 auto-entrepreneurs
+- **Structure** : non tranchée — voir `business/02_OPTIONS_STRUCTURE.md` (GIE + asso abandonné le 2026-09-26)
 
 ---
 
