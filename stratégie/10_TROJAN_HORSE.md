@@ -75,7 +75,7 @@ Semaine -7 : "How to Spot a Fake Giveaway in 60 Seconds"
 ├─ Audience : gamers qui ont été scammés avant
 
 Semaine -6 : "What Makes a Legitimate Giveaway?"
-├─ Critères légaux (France: L.121-36)
+├─ Critères légaux (France: L.121-20 C. conso, L.320-1 CSI)
 ├─ Transparence: what to look for
 ├─ Format : vidéo 10 min + blog deep-dive
 ├─ Education: "ici on te montre comment vérifier"
@@ -151,13 +151,13 @@ Semaines -3 à -2 :
 Semaine -4 : "Why Most Giveaways Fail (Or Scam)"
 ├─ Analyse profonde : reasons
 ├─ Organiational challenges
-├─ Regulatory complexity (L.121-36, RGPD, etc.)
+├─ Regulatory complexity (L.121-20 C. conso, L.320-1 CSI, RGPD, etc.)
 ├─ Format : long-form video 20 min + detailed article
 
 Semaine -3 : "The Complete Legality Guide — Giveaways in France"
 ├─ Avocat perspective (citation si possible)
 ├─ Code de la consommation breakdown
-├─ Huissier role, importance
+├─ Huissier role, importance (recommended, not mandatory since 2014)
 ├─ Format : technical article + video explainer
 └─ Audience : now educated on regulatory
 

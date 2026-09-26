@@ -103,7 +103,7 @@ Semaine 1-2 : Créer contenu fondateur
 
 3. Interview avec l'avocat (vidéo 5 min)
    └─ L'avocat valide en face-caméra : "Drop & Loot est légal"
-   └─ Explique les protections (L.121-36, RGPD, RC)
+   └─ Explique les protections (L.121-20 C. conso, L.320-1 CSI, RGPD, RC)
    └─ Donne son avis perso : "Vous faites bien"
 
 4. Projets antérieurs listés publiquement

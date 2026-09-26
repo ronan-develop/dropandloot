@@ -138,7 +138,7 @@ Lots are fake, livraisons don't happen, data gets stolen.
 **The Solution:**
 Drop & Loot — a platform launching with full legal certification.
 Every giveaway is:
-├─ Certified by huissier de justice (L.121-36 compliance)
+├─ Draw witnessed by a commissaire de justice (voluntary; rules per L.121-20 C. conso)
 ├─ RGPD audited
 ├─ Transparent process (all docs public)
 ├─ Delivery guaranteed
@@ -206,7 +206,7 @@ Call agenda (30 min):
 
 10:00-15:00 | Your solution
 ├─ What Drop & Loot is
-├─ Legal framework (huissier, L.121-36)
+├─ Legal framework (L.121-20 C. conso, L.320-1 CSI, huissier optional)
 ├─ Transparency model
 ├─ Op1 timeline
 
