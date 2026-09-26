@@ -18,21 +18,21 @@ Corps optionnel (après une ligne vide) pour expliquer le *pourquoi*, jamais le 
 
 ## Types & emojis
 
-| Emoji | Type       | Quand                                          |
-|-------|------------|------------------------------------------------|
-| ✨    | `feat`     | Nouvelle fonctionnalité, nouveau document     |
-| 🔧    | `fix`      | Correction de bug, erreur dans les docs       |
-| 📋    | `docs`     | Documentation, guides, explications           |
-| 💰    | `budget`   | Budget, coûts, simulations financières        |
-| ⚖️    | `legal`    | Aspects légaux, statuts, règlements           |
-| 🎮    | `game-design` | Stratégie gaming, confiance, obstacles       |
-| 🔒    | `security` | Certifications, RGPD, assurances              |
-| ♻️    | `refactor` | Restructuration sans changement de contenu    |
-| 🎨    | `style`    | Formatage markdown, linting                    |
-| ✅    | `test`     | Tests, validations, vérifications              |
-| 🛠️    | `chore`    | Outillage, config, .gitignore                 |
-| ⏪    | `revert`   | Annulation d'un commit                        |
-| 🚧    | `wip`      | Travail en cours — interdit sur `main`        |
+| Emoji | Type | Quand |
+| --- | --- | --- |
+| ✨ | `feat` | Nouvelle fonctionnalité, nouveau document |
+| 🔧 | `fix` | Correction de bug, erreur dans les docs |
+| 📋 | `docs` | Documentation, guides, explications |
+| 💰 | `budget` | Budget, coûts, simulations financières |
+| ⚖️ | `legal` | Aspects légaux, statuts, règlements |
+| 🎮 | `game-design` | Stratégie gaming, confiance, obstacles |
+| 🔒 | `security` | Certifications, RGPD, assurances |
+| ♻️ | `refactor` | Restructuration sans changement de contenu |
+| 🎨 | `style` | Formatage markdown, linting |
+| ✅ | `test` | Tests, validations, vérifications |
+| 🛠️ | `chore` | Outillage, config, .gitignore |
+| ⏪ | `revert` | Annulation d'un commit |
+| 🚧 | `wip` | Travail en cours — interdit sur `main` |
 
 ---
 
@@ -107,11 +107,13 @@ gh pr create --title "..." --body "..."
 ## Référence rapide
 
 Format simple à retenir :
-```
+
+```text
 <emoji> <type>(scope): description courte
 ```
 
 Exemples valides :
+
 - ✨ feat(statuts): Article 31 redistribution équitable
 - 🔧 fix(synthese): Corriger total budget
 - 📋 docs(readme): Guide complet de lecture
